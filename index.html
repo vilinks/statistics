@@ -1,0 +1,212 @@
+<!doctype html>
+<html lang="ru">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta
+      name="description"
+      content="James Statistics — публичная статистика агентства"
+    />
+    <meta name="theme-color" content="#0d120f" />
+    <title>James Statistics</title>
+    <link rel="stylesheet" href="./styles.css" />
+    <script defer src="./app.js"></script>
+  </head>
+  <body>
+    <div class="ambient ambient-one"></div>
+    <div class="ambient ambient-two"></div>
+    <main class="page-shell">
+      <header class="site-header">
+        <a class="brand" href="./" aria-label="James Statistics">
+          <span class="brand-mark" aria-hidden="true">J</span>
+          <span>
+            <strong>James Statistics</strong>
+            <small id="agencyName">Публичная аналитика</small>
+          </span>
+        </a>
+        <div class="freshness">
+          <span class="live-dot" aria-hidden="true"></span>
+          <span id="publishedAt">Загружаю данные…</span>
+        </div>
+      </header>
+
+      <section class="hero">
+        <div>
+          <span class="eyebrow">Public dashboard</span>
+          <h1>Статистика без лишнего шума</h1>
+          <p>
+            Актуальные приходы, подписки и клики из James. Данные доступны
+            только для чтения и обновляются из desktop-приложения.
+          </p>
+        </div>
+        <div class="hero-status">
+          <small>Данные по</small>
+          <strong id="dataThrough">—</strong>
+          <span id="dataFreshness">Ожидаю первый снимок</span>
+        </div>
+      </section>
+
+      <section class="toolbar" aria-label="Фильтры статистики">
+        <div id="rangeControl" class="segmented-control">
+          <button type="button" data-range="7">7 дней</button>
+          <button class="is-active" type="button" data-range="30">
+            30 дней
+          </button>
+          <button type="button" data-range="90">90 дней</button>
+          <button type="button" data-range="all">Всё время</button>
+        </div>
+        <label>
+          <span>Модель</span>
+          <select id="modelFilter">
+            <option value="all">Все модели</option>
+          </select>
+        </label>
+        <label>
+          <span>Площадка</span>
+          <select id="platformFilter">
+            <option value="all">Все площадки</option>
+            <option value="onlyfans">OnlyFans</option>
+            <option value="fansly">Fansly</option>
+          </select>
+        </label>
+      </section>
+
+      <section id="loadingState" class="empty-state">
+        <span class="loader" aria-hidden="true"></span>
+        <h2>Загружаю статистику</h2>
+        <p>Это займёт несколько секунд.</p>
+      </section>
+
+      <section id="errorState" class="empty-state error-state" hidden>
+        <span aria-hidden="true">!</span>
+        <h2>Статистика пока недоступна</h2>
+        <p id="errorMessage">Попробуйте обновить страницу чуть позже.</p>
+      </section>
+
+      <div id="dashboard" hidden>
+        <section class="metric-grid" aria-label="Ключевые показатели">
+          <article class="metric-card metric-arrivals">
+            <small>Приходы</small>
+            <strong id="arrivalsMetric">0</strong>
+            <span id="arrivalsMeta">за выбранный период</span>
+          </article>
+          <article class="metric-card metric-paid">
+            <small>Платные подписки</small>
+            <strong id="paidMetric">0</strong>
+            <span id="paidMeta">за выбранный период</span>
+          </article>
+          <article class="metric-card metric-views">
+            <small>Просмотры ссылок</small>
+            <strong id="viewsMetric">0</strong>
+            <span id="viewsMeta">за выбранный период</span>
+          </article>
+          <article class="metric-card metric-clicks">
+            <small>Клики</small>
+            <strong id="clicksMetric">0</strong>
+            <span id="conversionMetric">Конверсия 0%</span>
+          </article>
+          <article id="earningsCard" class="metric-card metric-earnings" hidden>
+            <small>Заработано</small>
+            <strong id="earningsMetric">$0</strong>
+            <span>за выбранный период</span>
+          </article>
+          <article id="messagesCard" class="metric-card metric-messages" hidden>
+            <small>Неотвеченные</small>
+            <strong id="messagesMetric">0</strong>
+            <span>последнее значение</span>
+          </article>
+        </section>
+
+        <section class="chart-grid">
+          <article class="chart-card chart-card-wide">
+            <div class="section-heading">
+              <div>
+                <span class="eyebrow">Динамика</span>
+                <h2>Приходы и платные подписки</h2>
+              </div>
+              <div class="chart-legend">
+                <span><i class="legend-arrivals"></i>Приходы</span>
+                <span><i class="legend-paid"></i>Платные</span>
+              </div>
+            </div>
+            <div id="growthChart" class="chart" role="img"></div>
+          </article>
+
+          <article class="chart-card">
+            <div class="section-heading">
+              <div>
+                <span class="eyebrow">Трафик</span>
+                <h2>Просмотры и клики</h2>
+              </div>
+            </div>
+            <div id="clicksChart" class="chart chart-compact" role="img"></div>
+          </article>
+
+          <article class="chart-card">
+            <div class="section-heading">
+              <div>
+                <span class="eyebrow">Источники</span>
+                <h2>Лучшие приходы</h2>
+              </div>
+            </div>
+            <div id="sourcesList" class="rank-list"></div>
+          </article>
+        </section>
+
+        <section class="table-card">
+          <div class="section-heading">
+            <div>
+              <span class="eyebrow">Страницы</span>
+              <h2>Статистика моделей</h2>
+            </div>
+            <span id="pageCount" class="soft-badge">0 страниц</span>
+          </div>
+          <div class="table-scroll">
+            <table>
+              <thead>
+                <tr>
+                  <th>Модель · страница</th>
+                  <th>Площадка</th>
+                  <th>Приходы</th>
+                  <th>Платные</th>
+                  <th>Данные по</th>
+                </tr>
+              </thead>
+              <tbody id="pagesTable"></tbody>
+            </table>
+          </div>
+        </section>
+
+        <section class="table-card">
+          <div class="section-heading">
+            <div>
+              <span class="eyebrow">Ссылки</span>
+              <h2>Клики и конверсия</h2>
+            </div>
+            <span id="linkCount" class="soft-badge">0 ссылок</span>
+          </div>
+          <div class="table-scroll">
+            <table>
+              <thead>
+                <tr>
+                  <th>Ссылка</th>
+                  <th>Просмотры</th>
+                  <th>Клики</th>
+                  <th>OnlyFans</th>
+                  <th>Fansly</th>
+                  <th>Конверсия</th>
+                </tr>
+              </thead>
+              <tbody id="linksTable"></tbody>
+            </table>
+          </div>
+        </section>
+      </div>
+
+      <footer>
+        <span>James Statistics</span>
+        <span>Автоматически опубликовано из James</span>
+      </footer>
+    </main>
+  </body>
+</html>
