@@ -1,0 +1,399 @@
+<!doctype html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="robots" content="noindex,nofollow">
+  <meta name="referrer" content="no-referrer">
+  <meta http-equiv="Content-Security-Policy" content="default-src 'none'; script-src 'unsafe-inline'; style-src 'unsafe-inline'; img-src data:; connect-src 'none'; font-src 'none'; object-src 'none'; base-uri 'none'; form-action 'none'">
+  <title>Реддит Sined · Статистика приходов</title>
+  <style>
+  :root{color-scheme:dark;--bg:#0f1210;--surface:#171b18;--surface-2:#1d221e;--line:#2a302b;--text:#eef4ef;--muted:#8d9990;--green:#66e3a4;--radius:16px;font-family:Inter,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif}
+  *{box-sizing:border-box}body{margin:0;background:radial-gradient(circle at 15% -10%,#243328 0,transparent 34%),var(--bg);color:var(--text)}button,input,a{font:inherit}.shell{width:min(1180px,calc(100% - 32px));margin:0 auto;padding:38px 0 64px}
+  .eyebrow{color:var(--green);font-size:11px;font-weight:800;letter-spacing:.16em;text-transform:uppercase}.heading{display:flex;align-items:flex-end;justify-content:space-between;gap:24px;margin-bottom:26px}.heading h1{max-width:740px;margin:8px 0 9px;font-size:clamp(28px,4vw,46px);line-height:1.05}.muted{color:var(--muted);font-size:12px}.range-controls,.custom-range,.series-filters{display:flex;align-items:center;flex-wrap:wrap;gap:8px}
+  .heading-actions{display:grid;justify-items:end;gap:10px}.manage-link{min-height:40px;display:inline-flex;align-items:center;padding:0 16px;border:1px solid rgba(102,227,164,.55);border-radius:10px;background:rgba(102,227,164,.1);color:var(--text);font-size:11px;font-weight:750;text-decoration:none}.manage-link:hover{background:rgba(102,227,164,.16)}
+  .range-controls{justify-content:flex-end}.range-controls button,.custom-range button{min-height:38px;padding:0 15px;border:1px solid var(--line);border-radius:10px;background:var(--surface);color:var(--muted);cursor:pointer}.range-controls button.active{border-color:var(--green);background:rgba(102,227,164,.1);color:var(--text)}.custom-range{justify-content:flex-end;margin:-12px 0 18px}.custom-range[hidden]{display:none}.custom-range label{display:flex;align-items:center;gap:8px;color:var(--muted);font-size:11px}.custom-range input{height:38px;border:1px solid var(--line);border-radius:10px;background:var(--surface);color:var(--text);padding:0 10px}
+  .metric-grid{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:14px}.metric{padding:20px;border:1px solid var(--line);border-radius:var(--radius);background:linear-gradient(145deg,rgba(102,227,164,.08),transparent 55%),var(--surface)}.metric span,.metric small{display:block;color:var(--muted);font-size:11px}.metric strong{display:block;margin:10px 0 7px;font-size:clamp(26px,3vw,36px)}
+  .card{margin-top:16px;padding:20px;border:1px solid var(--line);border-radius:var(--radius);background:var(--surface)}.card-heading{display:flex;align-items:flex-start;justify-content:space-between;gap:18px;margin-bottom:16px}.card-heading h2{margin:0 0 5px;font-size:18px}.series-filters{margin-bottom:12px}.series-filter{--series-color:var(--green);display:flex;align-items:center;gap:8px;max-width:310px;padding:8px 10px;border:1px solid var(--line);border-radius:9px;background:var(--surface-2);font-size:11px;cursor:pointer}.series-filter:before{width:8px;height:8px;border-radius:50%;background:var(--series-color);content:""}.series-filter span{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.series-filter input{accent-color:var(--series-color)}
+  #chart{position:relative;min-height:310px}#chart svg{width:100%;height:310px;overflow:visible}.grid-line{stroke:#2a302b;stroke-width:1}.axis-label{fill:#7d8880;font-size:10px}.chart-line{fill:none;stroke-width:2.4;stroke-linecap:round;stroke-linejoin:round;vector-effect:non-scaling-stroke}.chart-crosshair{stroke:rgba(238,244,239,.45);stroke-width:1;stroke-dasharray:4 4;vector-effect:non-scaling-stroke}.chart-hover-dot{stroke:var(--surface);stroke-width:2;vector-effect:non-scaling-stroke}.chart-hit-area{fill:transparent;cursor:crosshair;touch-action:pan-y}.chart-tooltip{position:absolute;z-index:2;min-width:190px;max-width:290px;padding:11px;border:1px solid #374039;border-radius:10px;background:rgba(15,18,16,.96);box-shadow:0 12px 34px rgba(0,0,0,.32);pointer-events:none}.chart-tooltip>strong{display:block;margin-bottom:8px;font-size:11px}.chart-tooltip-rows{display:grid;gap:6px}.chart-tooltip-rows>span{display:grid;grid-template-columns:8px minmax(0,1fr) auto;align-items:center;gap:7px;font-size:10px}.chart-tooltip-rows i{width:8px;height:8px;border-radius:50%}.chart-tooltip-rows span{overflow:hidden;color:var(--muted);text-overflow:ellipsis;white-space:nowrap}.chart-tooltip-rows b{font-variant-numeric:tabular-nums}.chart-empty{min-height:300px;display:grid;place-items:center;color:var(--muted)}
+  .link-cards{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:10px}.link-card{--series-color:var(--green);display:flex;align-items:center;justify-content:space-between;gap:16px;padding:14px 15px;border:1px solid var(--line);border-left:3px solid var(--series-color);border-radius:11px;background:var(--surface-2)}.link-card>div:first-child{min-width:0}.link-card strong,.link-card small{display:block}.link-card strong{font-size:12px}.link-card small{margin-top:5px;color:var(--muted);font-size:10px}.link-card .settlement-meta{margin-top:8px;color:#b7c2b9}.link-card-values{display:grid;grid-template-columns:repeat(2,minmax(72px,auto));gap:12px 18px;text-align:right}.link-card-values b,.link-card-values small{display:block}.link-card-values b{font-size:17px}.link-card-values small{margin-top:2px}
+  .table-wrap{overflow:auto}table{width:100%;border-collapse:collapse;font-size:11px}th,td{padding:12px 10px;border-bottom:1px solid var(--line);text-align:left;white-space:nowrap}th{color:var(--muted);font-size:9px;letter-spacing:.08em;text-transform:uppercase}.number{text-align:right;font-variant-numeric:tabular-nums}
+  @media(max-width:960px){.metric-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
+  @media(max-width:760px){.shell{width:min(100% - 20px,1180px);padding-top:24px}.heading{align-items:flex-start;flex-direction:column}.heading-actions{justify-items:start}.range-controls{justify-content:flex-start}.metric-grid,.link-cards{grid-template-columns:1fr}.card{padding:15px}.card-heading{flex-direction:column}.link-card{align-items:flex-start;flex-direction:column}.link-card-values{width:100%;text-align:left}#chart,#chart svg{min-height:250px;height:250px}}
+</style>
+</head>
+<body>
+  <main class="shell">
+    <header class="heading">
+      <div><span class="eyebrow">Публичная статистика</span><h1 id="reportName"></h1><span id="generatedAt" class="muted"></span></div>
+      <div class="heading-actions">
+        <a class="manage-link" href="https://james-online-app.zendard78.chatgpt.site/?tab=sharedReports&amp;report=4" target="_blank" rel="noopener noreferrer">Открыть расчёт в James</a>
+        <div class="range-controls" aria-label="Период">
+          <button type="button" data-range="7">7 дней</button>
+          <button class="active" type="button" data-range="30">30 дней</button>
+          <button type="button" data-range="90">90 дней</button>
+          <button type="button" data-range="all">Всё время</button>
+          <button type="button" data-range="custom">Период</button>
+        </div>
+      </div>
+    </header>
+    <div id="customRange" class="custom-range" hidden><label>С даты <input id="dateFrom" type="date"></label><label>По дату <input id="dateTo" type="date"></label><button id="applyRange" type="button">Применить</button></div>
+    <section class="metric-grid">
+      <article class="metric"><span>Пришло за выбранный период</span><strong id="periodTotal">0</strong><small id="rangeLabel"></small></article>
+      <article class="metric"><span>Всего пришло по ссылкам за всё время</span><strong id="allTimeTotal">0</strong><small>6 ссылок в отчёте</small></article>
+      <article class="metric"><span>Пришло после последнего расчёта</span><strong id="dueSubscribersTotal">0</strong><small>По ссылкам с заданной ставкой</small></article>
+      <article class="metric"><span>К расчёту сейчас</span><strong id="dueAmountTotal">$0</strong><small>Сумма в долларах США</small></article>
+    </section>
+    <section class="card"><div class="card-heading"><div><h2>Приходы по ссылкам</h2><span class="muted">Выберите одну или несколько ссылок для сравнения.</span></div></div><div id="seriesFilters" class="series-filters"></div><div id="chart" role="img" aria-label="График приходов по ссылкам"></div></section>
+    <section class="card"><div class="card-heading"><div><h2>Итоги по каждой ссылке</h2><span class="muted">За выбранный период и за всё время.</span></div></div><div id="linkCards" class="link-cards"></div></section>
+    <section class="card"><div class="card-heading"><div><h2>Все ссылки</h2><span class="muted">Сортировка по числу приходов за период.</span></div></div><div class="table-wrap"><table><thead><tr><th>Ссылка</th><th>Модель</th><th>Площадка</th><th class="number">За период</th><th class="number">За всё время</th><th class="number">Ставка</th><th class="number">После расчёта</th><th class="number">К выплате</th></tr></thead><tbody id="reportRows"></tbody></table></div></section>
+  </main>
+  <script id="report-data" type="application/json">{"schemaVersion":2,"name":"Реддит Sined","generatedAt":"2026-07-29T05:50:06.362Z","managementUrl":"https://james-online-app.zendard78.chatgpt.site/?tab=sharedReports&report=4","series":[{"id":"c42627c9-34d9-4897-bea7-6b81f7893067:реддит sined","modelId":"legacy-model","modelName":"Юля @lilyuliaxo","pageId":"c42627c9-34d9-4897-bea7-6b81f7893067","pageName":"Юля OF @lilyuliaxo","platform":"onlyfans","label":"Юля @lilyuliaxo · Юля OF @lilyuliaxo · Реддит Sined","color":"#66e3a4","values":[{"date":"2026-07-15","value":0},{"date":"2026-07-16","value":0},{"date":"2026-07-17","value":34},{"date":"2026-07-18","value":0},{"date":"2026-07-19","value":0},{"date":"2026-07-20","value":0},{"date":"2026-07-21","value":0},{"date":"2026-07-22","value":0},{"date":"2026-07-23","value":0},{"date":"2026-07-24","value":0},{"date":"2026-07-25","value":0},{"date":"2026-07-26","value":0},{"date":"2026-07-27","value":0},{"date":"2026-07-28","value":0},{"date":"2026-07-29","value":0}],"total":1532,"payout":{"rate":0,"settledTotal":0,"settledAt":"","dueSubscribers":1532,"dueAmount":0}},{"id":"c42627c9-34d9-4897-bea7-6b81f7893067:реддит 2 sined","modelId":"legacy-model","modelName":"Юля @lilyuliaxo","pageId":"c42627c9-34d9-4897-bea7-6b81f7893067","pageName":"Юля OF @lilyuliaxo","platform":"onlyfans","label":"Юля @lilyuliaxo · Юля OF @lilyuliaxo · Реддит 2 Sined","color":"#72a7ff","values":[{"date":"2026-07-15","value":0},{"date":"2026-07-16","value":2},{"date":"2026-07-17","value":0},{"date":"2026-07-18","value":2},{"date":"2026-07-19","value":2},{"date":"2026-07-20","value":8},{"date":"2026-07-21","value":0},{"date":"2026-07-22","value":6},{"date":"2026-07-23","value":2},{"date":"2026-07-24","value":2},{"date":"2026-07-25","value":2},{"date":"2026-07-26","value":0},{"date":"2026-07-27","value":6},{"date":"2026-07-28","value":0},{"date":"2026-07-29","value":0}],"total":218,"payout":{"rate":0,"settledTotal":0,"settledAt":"","dueSubscribers":218,"dueAmount":0}},{"id":"c42627c9-34d9-4897-bea7-6b81f7893067:реддит sined 3","modelId":"legacy-model","modelName":"Юля @lilyuliaxo","pageId":"c42627c9-34d9-4897-bea7-6b81f7893067","pageName":"Юля OF @lilyuliaxo","platform":"onlyfans","label":"Юля @lilyuliaxo · Юля OF @lilyuliaxo · реддит Sined 3","color":"#ffb75e","values":[{"date":"2026-07-15","value":0},{"date":"2026-07-16","value":0},{"date":"2026-07-17","value":0},{"date":"2026-07-18","value":0},{"date":"2026-07-19","value":0},{"date":"2026-07-20","value":0},{"date":"2026-07-21","value":0},{"date":"2026-07-22","value":0},{"date":"2026-07-23","value":0},{"date":"2026-07-24","value":0},{"date":"2026-07-25","value":0},{"date":"2026-07-26","value":0},{"date":"2026-07-27","value":0},{"date":"2026-07-28","value":0},{"date":"2026-07-29","value":0}],"total":83,"payout":{"rate":0,"settledTotal":0,"settledAt":"","dueSubscribers":83,"dueAmount":0}},{"id":"2d5bf880-a319-4a29-910c-f098aff624c8:редит","modelId":"d812967b-5958-4e87-91bc-6abe7b63122e","modelName":"Кейт @bamby_eyes_vip","pageId":"2d5bf880-a319-4a29-910c-f098aff624c8","pageName":"Кейт OF @bamby_eyes_vip","platform":"onlyfans","label":"Кейт @bamby_eyes_vip · Кейт OF @bamby_eyes_vip · РЕДИТ","color":"#f184ff","values":[{"date":"2026-07-15","value":0},{"date":"2026-07-16","value":0},{"date":"2026-07-17","value":0},{"date":"2026-07-18","value":1},{"date":"2026-07-19","value":0},{"date":"2026-07-20","value":4},{"date":"2026-07-21","value":0},{"date":"2026-07-22","value":0},{"date":"2026-07-23","value":0},{"date":"2026-07-24","value":0},{"date":"2026-07-25","value":0},{"date":"2026-07-26","value":0},{"date":"2026-07-27","value":2},{"date":"2026-07-28","value":0},{"date":"2026-07-29","value":0}],"total":141,"payout":{"rate":0,"settledTotal":0,"settledAt":"","dueSubscribers":141,"dueAmount":0}},{"id":"5571b879-e197-4fa4-8a8e-0ea846f3043e:реддит","modelId":"cf2edc68-147a-4d9d-b8b1-5f0ba461cb7d","modelName":"Настя @Nitosha","pageId":"5571b879-e197-4fa4-8a8e-0ea846f3043e","pageName":"Настя F @Nitosha","platform":"fansly","label":"Настя @Nitosha · Настя F @Nitosha · Реддит","color":"#65d9e8","values":[{"date":"2026-07-15","value":0},{"date":"2026-07-16","value":1},{"date":"2026-07-17","value":0},{"date":"2026-07-18","value":1},{"date":"2026-07-19","value":1},{"date":"2026-07-20","value":0},{"date":"2026-07-21","value":0},{"date":"2026-07-22","value":1},{"date":"2026-07-23","value":0},{"date":"2026-07-24","value":0},{"date":"2026-07-25","value":0},{"date":"2026-07-26","value":1},{"date":"2026-07-27","value":0},{"date":"2026-07-28","value":0},{"date":"2026-07-29","value":0}],"total":35,"payout":{"rate":0,"settledTotal":0,"settledAt":"","dueSubscribers":35,"dueAmount":0}},{"id":"5571b879-e197-4fa4-8a8e-0ea846f3043e:реддит sined 2","modelId":"cf2edc68-147a-4d9d-b8b1-5f0ba461cb7d","modelName":"Настя @Nitosha","pageId":"5571b879-e197-4fa4-8a8e-0ea846f3043e","pageName":"Настя F @Nitosha","platform":"fansly","label":"Настя @Nitosha · Настя F @Nitosha · Реддит Sined 2","color":"#ff7e76","values":[{"date":"2026-07-15","value":0},{"date":"2026-07-16","value":0},{"date":"2026-07-17","value":0},{"date":"2026-07-18","value":0},{"date":"2026-07-19","value":0},{"date":"2026-07-20","value":0},{"date":"2026-07-21","value":0},{"date":"2026-07-22","value":0},{"date":"2026-07-23","value":0},{"date":"2026-07-24","value":0},{"date":"2026-07-25","value":0},{"date":"2026-07-26","value":0},{"date":"2026-07-27","value":0},{"date":"2026-07-28","value":0},{"date":"2026-07-29","value":0}],"total":15,"payout":{"rate":0,"settledTotal":0,"settledAt":"","dueSubscribers":15,"dueAmount":0}}]}</script>
+  <script>(function publicReportApp() {
+  const report = JSON.parse(document.querySelector("#report-data").textContent);
+  const selected = new Set(report.series.map((item) => item.id));
+  const allDates = report.series.flatMap((item) => item.values.map((entry) => entry.date)).sort();
+  const lastDate = allDates.at(-1) || new Date().toISOString().slice(0, 10);
+  const firstDate = allDates[0] || lastDate;
+  let rangeMode = "30";
+
+  const $ = (selector) => document.querySelector(selector);
+  const formatNumber = (value) => new Intl.NumberFormat("ru-RU").format(Number(value) || 0);
+  const formatCurrency = (value) => new Intl.NumberFormat("ru-RU", {
+    style: "currency",
+    currency: "USD",
+    minimumFractionDigits: 2,
+    maximumFractionDigits: 2
+  }).format(Number(value) || 0);
+  const formatDate = (value, includeYear = true) => new Intl.DateTimeFormat("ru-RU", {
+    day: "2-digit",
+    month: "short",
+    ...(includeYear ? { year: "numeric" } : {})
+  }).format(new Date(value + "T12:00:00"));
+  const formatTimestamp = (value) => value
+    ? new Intl.DateTimeFormat("ru-RU", {
+        dateStyle: "medium",
+        timeStyle: "short"
+      }).format(new Date(value))
+    : "Расчётов ещё не было";
+  const addDays = (value, amount) => {
+    const date = new Date(value + "T12:00:00");
+    date.setDate(date.getDate() + amount);
+    return date.toISOString().slice(0, 10);
+  };
+  const forms = (value) => {
+    const number = Math.abs(Number(value)) % 100;
+    const last = number % 10;
+    return number > 10 && number < 20 ? "фанов" : last === 1 ? "фан" : last > 1 && last < 5 ? "фана" : "фанов";
+  };
+
+  function activeRange() {
+    if (rangeMode === "all") return { from: firstDate, to: lastDate };
+    if (rangeMode === "custom") return { from: $("#dateFrom").value, to: $("#dateTo").value };
+    return { from: addDays(lastDate, -(Number(rangeMode) - 1)), to: lastDate };
+  }
+
+  function valuesInRange(item, range) {
+    return item.values.filter((entry) => entry.date >= range.from && entry.date <= range.to);
+  }
+
+  function totalInRange(item, range) {
+    return valuesInRange(item, range).reduce((sum, entry) => sum + entry.value, 0);
+  }
+
+  function renderFilters() {
+    const fragment = document.createDocumentFragment();
+    report.series.forEach((item) => {
+      const label = document.createElement("label");
+      label.className = "series-filter";
+      label.style.setProperty("--series-color", item.color);
+      const input = document.createElement("input");
+      input.type = "checkbox";
+      input.checked = selected.has(item.id);
+      input.addEventListener("change", () => {
+        if (input.checked) selected.add(item.id); else selected.delete(item.id);
+        render();
+      });
+      const copy = document.createElement("span");
+      copy.textContent = item.label;
+      label.append(input, copy);
+      fragment.append(label);
+    });
+    $("#seriesFilters").replaceChildren(fragment);
+  }
+
+  function renderChart(range) {
+    const series = report.series.filter((item) => selected.has(item.id)).map((item) => ({
+      ...item,
+      values: valuesInRange(item, range)
+    }));
+    const points = series.flatMap((item) => item.values);
+    if (!points.length) {
+      const empty = document.createElement("div");
+      empty.className = "chart-empty";
+      empty.textContent = "Нет данных для выбранного периода";
+      $("#chart").replaceChildren(empty);
+      return;
+    }
+    const ns = "http://www.w3.org/2000/svg";
+    const svg = document.createElementNS(ns, "svg");
+    svg.setAttribute("viewBox", "0 0 920 300");
+    svg.setAttribute("preserveAspectRatio", "none");
+    const left = 50;
+    const right = 14;
+    const top = 16;
+    const bottom = 34;
+    const width = 920 - left - right;
+    const height = 300 - top - bottom;
+    const start = new Date(range.from + "T00:00:00Z").getTime();
+    const end = new Date(range.to + "T00:00:00Z").getTime();
+    const span = Math.max(86400000, end - start);
+    const maximum = Math.max(1, ...points.map((entry) => Number(entry.value) || 0));
+    const x = (date) => left + ((new Date(date + "T00:00:00Z").getTime() - start) / span) * width;
+    const y = (value) => top + height - (Number(value) / maximum) * height;
+
+    for (let index = 0; index <= 4; index += 1) {
+      const ratio = index / 4;
+      const gridY = top + ratio * height;
+      const line = document.createElementNS(ns, "line");
+      line.setAttribute("x1", left);
+      line.setAttribute("x2", left + width);
+      line.setAttribute("y1", gridY);
+      line.setAttribute("y2", gridY);
+      line.setAttribute("class", "grid-line");
+      const label = document.createElementNS(ns, "text");
+      label.setAttribute("x", left - 8);
+      label.setAttribute("y", gridY + 4);
+      label.setAttribute("text-anchor", "end");
+      label.setAttribute("class", "axis-label");
+      label.textContent = formatNumber(Math.round(maximum * (1 - ratio)));
+      svg.append(line, label);
+    }
+    for (let index = 0; index <= 4; index += 1) {
+      const ratio = index / 4;
+      const date = new Date(start + (end - start) * ratio).toISOString().slice(0, 10);
+      const label = document.createElementNS(ns, "text");
+      label.setAttribute("x", left + width * ratio);
+      label.setAttribute("y", 292);
+      label.setAttribute("text-anchor", index === 0 ? "start" : index === 4 ? "end" : "middle");
+      label.setAttribute("class", "axis-label");
+      label.textContent = formatDate(date, false);
+      svg.append(label);
+    }
+    series.forEach((item) => {
+      if (!item.values.length) return;
+      const path = document.createElementNS(ns, "path");
+      path.setAttribute("d", item.values.map((entry, index) => (index ? "L" : "M") + x(entry.date).toFixed(2) + "," + y(entry.value).toFixed(2)).join(" "));
+      path.setAttribute("class", "chart-line");
+      path.setAttribute("stroke", item.color);
+      svg.append(path);
+      const dotStep = Math.max(1, Math.ceil(item.values.length / 70));
+      item.values.forEach((entry, index) => {
+        if (index % dotStep && index !== item.values.length - 1) return;
+        const dot = document.createElementNS(ns, "circle");
+        dot.setAttribute("cx", x(entry.date));
+        dot.setAttribute("cy", y(entry.value));
+        dot.setAttribute("r", 3);
+        dot.setAttribute("fill", item.color);
+        const title = document.createElementNS(ns, "title");
+        title.textContent = item.label + " · " + formatDate(entry.date) + " · " + formatNumber(entry.value) + " " + forms(entry.value);
+        dot.append(title);
+        svg.append(dot);
+      });
+    });
+    const crosshair = document.createElementNS(ns, "line");
+    crosshair.setAttribute("y1", top);
+    crosshair.setAttribute("y2", top + height);
+    crosshair.setAttribute("class", "chart-crosshair");
+    crosshair.style.display = "none";
+    svg.append(crosshair);
+
+    const hoverDots = series.map((item) => {
+      const dot = document.createElementNS(ns, "circle");
+      dot.setAttribute("r", 4.5);
+      dot.setAttribute("fill", item.color);
+      dot.setAttribute("class", "chart-hover-dot");
+      dot.style.display = "none";
+      svg.append(dot);
+      return { item, dot };
+    });
+    const hitArea = document.createElementNS(ns, "rect");
+    hitArea.setAttribute("x", left);
+    hitArea.setAttribute("y", top);
+    hitArea.setAttribute("width", width);
+    hitArea.setAttribute("height", height);
+    hitArea.setAttribute("class", "chart-hit-area");
+    svg.append(hitArea);
+
+    const tooltip = document.createElement("div");
+    tooltip.className = "chart-tooltip";
+    tooltip.hidden = true;
+    const dates = [...new Set(points.map((entry) => entry.date))].sort();
+    const chart = $("#chart");
+    const hideTooltip = () => {
+      tooltip.hidden = true;
+      crosshair.style.display = "none";
+      hoverDots.forEach(({ dot }) => { dot.style.display = "none"; });
+    };
+    const showTooltip = (event) => {
+      const bounds = svg.getBoundingClientRect();
+      if (!bounds.width || !dates.length) return;
+      const pointerRatio = Math.max(
+        0,
+        Math.min(1, (event.clientX - bounds.left) / bounds.width)
+      );
+      const pointerTime = start + pointerRatio * (end - start);
+      const date = dates.reduce((nearest, candidate) =>
+        Math.abs(new Date(candidate + "T00:00:00Z").getTime() - pointerTime) <
+        Math.abs(new Date(nearest + "T00:00:00Z").getTime() - pointerTime)
+          ? candidate
+          : nearest
+      );
+      const viewX = x(date);
+      crosshair.setAttribute("x1", viewX);
+      crosshair.setAttribute("x2", viewX);
+      crosshair.style.display = "";
+
+      const title = document.createElement("strong");
+      title.textContent = formatDate(date);
+      const rows = document.createElement("div");
+      rows.className = "chart-tooltip-rows";
+      hoverDots.forEach(({ item, dot }) => {
+        const value = item.values.find((entry) => entry.date === date)?.value || 0;
+        dot.setAttribute("cx", viewX);
+        dot.setAttribute("cy", y(value));
+        dot.style.display = "";
+        const row = document.createElement("span");
+        const marker = document.createElement("i");
+        marker.style.background = item.color;
+        const label = document.createElement("span");
+        label.textContent = item.label;
+        const amount = document.createElement("b");
+        amount.textContent = formatNumber(value);
+        row.append(marker, label, amount);
+        rows.append(row);
+      });
+      tooltip.replaceChildren(title, rows);
+      tooltip.hidden = false;
+      const chartBounds = chart.getBoundingClientRect();
+      const desiredLeft = event.clientX - chartBounds.left + 14;
+      const maxLeft = Math.max(8, chartBounds.width - tooltip.offsetWidth - 8);
+      tooltip.style.left = Math.min(maxLeft, Math.max(8, desiredLeft)) + "px";
+      tooltip.style.top = "12px";
+    };
+    hitArea.addEventListener("pointermove", showTooltip);
+    hitArea.addEventListener("pointerleave", hideTooltip);
+    chart.replaceChildren(svg, tooltip);
+  }
+
+  function renderCards(range) {
+    const cards = report.series.map((item) => {
+      const card = document.createElement("article");
+      card.className = "link-card";
+      card.style.setProperty("--series-color", item.color);
+      const heading = document.createElement("div");
+      const label = document.createElement("strong");
+      label.textContent = item.label;
+      const meta = document.createElement("small");
+      meta.textContent = item.modelName + " · " + item.pageName + " · " + (item.platform === "fansly" ? "Fansly" : "OnlyFans");
+      heading.append(label, meta);
+      const values = document.createElement("div");
+      values.className = "link-card-values";
+      const period = document.createElement("span");
+      period.innerHTML = "<b>" + formatNumber(totalInRange(item, range)) + "</b><small>за период</small>";
+      const all = document.createElement("span");
+      all.innerHTML = "<b>" + formatNumber(item.total) + "</b><small>за всё время</small>";
+      values.append(period, all);
+      if (item.payout?.rate > 0) {
+        const sinceSettlement = document.createElement("span");
+        sinceSettlement.innerHTML =
+          "<b>" + formatNumber(item.payout.dueSubscribers) +
+          "</b><small>после расчёта</small>";
+        const due = document.createElement("span");
+        due.innerHTML =
+          "<b>" + formatCurrency(item.payout.dueAmount) +
+          "</b><small>" + formatCurrency(item.payout.rate) +
+          " за подписчика</small>";
+        values.append(sinceSettlement, due);
+        const settlement = document.createElement("small");
+        settlement.className = "settlement-meta";
+        settlement.textContent =
+          "Последний расчёт: " + formatTimestamp(item.payout.settledAt);
+        heading.append(settlement);
+      }
+      card.append(heading, values);
+      return card;
+    });
+    $("#linkCards").replaceChildren(...cards);
+  }
+
+  function renderTable(range) {
+    const rows = [...report.series]
+      .sort((left, right) => totalInRange(right, range) - totalInRange(left, range))
+      .map((item) => {
+        const row = document.createElement("tr");
+        [
+          item.label,
+          item.modelName,
+          item.platform === "fansly" ? "Fansly" : "OnlyFans",
+          formatNumber(totalInRange(item, range)),
+          formatNumber(item.total),
+          item.payout?.rate > 0
+            ? formatCurrency(item.payout.rate)
+            : "—",
+          item.payout?.rate > 0
+            ? formatNumber(item.payout.dueSubscribers)
+            : "—",
+          item.payout?.rate > 0
+            ? formatCurrency(item.payout.dueAmount)
+            : "—"
+        ].forEach((value, index) => {
+          const cell = document.createElement("td");
+          cell.textContent = value;
+          if (index > 2) cell.className = "number";
+          row.append(cell);
+        });
+        return row;
+      });
+    $("#reportRows").replaceChildren(...rows);
+  }
+
+  function render() {
+    const range = activeRange();
+    if (!range.from || !range.to || range.from > range.to) return;
+    const periodTotal = report.series.reduce((sum, item) => sum + totalInRange(item, range), 0);
+    const allTimeTotal = report.series.reduce((sum, item) => sum + item.total, 0);
+    const dueSubscribers = report.series.reduce(
+      (sum, item) => sum + (Number(item.payout?.dueSubscribers) || 0),
+      0
+    );
+    const dueAmount = report.series.reduce(
+      (sum, item) => sum + (Number(item.payout?.dueAmount) || 0),
+      0
+    );
+    $("#periodTotal").textContent = formatNumber(periodTotal);
+    $("#allTimeTotal").textContent = formatNumber(allTimeTotal);
+    $("#dueSubscribersTotal").textContent = formatNumber(dueSubscribers);
+    $("#dueAmountTotal").textContent = formatCurrency(dueAmount);
+    $("#rangeLabel").textContent = formatDate(range.from) + " — " + formatDate(range.to);
+    renderFilters();
+    renderChart(range);
+    renderCards(range);
+    renderTable(range);
+  }
+
+  $("#reportName").textContent = report.name;
+  $("#generatedAt").textContent = "Обновлено " + new Intl.DateTimeFormat("ru-RU", { dateStyle: "medium", timeStyle: "short" }).format(new Date(report.generatedAt));
+  $("#dateFrom").value = firstDate;
+  $("#dateTo").value = lastDate;
+  document.querySelectorAll("[data-range]").forEach((button) => button.addEventListener("click", () => {
+    rangeMode = button.dataset.range;
+    document.querySelectorAll("[data-range]").forEach((item) => item.classList.toggle("active", item === button));
+    $("#customRange").hidden = rangeMode !== "custom";
+    if (rangeMode !== "custom") render();
+  }));
+  $("#applyRange").addEventListener("click", render);
+  render();
+})();</script>
+</body>
+</html>
