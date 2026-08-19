@@ -4,8 +4,8 @@
     "title": "James Statistics",
     "agencyName": "Virgin 67 (six seven) Agency"
   },
-  "publishedAt": "2026-08-19T22:00:46.651Z",
-  "dataGeneratedAt": "2026-08-19T18:01:20.102Z",
+  "publishedAt": "2026-08-19T23:01:50.740Z",
+  "dataGeneratedAt": "2026-08-19T22:45:01.256Z",
   "range": {
     "from": "2025-08-15",
     "to": "2026-08-19"
@@ -656,7 +656,7 @@
         {
           "date": "2026-08-19",
           "arrivals": 11,
-          "paidSubscriptions": 1,
+          "paidSubscriptions": 2,
           "arrivalSources": [
             {
               "label": "Реддит 2 Sined",
@@ -687,7 +687,7 @@
               "value": 1
             }
           ],
-          "earnings": 200,
+          "earnings": 331.12,
           "unansweredMessages": null
         }
       ]
@@ -1577,7 +1577,7 @@
       "platform": "onlyfans",
       "username": "bamby_eyes_vip",
       "dataFrom": "2026-07-28",
-      "dataThrough": "2026-08-18",
+      "dataThrough": "2026-08-19",
       "stale": true,
       "series": [
         {
@@ -1883,6 +1883,31 @@
             },
             {
               "label": "GG @averymayy 25.11.25",
+              "value": 1
+            },
+            {
+              "label": "Adult Forums 01.10.25",
+              "value": 1
+            }
+          ],
+          "earnings": 0,
+          "unansweredMessages": null
+        },
+        {
+          "date": "2026-08-19",
+          "arrivals": 5,
+          "paidSubscriptions": 0,
+          "arrivalSources": [
+            {
+              "label": "GG @averymayy 25.11.25",
+              "value": 2
+            },
+            {
+              "label": "GG SFS",
+              "value": 1
+            },
+            {
+              "label": "Органика твиттер без обнаженки",
               "value": 1
             },
             {
