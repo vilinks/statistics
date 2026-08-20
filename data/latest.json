@@ -4,8 +4,8 @@
     "title": "James Statistics",
     "agencyName": "Virgin 67 (six seven) Agency"
   },
-  "publishedAt": "2026-08-20T03:05:47.987Z",
-  "dataGeneratedAt": "2026-08-19T23:04:26.693Z",
+  "publishedAt": "2026-08-20T04:06:50.703Z",
+  "dataGeneratedAt": "2026-08-20T03:58:12.451Z",
   "range": {
     "from": "2025-08-16",
     "to": "2026-08-20"
@@ -655,35 +655,23 @@
         },
         {
           "date": "2026-08-19",
-          "arrivals": 11,
+          "arrivals": 6,
           "paidSubscriptions": 2,
           "arrivalSources": [
-            {
-              "label": "Реддит 2 Sined",
-              "value": 4
-            },
             {
               "label": "fikfap",
               "value": 2
             },
             {
-              "label": "X1 @pretty_uma1",
-              "value": 1
-            },
-            {
-              "label": "GG SFS",
-              "value": 1
+              "label": "TicPorn",
+              "value": 2
             },
             {
               "label": "Порнпикс",
               "value": 1
             },
             {
-              "label": "Хамстер",
-              "value": 1
-            },
-            {
-              "label": "ИксФлоу",
+              "label": "Редгифс",
               "value": 1
             }
           ],
@@ -1895,20 +1883,12 @@
         },
         {
           "date": "2026-08-19",
-          "arrivals": 5,
+          "arrivals": 4,
           "paidSubscriptions": 0,
           "arrivalSources": [
             {
               "label": "GG @averymayy 25.11.25",
-              "value": 2
-            },
-            {
-              "label": "GG SFS",
-              "value": 1
-            },
-            {
-              "label": "Органика твиттер без обнаженки",
-              "value": 1
+              "value": 3
             },
             {
               "label": "Adult Forums 01.10.25",
