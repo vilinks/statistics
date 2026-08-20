@@ -4,8 +4,8 @@
     "title": "James Statistics",
     "agencyName": "Virgin 67 (six seven) Agency"
   },
-  "publishedAt": "2026-08-20T18:16:34.642Z",
-  "dataGeneratedAt": "2026-08-20T16:00:54.581Z",
+  "publishedAt": "2026-08-20T19:17:32.573Z",
+  "dataGeneratedAt": "2026-08-20T19:03:31.369Z",
   "range": {
     "from": "2025-08-16",
     "to": "2026-08-20"
@@ -22,7 +22,7 @@
       "platform": "onlyfans",
       "username": "lilyuliaxo",
       "dataFrom": "2026-07-28",
-      "dataThrough": "2026-08-19",
+      "dataThrough": "2026-08-20",
       "stale": true,
       "series": [
         {
@@ -681,6 +681,35 @@
           ],
           "earnings": 339.12,
           "unansweredMessages": null
+        },
+        {
+          "date": "2026-08-20",
+          "arrivals": 7,
+          "paidSubscriptions": 1,
+          "arrivalSources": [
+            {
+              "label": "fikfap",
+              "value": 2
+            },
+            {
+              "label": "TicPorn",
+              "value": 2
+            },
+            {
+              "label": "Реддит 2 Sined",
+              "value": 1
+            },
+            {
+              "label": "Порнпикс",
+              "value": 1
+            },
+            {
+              "label": "Редгифс",
+              "value": 1
+            }
+          ],
+          "earnings": 72,
+          "unansweredMessages": null
         }
       ]
     },
@@ -1313,7 +1342,7 @@
         {
           "date": "2026-08-20",
           "arrivals": 70,
-          "paidSubscriptions": 0,
+          "paidSubscriptions": 1,
           "arrivalSources": [
             {
               "label": "Fansly FYP",
@@ -1657,7 +1686,7 @@
       "platform": "onlyfans",
       "username": "bamby_eyes_vip",
       "dataFrom": "2026-07-28",
-      "dataThrough": "2026-08-19",
+      "dataThrough": "2026-08-20",
       "stale": true,
       "series": [
         {
@@ -1975,6 +2004,27 @@
         },
         {
           "date": "2026-08-19",
+          "arrivals": 5,
+          "paidSubscriptions": 0,
+          "arrivalSources": [
+            {
+              "label": "GG @averymayy 25.11.25",
+              "value": 3
+            },
+            {
+              "label": "GG SFS",
+              "value": 1
+            },
+            {
+              "label": "Adult Forums 01.10.25",
+              "value": 1
+            }
+          ],
+          "earnings": 0,
+          "unansweredMessages": null
+        },
+        {
+          "date": "2026-08-20",
           "arrivals": 5,
           "paidSubscriptions": 0,
           "arrivalSources": [
@@ -2438,14 +2488,14 @@
         {
           "date": "2026-08-20",
           "arrivals": 20,
-          "paidSubscriptions": 0,
+          "paidSubscriptions": 2,
           "arrivalSources": [
             {
               "label": "Fansly FYP",
               "value": 20
             }
           ],
-          "earnings": 0,
+          "earnings": 63.2,
           "unansweredMessages": null
         }
       ]
