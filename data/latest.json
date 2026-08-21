@@ -4,8 +4,8 @@
     "title": "James Statistics",
     "agencyName": "Virgin 67 (six seven) Agency"
   },
-  "publishedAt": "2026-08-21T07:27:39.007Z",
-  "dataGeneratedAt": "2026-08-21T07:27:03.241Z",
+  "publishedAt": "2026-08-21T08:28:42.217Z",
+  "dataGeneratedAt": "2026-08-21T07:41:07.884Z",
   "range": {
     "from": "2025-08-17",
     "to": "2026-08-21"
@@ -1378,12 +1378,12 @@
         },
         {
           "date": "2026-08-21",
-          "arrivals": 34,
+          "arrivals": 38,
           "paidSubscriptions": 0,
           "arrivalSources": [
             {
               "label": "Fansly FYP",
-              "value": 33
+              "value": 37
             },
             {
               "label": "Fansly Suggestions",
@@ -2546,12 +2546,12 @@
         },
         {
           "date": "2026-08-21",
-          "arrivals": 17,
+          "arrivals": 18,
           "paidSubscriptions": 0,
           "arrivalSources": [
             {
               "label": "Fansly FYP",
-              "value": 17
+              "value": 18
             }
           ],
           "earnings": 0,
@@ -3721,7 +3721,7 @@
         {
           "date": "2026-08-20",
           "arrivals": 5,
-          "paidSubscriptions": 0,
+          "paidSubscriptions": 1,
           "arrivalSources": [
             {
               "label": "Fansly FYP",
@@ -3733,12 +3733,16 @@
         },
         {
           "date": "2026-08-21",
-          "arrivals": 4,
+          "arrivals": 5,
           "paidSubscriptions": 0,
           "arrivalSources": [
             {
               "label": "Fansly FYP",
               "value": 4
+            },
+            {
+              "label": "Иксфлоу",
+              "value": 1
             }
           ],
           "earnings": 0,
@@ -5063,12 +5067,12 @@
         },
         {
           "date": "2026-08-21",
-          "arrivals": 1,
+          "arrivals": 2,
           "paidSubscriptions": 0,
           "arrivalSources": [
             {
               "label": "Fansly Search",
-              "value": 1
+              "value": 2
             }
           ],
           "earnings": 0,
@@ -5784,12 +5788,12 @@
       {
         "date": "2026-08-21",
         "modelName": "Юля @lilyuliaxo",
-        "views": 70,
-        "totalClicks": 32,
-        "onlyFans": 19,
+        "views": 73,
+        "totalClicks": 33,
+        "onlyFans": 20,
         "fansly": 9,
         "other": 4,
-        "conversion": 45.7
+        "conversion": 45.2
       }
     ],
     "links": [
@@ -5806,9 +5810,9 @@
       {
         "label": "Фикфап",
         "modelName": "Юля @lilyuliaxo",
-        "views": 1793,
-        "totalClicks": 532,
-        "onlyFans": 253,
+        "views": 1794,
+        "totalClicks": 533,
+        "onlyFans": 254,
         "fansly": 188,
         "other": 91,
         "conversion": 29.7
@@ -5836,12 +5840,12 @@
       {
         "label": "Иксфри",
         "modelName": "Юля @lilyuliaxo",
-        "views": 359,
+        "views": 360,
         "totalClicks": 280,
         "onlyFans": 175,
         "fansly": 56,
         "other": 49,
-        "conversion": 78
+        "conversion": 77.8
       },
       {
         "label": "Порнхаб",
@@ -5866,7 +5870,7 @@
       {
         "label": "Порнхаб",
         "modelName": "Юля @lilyuliaxo",
-        "views": 498,
+        "views": 499,
         "totalClicks": 139,
         "onlyFans": 88,
         "fansly": 38,
