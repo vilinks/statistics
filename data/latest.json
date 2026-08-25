@@ -4,8 +4,8 @@
     "title": "James Statistics",
     "agencyName": "Virgin 67 (six seven) Agency"
   },
-  "publishedAt": "2026-08-25T12:00:51.630Z",
-  "dataGeneratedAt": "2026-08-25T11:59:40.667Z",
+  "publishedAt": "2026-08-25T13:01:55.806Z",
+  "dataGeneratedAt": "2026-08-25T12:19:26.083Z",
   "range": {
     "from": "2025-08-21",
     "to": "2026-08-25"
@@ -1569,16 +1569,16 @@
             }
           ],
           "earnings": 285.28,
-          "unansweredMessages": 27
+          "unansweredMessages": 0
         },
         {
           "date": "2026-08-25",
-          "arrivals": 23,
+          "arrivals": 25,
           "paidSubscriptions": 0,
           "arrivalSources": [
             {
               "label": "Fansly FYP",
-              "value": 22
+              "value": 24
             },
             {
               "label": "Юля 6 @viesmasenu77171",
@@ -1945,12 +1945,12 @@
         },
         {
           "date": "2026-08-25",
-          "arrivals": 1,
+          "arrivals": 2,
           "paidSubscriptions": 0,
           "arrivalSources": [
             {
               "label": "Fansly FYP",
-              "value": 1
+              "value": 2
             }
           ],
           "earnings": 0,
@@ -2395,7 +2395,7 @@
               "value": 1
             }
           ],
-          "earnings": 0,
+          "earnings": 7.99,
           "unansweredMessages": null
         }
       ]
@@ -2926,19 +2926,23 @@
             }
           ],
           "earnings": 0,
-          "unansweredMessages": 3
+          "unansweredMessages": 5
         },
         {
           "date": "2026-08-25",
-          "arrivals": 9,
+          "arrivals": 17,
           "paidSubscriptions": 0,
           "arrivalSources": [
             {
               "label": "Fansly FYP",
-              "value": 8
+              "value": 15
             },
             {
               "label": "Fansly Suggestions",
+              "value": 1
+            },
+            {
+              "label": "Fansly Search",
               "value": 1
             }
           ],
@@ -3397,16 +3401,16 @@
             }
           ],
           "earnings": 0,
-          "unansweredMessages": 9
+          "unansweredMessages": 0
         },
         {
           "date": "2026-08-25",
-          "arrivals": 2,
+          "arrivals": 5,
           "paidSubscriptions": 0,
           "arrivalSources": [
             {
               "label": "Fansly FYP",
-              "value": 1
+              "value": 4
             },
             {
               "label": "Порнхаб",
@@ -3862,7 +3866,7 @@
             }
           ],
           "earnings": 4,
-          "unansweredMessages": 12
+          "unansweredMessages": 0
         },
         {
           "date": "2026-08-25",
@@ -4325,7 +4329,7 @@
             }
           ],
           "earnings": 12.16,
-          "unansweredMessages": 26
+          "unansweredMessages": 1
         },
         {
           "date": "2026-08-25",
@@ -4677,16 +4681,16 @@
           "paidSubscriptions": 0,
           "arrivalSources": [],
           "earnings": 0,
-          "unansweredMessages": 3
+          "unansweredMessages": 4
         },
         {
           "date": "2026-08-25",
-          "arrivals": 1,
+          "arrivals": 2,
           "paidSubscriptions": 0,
           "arrivalSources": [
             {
               "label": "Fansly FYP",
-              "value": 1
+              "value": 2
             }
           ],
           "earnings": 0,
@@ -4747,7 +4751,7 @@
           "arrivals": 0,
           "paidSubscriptions": 0,
           "arrivalSources": [],
-          "earnings": 285.6,
+          "earnings": 383.2,
           "unansweredMessages": null
         }
       ]
@@ -5157,16 +5161,20 @@
             }
           ],
           "earnings": 0,
-          "unansweredMessages": 20
+          "unansweredMessages": 24
         },
         {
           "date": "2026-08-25",
-          "arrivals": 2,
+          "arrivals": 3,
           "paidSubscriptions": 0,
           "arrivalSources": [
             {
               "label": "Fansly FYP",
               "value": 2
+            },
+            {
+              "label": "Fansly Search",
+              "value": 1
             }
           ],
           "earnings": 0,
