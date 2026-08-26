@@ -4,8 +4,8 @@
     "title": "James Statistics",
     "agencyName": "Virgin 67 (six seven) Agency"
   },
-  "publishedAt": "2026-08-26T01:12:27.691Z",
-  "dataGeneratedAt": "2026-08-25T20:25:34.236Z",
+  "publishedAt": "2026-08-26T02:12:57.688Z",
+  "dataGeneratedAt": "2026-08-26T02:03:48.460Z",
   "range": {
     "from": "2025-08-22",
     "to": "2026-08-26"
@@ -820,39 +820,47 @@
         },
         {
           "date": "2026-08-25",
-          "arrivals": 27,
+          "arrivals": 16,
           "paidSubscriptions": 1,
           "arrivalSources": [
             {
               "label": "Реддит 2 Sined",
-              "value": 19
+              "value": 3
+            },
+            {
+              "label": "ИксФлоу",
+              "value": 3
+            },
+            {
+              "label": "Твиттер @fleamxxxx",
+              "value": 2
+            },
+            {
+              "label": "fikfap",
+              "value": 2
             },
             {
               "label": "TicPorn",
               "value": 2
             },
             {
-              "label": "ПX 2",
-              "value": 2
-            },
-            {
-              "label": "Твиттер @fleamxxxx",
-              "value": 1
-            },
-            {
               "label": "GG SFS",
               "value": 1
             },
             {
-              "label": "Органика твиттер без обнаженки",
+              "label": "Редгифс",
               "value": 1
             },
             {
-              "label": "fikfap",
+              "label": "Твитер 6",
+              "value": 1
+            },
+            {
+              "label": "Ваптап",
               "value": 1
             }
           ],
-          "earnings": 23.04,
+          "earnings": 77.28,
           "unansweredMessages": null
         }
       ]
@@ -1622,17 +1630,25 @@
               "value": 1
             }
           ],
-          "earnings": 40,
-          "unansweredMessages": 2
+          "earnings": 42.4,
+          "unansweredMessages": 0
         },
         {
           "date": "2026-08-26",
-          "arrivals": 4,
+          "arrivals": 17,
           "paidSubscriptions": 0,
           "arrivalSources": [
             {
               "label": "Fansly FYP",
-              "value": 4
+              "value": 15
+            },
+            {
+              "label": "Fansly Suggestions",
+              "value": 1
+            },
+            {
+              "label": "Fansly Search",
+              "value": 1
             }
           ],
           "earnings": 0,
@@ -2008,9 +2024,14 @@
         },
         {
           "date": "2026-08-26",
-          "arrivals": 0,
+          "arrivals": 2,
           "paidSubscriptions": 0,
-          "arrivalSources": [],
+          "arrivalSources": [
+            {
+              "label": "Fansly FYP",
+              "value": 2
+            }
+          ],
           "earnings": 0,
           "unansweredMessages": null
         }
@@ -3034,16 +3055,20 @@
             }
           ],
           "earnings": 0,
-          "unansweredMessages": 1
+          "unansweredMessages": 8
         },
         {
           "date": "2026-08-26",
-          "arrivals": 3,
+          "arrivals": 7,
           "paidSubscriptions": 0,
           "arrivalSources": [
             {
               "label": "Fansly FYP",
-              "value": 3
+              "value": 6
+            },
+            {
+              "label": "Fansly Suggestions",
+              "value": 1
             }
           ],
           "earnings": 0,
@@ -3518,7 +3543,7 @@
             }
           ],
           "earnings": 0,
-          "unansweredMessages": 1
+          "unansweredMessages": 2
         },
         {
           "date": "2026-08-26",
@@ -3542,7 +3567,7 @@
       "platform": "fansly",
       "username": "softbylana",
       "dataFrom": "2026-07-28",
-      "dataThrough": "2026-08-25",
+      "dataThrough": "2026-08-26",
       "stale": true,
       "series": [
         {
@@ -3992,6 +4017,23 @@
             },
             {
               "label": "Fansly Search",
+              "value": 1
+            }
+          ],
+          "earnings": 0,
+          "unansweredMessages": 2
+        },
+        {
+          "date": "2026-08-26",
+          "arrivals": 3,
+          "paidSubscriptions": 0,
+          "arrivalSources": [
+            {
+              "label": "Fansly FYP",
+              "value": 2
+            },
+            {
+              "label": "Fansly Suggestions",
               "value": 1
             }
           ],
@@ -4455,7 +4497,7 @@
             }
           ],
           "earnings": 0,
-          "unansweredMessages": 5
+          "unansweredMessages": 7
         },
         {
           "date": "2026-08-26",
@@ -4903,10 +4945,15 @@
         },
         {
           "date": "2026-08-25",
-          "arrivals": 0,
+          "arrivals": 1,
           "paidSubscriptions": 0,
-          "arrivalSources": [],
-          "earnings": 0,
+          "arrivalSources": [
+            {
+              "label": "Artem - fikfap.com/user/asyabunny",
+              "value": 1
+            }
+          ],
+          "earnings": 26.64,
           "unansweredMessages": null
         }
       ]
@@ -4918,7 +4965,7 @@
       "platform": "fansly",
       "username": "realkatrinasten",
       "dataFrom": "2026-07-28",
-      "dataThrough": "2026-08-25",
+      "dataThrough": "2026-08-26",
       "stale": true,
       "series": [
         {
@@ -5321,7 +5368,7 @@
         {
           "date": "2026-08-25",
           "arrivals": 3,
-          "paidSubscriptions": 0,
+          "paidSubscriptions": 1,
           "arrivalSources": [
             {
               "label": "Fansly FYP",
@@ -5332,6 +5379,14 @@
               "value": 1
             }
           ],
+          "earnings": 0,
+          "unansweredMessages": 19
+        },
+        {
+          "date": "2026-08-26",
+          "arrivals": 0,
+          "paidSubscriptions": 0,
+          "arrivalSources": [],
           "earnings": 0,
           "unansweredMessages": null
         }
