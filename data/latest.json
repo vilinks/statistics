@@ -4,8 +4,8 @@
     "title": "James Statistics",
     "agencyName": "Virgin 67 (six seven) Agency"
   },
-  "publishedAt": "2026-08-28T22:54:45.330Z",
-  "dataGeneratedAt": "2026-08-28T18:54:23.280Z",
+  "publishedAt": "2026-08-28T23:54:58.613Z",
+  "dataGeneratedAt": "2026-08-28T23:53:38.915Z",
   "range": {
     "from": "2025-08-24",
     "to": "2026-08-28"
@@ -975,7 +975,7 @@
               "value": 1
             }
           ],
-          "earnings": 3.2,
+          "earnings": 19.2,
           "unansweredMessages": null
         }
       ]
@@ -1801,7 +1801,7 @@
         {
           "date": "2026-08-28",
           "arrivals": 47,
-          "paidSubscriptions": 0,
+          "paidSubscriptions": 2,
           "arrivalSources": [
             {
               "label": "Fansly FYP",
@@ -1820,8 +1820,8 @@
               "value": 1
             }
           ],
-          "earnings": 0,
-          "unansweredMessages": 1
+          "earnings": 24.8,
+          "unansweredMessages": 3
         }
       ]
     },
@@ -2227,7 +2227,7 @@
           "paidSubscriptions": 0,
           "arrivalSources": [],
           "earnings": 0,
-          "unansweredMessages": 3
+          "unansweredMessages": 4
         }
       ]
     },
@@ -2735,7 +2735,7 @@
               "value": 1
             }
           ],
-          "earnings": 0,
+          "earnings": 40.8,
           "unansweredMessages": null
         }
       ]
@@ -3354,7 +3354,7 @@
             }
           ],
           "earnings": 24,
-          "unansweredMessages": 2
+          "unansweredMessages": 6
         }
       ]
     },
@@ -4380,7 +4380,7 @@
             }
           ],
           "earnings": 0,
-          "unansweredMessages": 9
+          "unansweredMessages": 10
         }
       ]
     },
@@ -4894,7 +4894,7 @@
             }
           ],
           "earnings": 0.8,
-          "unansweredMessages": 18
+          "unansweredMessages": 20
         }
       ]
     },
@@ -5288,7 +5288,7 @@
           "paidSubscriptions": 0,
           "arrivalSources": [],
           "earnings": 0,
-          "unansweredMessages": 4
+          "unansweredMessages": 7
         }
       ]
     },
