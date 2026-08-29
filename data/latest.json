@@ -4,8 +4,8 @@
     "title": "James Statistics",
     "agencyName": "Virgin 67 (six seven) Agency"
   },
-  "publishedAt": "2026-08-29T04:56:08.631Z",
-  "dataGeneratedAt": "2026-08-29T03:40:47.503Z",
+  "publishedAt": "2026-08-29T05:56:26.457Z",
+  "dataGeneratedAt": "2026-08-29T05:42:27.317Z",
   "range": {
     "from": "2025-08-25",
     "to": "2026-08-29"
@@ -943,16 +943,12 @@
         },
         {
           "date": "2026-08-28",
-          "arrivals": 11,
+          "arrivals": 9,
           "paidSubscriptions": 1,
           "arrivalSources": [
             {
-              "label": "Твитер 7",
+              "label": "TicPorn",
               "value": 3
-            },
-            {
-              "label": "Порнпикс",
-              "value": 2
             },
             {
               "label": "fikfap",
@@ -967,11 +963,11 @@
               "value": 1
             },
             {
-              "label": "GG SFS",
+              "label": "Юля 1 @Blasst_L2",
               "value": 1
             },
             {
-              "label": "ИксФлоу",
+              "label": "ПX 2",
               "value": 1
             }
           ],
@@ -1821,16 +1817,16 @@
             }
           ],
           "earnings": 24.8,
-          "unansweredMessages": 3
+          "unansweredMessages": 1
         },
         {
           "date": "2026-08-29",
-          "arrivals": 23,
+          "arrivals": 26,
           "paidSubscriptions": 0,
           "arrivalSources": [
             {
               "label": "Fansly FYP",
-              "value": 20
+              "value": 23
             },
             {
               "label": "Fansly Search",
@@ -2748,27 +2744,19 @@
         },
         {
           "date": "2026-08-28",
-          "arrivals": 22,
+          "arrivals": 2,
           "paidSubscriptions": 2,
           "arrivalSources": [
             {
-              "label": "Instagram",
-              "value": 18
-            },
-            {
-              "label": "blog 26.10.25",
-              "value": 2
-            },
-            {
-              "label": "Органика твиттер без обнаженки",
+              "label": "GG @averymayy 25.11.25",
               "value": 1
             },
             {
-              "label": "Adult Forums 01.10.25",
+              "label": "Pornpics 04.08.25",
               "value": 1
             }
           ],
-          "earnings": 40.8,
+          "earnings": 105.6,
           "unansweredMessages": null
         }
       ]
@@ -3386,24 +3374,24 @@
               "value": 1
             }
           ],
-          "earnings": 24,
-          "unansweredMessages": 6
+          "earnings": 24.8,
+          "unansweredMessages": 7
         },
         {
           "date": "2026-08-29",
-          "arrivals": 12,
+          "arrivals": 19,
           "paidSubscriptions": 0,
           "arrivalSources": [
             {
               "label": "Fansly FYP",
-              "value": 10
-            },
-            {
-              "label": "Fansly Suggestions",
-              "value": 1
+              "value": 16
             },
             {
               "label": "Fansly Search",
+              "value": 2
+            },
+            {
+              "label": "Fansly Suggestions",
               "value": 1
             }
           ],
@@ -4447,16 +4435,20 @@
             }
           ],
           "earnings": 0,
-          "unansweredMessages": 10
+          "unansweredMessages": 11
         },
         {
           "date": "2026-08-29",
-          "arrivals": 6,
+          "arrivals": 7,
           "paidSubscriptions": 0,
           "arrivalSources": [
             {
               "label": "Fansly FYP",
               "value": 6
+            },
+            {
+              "label": "Fansly Search",
+              "value": 1
             }
           ],
           "earnings": 0,
@@ -4978,12 +4970,12 @@
         },
         {
           "date": "2026-08-29",
-          "arrivals": 5,
+          "arrivals": 6,
           "paidSubscriptions": 0,
           "arrivalSources": [
             {
               "label": "Fansly FYP",
-              "value": 4
+              "value": 5
             },
             {
               "label": "Fansly Search",
@@ -5487,7 +5479,7 @@
           "arrivals": 0,
           "paidSubscriptions": 0,
           "arrivalSources": [],
-          "earnings": 16,
+          "earnings": 48,
           "unansweredMessages": null
         },
         {
@@ -5964,16 +5956,20 @@
             }
           ],
           "earnings": 0,
-          "unansweredMessages": 19
+          "unansweredMessages": 20
         },
         {
           "date": "2026-08-29",
-          "arrivals": 3,
+          "arrivals": 5,
           "paidSubscriptions": 0,
           "arrivalSources": [
             {
               "label": "Fansly FYP",
-              "value": 3
+              "value": 4
+            },
+            {
+              "label": "Тикпорн",
+              "value": 1
             }
           ],
           "earnings": 0,
@@ -7673,23 +7669,23 @@
       {
         "date": "2026-08-29",
         "modelName": "Юля @lilyuliaxo",
-        "views": 35,
-        "totalClicks": 12,
-        "onlyFans": 7,
-        "fansly": 3,
-        "other": 2,
-        "conversion": 34.3
+        "views": 54,
+        "totalClicks": 20,
+        "onlyFans": 11,
+        "fansly": 6,
+        "other": 3,
+        "conversion": 37
       }
     ],
     "links": [
       {
         "label": "Хамстер",
         "modelName": "Юля @lilyuliaxo",
-        "views": 5632,
-        "totalClicks": 1441,
-        "onlyFans": 873,
-        "fansly": 371,
-        "other": 197,
+        "views": 5638,
+        "totalClicks": 1444,
+        "onlyFans": 874,
+        "fansly": 372,
+        "other": 198,
         "conversion": 25.6
       },
       {
@@ -7705,22 +7701,22 @@
       {
         "label": "Фикфап",
         "modelName": "Юля @lilyuliaxo",
-        "views": 2197,
-        "totalClicks": 666,
-        "onlyFans": 318,
-        "fansly": 238,
+        "views": 2203,
+        "totalClicks": 669,
+        "onlyFans": 319,
+        "fansly": 240,
         "other": 110,
-        "conversion": 30.3
+        "conversion": 30.4
       },
       {
         "label": "Иксфлоу",
         "modelName": "Юля @lilyuliaxo",
-        "views": 1217,
+        "views": 1219,
         "totalClicks": 423,
         "onlyFans": 175,
         "fansly": 161,
         "other": 87,
-        "conversion": 34.8
+        "conversion": 34.7
       },
       {
         "label": "Интаграм FTA 1",
@@ -7735,37 +7731,37 @@
       {
         "label": "Иксфри",
         "modelName": "Юля @lilyuliaxo",
-        "views": 434,
-        "totalClicks": 333,
-        "onlyFans": 204,
+        "views": 435,
+        "totalClicks": 334,
+        "onlyFans": 205,
         "fansly": 69,
         "other": 60,
-        "conversion": 76.7
+        "conversion": 76.8
       },
       {
         "label": "Твиттер",
         "modelName": "Юля @lilyuliaxo",
-        "views": 648,
+        "views": 650,
         "totalClicks": 229,
         "onlyFans": 126,
         "fansly": 65,
         "other": 38,
-        "conversion": 35.3
+        "conversion": 35.2
       },
       {
         "label": "Порнхаб",
         "modelName": "Юля @lilyuliaxo",
-        "views": 470,
-        "totalClicks": 224,
-        "onlyFans": 122,
+        "views": 471,
+        "totalClicks": 225,
+        "onlyFans": 123,
         "fansly": 59,
         "other": 43,
-        "conversion": 47.7
+        "conversion": 47.8
       },
       {
         "label": "Порнхаб",
         "modelName": "Юля @lilyuliaxo",
-        "views": 597,
+        "views": 598,
         "totalClicks": 162,
         "onlyFans": 102,
         "fansly": 45,
