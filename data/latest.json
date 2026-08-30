@@ -4,8 +4,8 @@
     "title": "James Statistics",
     "agencyName": "Virgin 67 (six seven) Agency"
   },
-  "publishedAt": "2026-08-30T12:08:17.792Z",
-  "dataGeneratedAt": "2026-08-30T11:13:24.134Z",
+  "publishedAt": "2026-08-30T13:08:35.273Z",
+  "dataGeneratedAt": "2026-08-30T12:46:20.738Z",
   "range": {
     "from": "2025-08-26",
     "to": "2026-08-30"
@@ -992,7 +992,7 @@
               "value": 1
             }
           ],
-          "earnings": 75.04,
+          "earnings": 78.24,
           "unansweredMessages": null
         }
       ]
@@ -1867,16 +1867,16 @@
             }
           ],
           "earnings": 12,
-          "unansweredMessages": 6
+          "unansweredMessages": 0
         },
         {
           "date": "2026-08-30",
-          "arrivals": 25,
+          "arrivals": 41,
           "paidSubscriptions": 0,
           "arrivalSources": [
             {
               "label": "Fansly FYP",
-              "value": 21
+              "value": 35
             },
             {
               "label": "Fansly Suggestions",
@@ -1884,6 +1884,10 @@
             },
             {
               "label": "Fansly Search",
+              "value": 2
+            },
+            {
+              "label": "Хамстер",
               "value": 1
             }
           ],
@@ -2311,9 +2315,14 @@
         },
         {
           "date": "2026-08-30",
-          "arrivals": 0,
+          "arrivals": 1,
           "paidSubscriptions": 0,
-          "arrivalSources": [],
+          "arrivalSources": [
+            {
+              "label": "Fansly FYP",
+              "value": 1
+            }
+          ],
           "earnings": 0,
           "unansweredMessages": null
         }
@@ -3476,16 +3485,16 @@
             }
           ],
           "earnings": 48.8,
-          "unansweredMessages": 15
+          "unansweredMessages": 0
         },
         {
           "date": "2026-08-30",
-          "arrivals": 21,
+          "arrivals": 23,
           "paidSubscriptions": 0,
           "arrivalSources": [
             {
               "label": "Fansly FYP",
-              "value": 19
+              "value": 21
             },
             {
               "label": "Fansly Suggestions",
@@ -5114,16 +5123,16 @@
         },
         {
           "date": "2026-08-30",
-          "arrivals": 6,
+          "arrivals": 9,
           "paidSubscriptions": 0,
           "arrivalSources": [
             {
               "label": "Fansly FYP",
-              "value": 3
+              "value": 5
             },
             {
               "label": "Fansly Search",
-              "value": 2
+              "value": 3
             },
             {
               "label": "Иксфлоу",
@@ -5537,12 +5546,12 @@
         },
         {
           "date": "2026-08-30",
-          "arrivals": 2,
+          "arrivals": 3,
           "paidSubscriptions": 0,
           "arrivalSources": [
             {
               "label": "Fansly FYP",
-              "value": 2
+              "value": 3
             }
           ],
           "earnings": 0,
@@ -5648,7 +5657,7 @@
           "arrivals": 0,
           "paidSubscriptions": 1,
           "arrivalSources": [],
-          "earnings": 104,
+          "earnings": 119.98,
           "unansweredMessages": null
         },
         {
@@ -6150,12 +6159,12 @@
         },
         {
           "date": "2026-08-30",
-          "arrivals": 2,
+          "arrivals": 3,
           "paidSubscriptions": 0,
           "arrivalSources": [
             {
               "label": "Fansly FYP",
-              "value": 1
+              "value": 2
             },
             {
               "label": "Тикпорн",
