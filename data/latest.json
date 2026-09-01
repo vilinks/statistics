@@ -4,8 +4,8 @@
     "title": "James Statistics",
     "agencyName": "Virgin 67 (six seven) Agency"
   },
-  "publishedAt": "2026-09-01T16:40:48.656Z",
-  "dataGeneratedAt": "2026-09-01T14:51:30.326Z",
+  "publishedAt": "2026-09-01T17:40:56.142Z",
+  "dataGeneratedAt": "2026-09-01T17:40:30.476Z",
   "range": {
     "from": "2025-08-28",
     "to": "2026-09-01"
@@ -1992,7 +1992,7 @@
         {
           "date": "2026-09-01",
           "arrivals": 37,
-          "paidSubscriptions": 0,
+          "paidSubscriptions": 4,
           "arrivalSources": [
             {
               "label": "Fansly FYP",
@@ -2003,8 +2003,8 @@
               "value": 3
             }
           ],
-          "earnings": 0,
-          "unansweredMessages": null
+          "earnings": 2.4,
+          "unansweredMessages": 4
         }
       ]
     },
@@ -2462,7 +2462,7 @@
             }
           ],
           "earnings": 0,
-          "unansweredMessages": null
+          "unansweredMessages": 4
         }
       ]
     },
@@ -2473,7 +2473,7 @@
       "platform": "onlyfans",
       "username": "bamby_eyes_vip",
       "dataFrom": "2026-07-28",
-      "dataThrough": "2026-08-31",
+      "dataThrough": "2026-09-01",
       "stale": true,
       "series": [
         {
@@ -3005,6 +3005,19 @@
         },
         {
           "date": "2026-08-31",
+          "arrivals": 4,
+          "paidSubscriptions": 0,
+          "arrivalSources": [
+            {
+              "label": "GG @averymayy 25.11.25",
+              "value": 4
+            }
+          ],
+          "earnings": 0,
+          "unansweredMessages": null
+        },
+        {
+          "date": "2026-09-01",
           "arrivals": 4,
           "paidSubscriptions": 0,
           "arrivalSources": [
@@ -3692,7 +3705,7 @@
         {
           "date": "2026-09-01",
           "arrivals": 19,
-          "paidSubscriptions": 0,
+          "paidSubscriptions": 1,
           "arrivalSources": [
             {
               "label": "Fansly FYP",
@@ -3704,7 +3717,7 @@
             }
           ],
           "earnings": 0,
-          "unansweredMessages": null
+          "unansweredMessages": 3
         }
       ]
     },
@@ -4284,7 +4297,7 @@
             }
           ],
           "earnings": 0,
-          "unansweredMessages": null
+          "unansweredMessages": 11
         }
       ]
     },
@@ -4866,7 +4879,7 @@
             }
           ],
           "earnings": 0,
-          "unansweredMessages": null
+          "unansweredMessages": 32
         }
       ]
     },
@@ -5302,7 +5315,7 @@
             }
           ],
           "earnings": 0,
-          "unansweredMessages": null
+          "unansweredMessages": 5
         }
       ]
     },
@@ -5426,7 +5439,7 @@
         {
           "date": "2026-09-01",
           "arrivals": 0,
-          "paidSubscriptions": 0,
+          "paidSubscriptions": 2,
           "arrivalSources": [],
           "earnings": 0,
           "unansweredMessages": null
@@ -5969,7 +5982,7 @@
             }
           ],
           "earnings": 0,
-          "unansweredMessages": null
+          "unansweredMessages": 25
         }
       ]
     },
@@ -6405,7 +6418,7 @@
           "paidSubscriptions": 0,
           "arrivalSources": [],
           "earnings": 0,
-          "unansweredMessages": null
+          "unansweredMessages": 20
         }
       ]
     }
