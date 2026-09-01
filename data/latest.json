@@ -4,8 +4,8 @@
     "title": "James Statistics",
     "agencyName": "Virgin 67 (six seven) Agency"
   },
-  "publishedAt": "2026-09-01T00:29:28.243Z",
-  "dataGeneratedAt": "2026-08-31T20:49:59.656Z",
+  "publishedAt": "2026-09-01T01:33:28.271Z",
+  "dataGeneratedAt": "2026-09-01T01:32:05.074Z",
   "range": {
     "from": "2025-08-28",
     "to": "2026-09-01"
@@ -1022,23 +1022,39 @@
         },
         {
           "date": "2026-08-31",
-          "arrivals": 11,
+          "arrivals": 16,
           "paidSubscriptions": 4,
           "arrivalSources": [
             {
               "label": "Реддит 2 Sined",
-              "value": 6
-            },
-            {
-              "label": "GG SFS",
-              "value": 3
+              "value": 5
             },
             {
               "label": "TicPorn",
-              "value": 1
+              "value": 3
+            },
+            {
+              "label": "Порнпикс",
+              "value": 2
             },
             {
               "label": "ИксФлоу",
+              "value": 2
+            },
+            {
+              "label": "GG SFS",
+              "value": 1
+            },
+            {
+              "label": "РЕДИТ НОВЫЙ",
+              "value": 1
+            },
+            {
+              "label": "шеерсом",
+              "value": 1
+            },
+            {
+              "label": "ПX 2",
               "value": 1
             }
           ],
@@ -1971,16 +1987,16 @@
             }
           ],
           "earnings": 0,
-          "unansweredMessages": 0
+          "unansweredMessages": 1
         },
         {
           "date": "2026-09-01",
-          "arrivals": 7,
+          "arrivals": 14,
           "paidSubscriptions": 0,
           "arrivalSources": [
             {
               "label": "Fansly FYP",
-              "value": 7
+              "value": 14
             }
           ],
           "earnings": 0,
@@ -2433,9 +2449,14 @@
         },
         {
           "date": "2026-09-01",
-          "arrivals": 0,
+          "arrivals": 1,
           "paidSubscriptions": 0,
-          "arrivalSources": [],
+          "arrivalSources": [
+            {
+              "label": "Fansly FYP",
+              "value": 1
+            }
+          ],
           "earnings": 0,
           "unansweredMessages": null
         }
@@ -2980,16 +3001,12 @@
         },
         {
           "date": "2026-08-31",
-          "arrivals": 2,
+          "arrivals": 4,
           "paidSubscriptions": 0,
           "arrivalSources": [
             {
-              "label": "РЕДИТ",
-              "value": 1
-            },
-            {
-              "label": "blog 26.10.25",
-              "value": 1
+              "label": "GG @averymayy 25.11.25",
+              "value": 4
             }
           ],
           "earnings": 0,
@@ -3665,17 +3682,17 @@
               "value": 1
             }
           ],
-          "earnings": 26.4,
-          "unansweredMessages": 1
+          "earnings": 28.8,
+          "unansweredMessages": 8
         },
         {
           "date": "2026-09-01",
-          "arrivals": 9,
+          "arrivals": 11,
           "paidSubscriptions": 0,
           "arrivalSources": [
             {
               "label": "Fansly FYP",
-              "value": 7
+              "value": 9
             },
             {
               "label": "Fansly Suggestions",
