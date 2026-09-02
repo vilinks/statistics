@@ -4,11 +4,11 @@
     "title": "James Statistics",
     "agencyName": "Virgin 67 (six seven) Agency"
   },
-  "publishedAt": "2026-09-01T23:43:39.808Z",
+  "publishedAt": "2026-09-02T00:44:40.054Z",
   "dataGeneratedAt": "2026-09-01T22:56:23.861Z",
   "range": {
-    "from": "2025-08-28",
-    "to": "2026-09-01"
+    "from": "2025-08-29",
+    "to": "2026-09-02"
   },
   "privacy": {
     "earnings": true,
@@ -1111,7 +1111,7 @@
       "platform": "fansly",
       "username": "littleyulia",
       "dataFrom": "2026-07-29",
-      "dataThrough": "2026-09-01",
+      "dataThrough": "2026-09-02",
       "stale": true,
       "series": [
         {
@@ -2046,6 +2046,23 @@
           ],
           "earnings": 7.2,
           "unansweredMessages": 1
+        },
+        {
+          "date": "2026-09-02",
+          "arrivals": 20,
+          "paidSubscriptions": 0,
+          "arrivalSources": [
+            {
+              "label": "Fansly FYP",
+              "value": 19
+            },
+            {
+              "label": "Fansly Suggestions",
+              "value": 1
+            }
+          ],
+          "earnings": 0,
+          "unansweredMessages": null
         }
       ]
     },
@@ -2056,7 +2073,7 @@
       "platform": "fansly",
       "username": "julianna348",
       "dataFrom": "2026-07-28",
-      "dataThrough": "2026-09-01",
+      "dataThrough": "2026-09-02",
       "stale": true,
       "series": [
         {
@@ -2504,6 +2521,14 @@
           ],
           "earnings": 0,
           "unansweredMessages": 4
+        },
+        {
+          "date": "2026-09-02",
+          "arrivals": 0,
+          "paidSubscriptions": 0,
+          "arrivalSources": [],
+          "earnings": 0,
+          "unansweredMessages": null
         }
       ]
     },
@@ -3079,7 +3104,7 @@
       "platform": "fansly",
       "username": "CutieBambyEyes",
       "dataFrom": "2026-07-28",
-      "dataThrough": "2026-09-01",
+      "dataThrough": "2026-09-02",
       "stale": true,
       "series": [
         {
@@ -3759,6 +3784,31 @@
           ],
           "earnings": 2.4,
           "unansweredMessages": 3
+        },
+        {
+          "date": "2026-09-02",
+          "arrivals": 15,
+          "paidSubscriptions": 0,
+          "arrivalSources": [
+            {
+              "label": "Fansly FYP",
+              "value": 11
+            },
+            {
+              "label": "Fansly Suggestions",
+              "value": 2
+            },
+            {
+              "label": "Fansly Search",
+              "value": 1
+            },
+            {
+              "label": "Органика твиттер без обнаженки",
+              "value": 1
+            }
+          ],
+          "earnings": 0,
+          "unansweredMessages": null
         }
       ]
     },
@@ -3769,7 +3819,7 @@
       "platform": "fansly",
       "username": "softbylana",
       "dataFrom": "2026-07-28",
-      "dataThrough": "2026-09-01",
+      "dataThrough": "2026-09-02",
       "stale": true,
       "series": [
         {
@@ -4339,6 +4389,23 @@
           ],
           "earnings": 0,
           "unansweredMessages": 12
+        },
+        {
+          "date": "2026-09-02",
+          "arrivals": 3,
+          "paidSubscriptions": 0,
+          "arrivalSources": [
+            {
+              "label": "Fansly FYP",
+              "value": 2
+            },
+            {
+              "label": "Fansly Search",
+              "value": 1
+            }
+          ],
+          "earnings": 0,
+          "unansweredMessages": null
         }
       ]
     },
@@ -4349,7 +4416,7 @@
       "platform": "fansly",
       "username": "LovelyMila",
       "dataFrom": "2026-07-28",
-      "dataThrough": "2026-09-01",
+      "dataThrough": "2026-09-02",
       "stale": true,
       "series": [
         {
@@ -4921,6 +4988,19 @@
           ],
           "earnings": 0,
           "unansweredMessages": 32
+        },
+        {
+          "date": "2026-09-02",
+          "arrivals": 2,
+          "paidSubscriptions": 0,
+          "arrivalSources": [
+            {
+              "label": "Fansly FYP",
+              "value": 2
+            }
+          ],
+          "earnings": 0,
+          "unansweredMessages": null
         }
       ]
     },
@@ -4931,7 +5011,7 @@
       "platform": "fansly",
       "username": "asyabunny",
       "dataFrom": "2026-07-28",
-      "dataThrough": "2026-09-01",
+      "dataThrough": "2026-09-02",
       "stale": true,
       "series": [
         {
@@ -5357,6 +5437,23 @@
           ],
           "earnings": 0,
           "unansweredMessages": 5
+        },
+        {
+          "date": "2026-09-02",
+          "arrivals": 2,
+          "paidSubscriptions": 0,
+          "arrivalSources": [
+            {
+              "label": "Fansly FYP",
+              "value": 1
+            },
+            {
+              "label": "Fansly Search",
+              "value": 1
+            }
+          ],
+          "earnings": 0,
+          "unansweredMessages": null
         }
       ]
     },
@@ -5367,7 +5464,7 @@
       "platform": "onlyfans",
       "username": "asyabunny",
       "dataFrom": "2026-08-20",
-      "dataThrough": "2026-09-01",
+      "dataThrough": "2026-09-02",
       "stale": true,
       "series": [
         {
@@ -5484,6 +5581,14 @@
           "arrivalSources": [],
           "earnings": 0,
           "unansweredMessages": null
+        },
+        {
+          "date": "2026-09-02",
+          "arrivals": 0,
+          "paidSubscriptions": 0,
+          "arrivalSources": [],
+          "earnings": 0,
+          "unansweredMessages": null
         }
       ]
     },
@@ -5494,7 +5599,7 @@
       "platform": "fansly",
       "username": "realkatrinasten",
       "dataFrom": "2026-07-28",
-      "dataThrough": "2026-09-01",
+      "dataThrough": "2026-09-02",
       "stale": true,
       "series": [
         {
@@ -6024,6 +6129,19 @@
           ],
           "earnings": 0,
           "unansweredMessages": 26
+        },
+        {
+          "date": "2026-09-02",
+          "arrivals": 2,
+          "paidSubscriptions": 0,
+          "arrivalSources": [
+            {
+              "label": "Fansly FYP",
+              "value": 2
+            }
+          ],
+          "earnings": 0,
+          "unansweredMessages": null
         }
       ]
     },
@@ -6034,7 +6152,7 @@
       "platform": "fansly",
       "username": "LillieMelody",
       "dataFrom": "2026-07-28",
-      "dataThrough": "2026-09-01",
+      "dataThrough": "2026-09-02",
       "stale": true,
       "series": [
         {
@@ -6460,6 +6578,14 @@
           "arrivalSources": [],
           "earnings": 0,
           "unansweredMessages": 20
+        },
+        {
+          "date": "2026-09-02",
+          "arrivals": 0,
+          "paidSubscriptions": 0,
+          "arrivalSources": [],
+          "earnings": 0,
+          "unansweredMessages": null
         }
       ]
     }
