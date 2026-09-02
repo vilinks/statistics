@@ -4,8 +4,8 @@
     "title": "James Statistics",
     "agencyName": "Virgin 67 (six seven) Agency"
   },
-  "publishedAt": "2026-09-02T13:53:16.288Z",
-  "dataGeneratedAt": "2026-09-02T12:09:27.115Z",
+  "publishedAt": "2026-09-02T14:53:33.981Z",
+  "dataGeneratedAt": "2026-09-02T14:31:48.976Z",
   "range": {
     "from": "2025-08-29",
     "to": "2026-09-02"
@@ -2036,17 +2036,17 @@
               "value": 3
             }
           ],
-          "earnings": 18,
-          "unansweredMessages": 1
+          "earnings": 26,
+          "unansweredMessages": 0
         },
         {
           "date": "2026-09-02",
-          "arrivals": 39,
+          "arrivals": 40,
           "paidSubscriptions": 0,
           "arrivalSources": [
             {
               "label": "Fansly FYP",
-              "value": 38
+              "value": 39
             },
             {
               "label": "Fansly Suggestions",
@@ -2512,7 +2512,7 @@
             }
           ],
           "earnings": 0,
-          "unansweredMessages": 4
+          "unansweredMessages": 3
         },
         {
           "date": "2026-09-02",
@@ -3779,17 +3779,17 @@
               "value": 2
             }
           ],
-          "earnings": 27.28,
-          "unansweredMessages": 1
+          "earnings": 55.28,
+          "unansweredMessages": 0
         },
         {
           "date": "2026-09-02",
-          "arrivals": 25,
+          "arrivals": 27,
           "paidSubscriptions": 0,
           "arrivalSources": [
             {
               "label": "Fansly FYP",
-              "value": 20
+              "value": 22
             },
             {
               "label": "Fansly Suggestions",
@@ -4987,7 +4987,7 @@
           "arrivals": 0,
           "paidSubscriptions": 2,
           "arrivalSources": [],
-          "earnings": 0,
+          "earnings": 24,
           "unansweredMessages": null
         },
         {
@@ -5540,12 +5540,12 @@
         },
         {
           "date": "2026-09-02",
-          "arrivals": 4,
+          "arrivals": 6,
           "paidSubscriptions": 0,
           "arrivalSources": [
             {
               "label": "Fansly FYP",
-              "value": 4
+              "value": 6
             }
           ],
           "earnings": 0,
