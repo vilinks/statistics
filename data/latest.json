@@ -4,8 +4,8 @@
     "title": "James Statistics",
     "agencyName": "Virgin 67 (six seven) Agency"
   },
-  "publishedAt": "2026-09-03T21:12:13.767Z",
-  "dataGeneratedAt": "2026-09-03T17:11:24.254Z",
+  "publishedAt": "2026-09-03T22:12:18.872Z",
+  "dataGeneratedAt": "2026-09-03T22:03:53.930Z",
   "range": {
     "from": "2025-08-30",
     "to": "2026-09-03"
@@ -2117,7 +2117,7 @@
         {
           "date": "2026-09-03",
           "arrivals": 25,
-          "paidSubscriptions": 2,
+          "paidSubscriptions": 3,
           "arrivalSources": [
             {
               "label": "Fansly FYP",
@@ -2132,7 +2132,7 @@
               "value": 1
             }
           ],
-          "earnings": 4,
+          "earnings": 32,
           "unansweredMessages": 1
         }
       ]
@@ -3223,7 +3223,7 @@
               "value": 1
             }
           ],
-          "earnings": 0,
+          "earnings": 16,
           "unansweredMessages": null
         }
       ]
@@ -3944,7 +3944,7 @@
         {
           "date": "2026-09-03",
           "arrivals": 21,
-          "paidSubscriptions": 0,
+          "paidSubscriptions": 1,
           "arrivalSources": [
             {
               "label": "Fansly FYP",
@@ -3959,8 +3959,8 @@
               "value": 1
             }
           ],
-          "earnings": 0,
-          "unansweredMessages": 0
+          "earnings": 8.8,
+          "unansweredMessages": 2
         }
       ]
     },
@@ -5041,7 +5041,7 @@
           "paidSubscriptions": 0,
           "arrivalSources": [],
           "earnings": 0,
-          "unansweredMessages": 5
+          "unansweredMessages": 6
         }
       ]
     },
@@ -5183,7 +5183,7 @@
           "arrivals": 0,
           "paidSubscriptions": 0,
           "arrivalSources": [],
-          "earnings": 0,
+          "earnings": 183.2,
           "unansweredMessages": null
         }
       ]
@@ -5750,7 +5750,7 @@
             }
           ],
           "earnings": 0,
-          "unansweredMessages": 26
+          "unansweredMessages": 27
         }
       ]
     },
