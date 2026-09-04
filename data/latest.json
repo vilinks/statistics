@@ -4,8 +4,8 @@
     "title": "James Statistics",
     "agencyName": "Virgin 67 (six seven) Agency"
   },
-  "publishedAt": "2026-09-04T02:13:52.990Z",
-  "dataGeneratedAt": "2026-09-03T22:24:20.741Z",
+  "publishedAt": "2026-09-04T03:14:02.593Z",
+  "dataGeneratedAt": "2026-09-04T03:12:42.321Z",
   "range": {
     "from": "2025-08-31",
     "to": "2026-09-04"
@@ -1125,20 +1125,24 @@
         },
         {
           "date": "2026-09-03",
-          "arrivals": 9,
+          "arrivals": 11,
           "paidSubscriptions": 1,
           "arrivalSources": [
             {
-              "label": "GG SFS",
-              "value": 4
+              "label": "fikfap",
+              "value": 3
             },
             {
-              "label": "fikfap",
+              "label": "Реддит 2 Sined",
+              "value": 2
+            },
+            {
+              "label": "GG SFS",
               "value": 2
             },
             {
               "label": "Порнпикс",
-              "value": 1
+              "value": 2
             },
             {
               "label": "TicPorn",
@@ -2133,16 +2137,16 @@
             }
           ],
           "earnings": 32,
-          "unansweredMessages": 1
+          "unansweredMessages": 0
         },
         {
           "date": "2026-09-04",
-          "arrivals": 16,
+          "arrivals": 22,
           "paidSubscriptions": 0,
           "arrivalSources": [
             {
               "label": "Fansly FYP",
-              "value": 15
+              "value": 21
             },
             {
               "label": "Иксфри",
@@ -3224,19 +3228,27 @@
         },
         {
           "date": "2026-09-03",
-          "arrivals": 4,
+          "arrivals": 5,
           "paidSubscriptions": 0,
           "arrivalSources": [
             {
-              "label": "GG @averymayy 25.11.25",
-              "value": 2
-            },
-            {
-              "label": "Instagram",
+              "label": "GG SFS",
               "value": 1
             },
             {
-              "label": "OF Search Engine 18.10.25",
+              "label": "Фикфап",
+              "value": 1
+            },
+            {
+              "label": "GG @averymayy 25.11.25",
+              "value": 1
+            },
+            {
+              "label": "blog 26.10.25",
+              "value": 1
+            },
+            {
+              "label": "twitter 21.09.25",
               "value": 1
             }
           ],
@@ -3977,16 +3989,20 @@
             }
           ],
           "earnings": 8.8,
-          "unansweredMessages": 2
+          "unansweredMessages": 4
         },
         {
           "date": "2026-09-04",
-          "arrivals": 18,
+          "arrivals": 24,
           "paidSubscriptions": 0,
           "arrivalSources": [
             {
               "label": "Fansly FYP",
-              "value": 18
+              "value": 23
+            },
+            {
+              "label": "Fansly Suggestions",
+              "value": 1
             }
           ],
           "earnings": 0,
@@ -5071,15 +5087,19 @@
           "paidSubscriptions": 0,
           "arrivalSources": [],
           "earnings": 0,
-          "unansweredMessages": 6
+          "unansweredMessages": 7
         },
         {
           "date": "2026-09-04",
-          "arrivals": 1,
+          "arrivals": 2,
           "paidSubscriptions": 0,
           "arrivalSources": [
             {
               "label": "Fansly FYP",
+              "value": 1
+            },
+            {
+              "label": "Fansly Search",
               "value": 1
             }
           ],
@@ -5226,7 +5246,7 @@
           "arrivals": 0,
           "paidSubscriptions": 0,
           "arrivalSources": [],
-          "earnings": 183.2,
+          "earnings": 242.4,
           "unansweredMessages": null
         },
         {
