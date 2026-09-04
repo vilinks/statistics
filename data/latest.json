@@ -4,8 +4,8 @@
     "title": "James Statistics",
     "agencyName": "Virgin 67 (six seven) Agency"
   },
-  "publishedAt": "2026-09-04T13:17:28.992Z",
-  "dataGeneratedAt": "2026-09-04T08:27:51.378Z",
+  "publishedAt": "2026-09-04T14:17:34.198Z",
+  "dataGeneratedAt": "2026-09-04T13:48:45.857Z",
   "range": {
     "from": "2025-08-31",
     "to": "2026-09-04"
@@ -2136,17 +2136,17 @@
               "value": 1
             }
           ],
-          "earnings": 32,
-          "unansweredMessages": 4
+          "earnings": 34.4,
+          "unansweredMessages": 0
         },
         {
           "date": "2026-09-04",
-          "arrivals": 28,
+          "arrivals": 30,
           "paidSubscriptions": 0,
           "arrivalSources": [
             {
               "label": "Fansly FYP",
-              "value": 26
+              "value": 28
             },
             {
               "label": "Fansly Suggestions",
@@ -3256,7 +3256,7 @@
               "value": 1
             }
           ],
-          "earnings": 16,
+          "earnings": 20.8,
           "unansweredMessages": null
         }
       ]
@@ -3993,19 +3993,23 @@
             }
           ],
           "earnings": 8.8,
-          "unansweredMessages": 2
+          "unansweredMessages": 0
         },
         {
           "date": "2026-09-04",
-          "arrivals": 28,
+          "arrivals": 34,
           "paidSubscriptions": 0,
           "arrivalSources": [
             {
               "label": "Fansly FYP",
-              "value": 27
+              "value": 32
             },
             {
               "label": "Fansly Suggestions",
+              "value": 1
+            },
+            {
+              "label": "Fansly Search",
               "value": 1
             }
           ],
@@ -5825,16 +5829,20 @@
             }
           ],
           "earnings": 0,
-          "unansweredMessages": 28
+          "unansweredMessages": 29
         },
         {
           "date": "2026-09-04",
-          "arrivals": 6,
+          "arrivals": 7,
           "paidSubscriptions": 0,
           "arrivalSources": [
             {
               "label": "Fansly FYP",
               "value": 5
+            },
+            {
+              "label": "Fansly Search",
+              "value": 1
             },
             {
               "label": "Фикфап",
