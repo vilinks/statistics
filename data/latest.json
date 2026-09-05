@@ -4,8 +4,8 @@
     "title": "James Statistics",
     "agencyName": "Virgin 67 (six seven) Agency"
   },
-  "publishedAt": "2026-09-05T02:21:01.458Z",
-  "dataGeneratedAt": "2026-09-05T02:11:38.358Z",
+  "publishedAt": "2026-09-05T03:21:08.796Z",
+  "dataGeneratedAt": "2026-09-05T03:00:33.964Z",
   "range": {
     "from": "2025-09-01",
     "to": "2026-09-05"
@@ -4139,7 +4139,7 @@
       "platform": "fansly",
       "username": "LovelyMila",
       "dataFrom": "2026-07-28",
-      "dataThrough": "2026-09-03",
+      "dataThrough": "2026-09-05",
       "stale": true,
       "series": [
         {
@@ -4741,6 +4741,40 @@
             {
               "label": "Fansly FYP",
               "value": 5
+            },
+            {
+              "label": "Fansly Search",
+              "value": 1
+            }
+          ],
+          "earnings": 0,
+          "unansweredMessages": null
+        },
+        {
+          "date": "2026-09-04",
+          "arrivals": 3,
+          "paidSubscriptions": 0,
+          "arrivalSources": [
+            {
+              "label": "Fansly FYP",
+              "value": 2
+            },
+            {
+              "label": "Fansly Search",
+              "value": 1
+            }
+          ],
+          "earnings": 44.96,
+          "unansweredMessages": 1
+        },
+        {
+          "date": "2026-09-05",
+          "arrivals": 3,
+          "paidSubscriptions": 0,
+          "arrivalSources": [
+            {
+              "label": "Fansly FYP",
+              "value": 2
             },
             {
               "label": "Fansly Search",
@@ -7483,12 +7517,12 @@
       {
         "date": "2026-09-05",
         "modelName": "Юля @lilyuliaxo",
-        "views": 33,
-        "totalClicks": 10,
-        "onlyFans": 5,
+        "views": 35,
+        "totalClicks": 11,
+        "onlyFans": 6,
         "fansly": 2,
         "other": 3,
-        "conversion": 30.3
+        "conversion": 31.4
       }
     ],
     "links": [
@@ -7555,12 +7589,12 @@
       {
         "label": "Порнхаб",
         "modelName": "Юля @lilyuliaxo",
-        "views": 580,
+        "views": 581,
         "totalClicks": 286,
         "onlyFans": 155,
         "fansly": 76,
         "other": 55,
-        "conversion": 49.3
+        "conversion": 49.2
       },
       {
         "label": "Твиттер",
@@ -7575,12 +7609,12 @@
       {
         "label": "Порнхаб",
         "modelName": "Юля @lilyuliaxo",
-        "views": 792,
-        "totalClicks": 195,
-        "onlyFans": 124,
+        "views": 793,
+        "totalClicks": 196,
+        "onlyFans": 125,
         "fansly": 54,
         "other": 17,
-        "conversion": 24.6
+        "conversion": 24.7
       },
       {
         "label": "Твиттер без обнаженки",
