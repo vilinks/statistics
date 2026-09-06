@@ -4,8 +4,8 @@
     "title": "James Statistics",
     "agencyName": "Virgin 67 (six seven) Agency"
   },
-  "publishedAt": "2026-09-06T17:40:53.151Z",
-  "dataGeneratedAt": "2026-09-06T14:21:29.797Z",
+  "publishedAt": "2026-09-06T18:41:01.096Z",
+  "dataGeneratedAt": "2026-09-06T18:16:14.279Z",
   "range": {
     "from": "2025-09-02",
     "to": "2026-09-06"
@@ -22,7 +22,7 @@
       "platform": "onlyfans",
       "username": "lilyuliaxo",
       "dataFrom": "2026-07-28",
-      "dataThrough": "2026-09-05",
+      "dataThrough": "2026-09-06",
       "stale": true,
       "series": [
         {
@@ -1221,6 +1221,35 @@
           ],
           "earnings": 26.48,
           "unansweredMessages": null
+        },
+        {
+          "date": "2026-09-06",
+          "arrivals": 14,
+          "paidSubscriptions": 2,
+          "arrivalSources": [
+            {
+              "label": "GG SFS",
+              "value": 5
+            },
+            {
+              "label": "Реддит 2 Sined",
+              "value": 4
+            },
+            {
+              "label": "fikfap",
+              "value": 3
+            },
+            {
+              "label": "ПX 2",
+              "value": 1
+            },
+            {
+              "label": "ИксФлоу",
+              "value": 1
+            }
+          ],
+          "earnings": 8,
+          "unansweredMessages": null
         }
       ]
     },
@@ -2290,7 +2319,7 @@
             }
           ],
           "earnings": 0,
-          "unansweredMessages": null
+          "unansweredMessages": 1
         }
       ]
     },
@@ -2812,7 +2841,7 @@
           "paidSubscriptions": 0,
           "arrivalSources": [],
           "earnings": 0,
-          "unansweredMessages": null
+          "unansweredMessages": 3
         }
       ]
     },
@@ -2823,7 +2852,7 @@
       "platform": "onlyfans",
       "username": "bamby_eyes_vip",
       "dataFrom": "2026-07-28",
-      "dataThrough": "2026-09-05",
+      "dataThrough": "2026-09-06",
       "stale": true,
       "series": [
         {
@@ -3469,6 +3498,27 @@
             }
           ],
           "earnings": 24.88,
+          "unansweredMessages": null
+        },
+        {
+          "date": "2026-09-06",
+          "arrivals": 3,
+          "paidSubscriptions": 0,
+          "arrivalSources": [
+            {
+              "label": "Instagram",
+              "value": 1
+            },
+            {
+              "label": "Органика твиттер без обнаженки",
+              "value": 1
+            },
+            {
+              "label": "blog 26.10.25",
+              "value": 1
+            }
+          ],
+          "earnings": 0,
           "unansweredMessages": null
         }
       ]
@@ -4264,7 +4314,7 @@
             }
           ],
           "earnings": 0,
-          "unansweredMessages": null
+          "unansweredMessages": 0
         }
       ]
     },
@@ -5443,7 +5493,7 @@
             }
           ],
           "earnings": 0,
-          "unansweredMessages": null
+          "unansweredMessages": 9
         }
       ]
     },
@@ -5609,7 +5659,7 @@
           "arrivals": 0,
           "paidSubscriptions": 0,
           "arrivalSources": [],
-          "earnings": 0,
+          "earnings": 24.24,
           "unansweredMessages": null
         }
       ]
@@ -6223,7 +6273,7 @@
             }
           ],
           "earnings": 0,
-          "unansweredMessages": null
+          "unansweredMessages": 28
         }
       ]
     },
@@ -6709,7 +6759,7 @@
             }
           ],
           "earnings": 0,
-          "unansweredMessages": null
+          "unansweredMessages": 20
         }
       ]
     }
