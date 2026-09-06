@@ -4,8 +4,8 @@
     "title": "James Statistics",
     "agencyName": "Virgin 67 (six seven) Agency"
   },
-  "publishedAt": "2026-09-06T12:38:39.223Z",
-  "dataGeneratedAt": "2026-09-06T11:10:10.900Z",
+  "publishedAt": "2026-09-06T13:38:48.822Z",
+  "dataGeneratedAt": "2026-09-06T13:04:28.422Z",
   "range": {
     "from": "2025-09-02",
     "to": "2026-09-06"
@@ -2252,17 +2252,21 @@
               "value": 1
             }
           ],
-          "earnings": 61.2,
+          "earnings": 213.2,
           "unansweredMessages": 7
         },
         {
           "date": "2026-09-06",
-          "arrivals": 20,
+          "arrivals": 25,
           "paidSubscriptions": 0,
           "arrivalSources": [
             {
               "label": "Fansly FYP",
-              "value": 15
+              "value": 18
+            },
+            {
+              "label": "Иксфлоу",
+              "value": 2
             },
             {
               "label": "Fansly Suggestions",
@@ -2277,11 +2281,11 @@
               "value": 1
             },
             {
-              "label": "Иксфлоу",
+              "label": "Пх 2",
               "value": 1
             },
             {
-              "label": "Пх 2",
+              "label": "Хамстер",
               "value": 1
             }
           ],
@@ -4243,16 +4247,16 @@
             }
           ],
           "earnings": 0,
-          "unansweredMessages": 2
+          "unansweredMessages": 0
         },
         {
           "date": "2026-09-06",
-          "arrivals": 19,
+          "arrivals": 21,
           "paidSubscriptions": 0,
           "arrivalSources": [
             {
               "label": "Fansly FYP",
-              "value": 18
+              "value": 20
             },
             {
               "label": "Инстаграм Molly",
@@ -4918,16 +4922,16 @@
         },
         {
           "date": "2026-09-06",
-          "arrivals": 5,
+          "arrivals": 7,
           "paidSubscriptions": 0,
           "arrivalSources": [
             {
               "label": "Fansly FYP",
-              "value": 4
+              "value": 5
             },
             {
               "label": "Fansly Search",
-              "value": 1
+              "value": 2
             }
           ],
           "earnings": 0,
@@ -6210,12 +6214,12 @@
         },
         {
           "date": "2026-09-06",
-          "arrivals": 1,
+          "arrivals": 3,
           "paidSubscriptions": 0,
           "arrivalSources": [
             {
               "label": "Fansly FYP",
-              "value": 1
+              "value": 3
             }
           ],
           "earnings": 0,
@@ -6692,13 +6696,18 @@
             }
           ],
           "earnings": 0,
-          "unansweredMessages": 19
+          "unansweredMessages": 20
         },
         {
           "date": "2026-09-06",
-          "arrivals": 0,
+          "arrivals": 1,
           "paidSubscriptions": 0,
-          "arrivalSources": [],
+          "arrivalSources": [
+            {
+              "label": "Fansly FYP",
+              "value": 1
+            }
+          ],
           "earnings": 0,
           "unansweredMessages": null
         }
