@@ -4,8 +4,8 @@
     "title": "James Statistics",
     "agencyName": "Virgin 67 (six seven) Agency"
   },
-  "publishedAt": "2026-09-08T05:59:58.083Z",
-  "dataGeneratedAt": "2026-09-08T05:45:05.172Z",
+  "publishedAt": "2026-09-08T07:00:55.823Z",
+  "dataGeneratedAt": "2026-09-08T06:35:47.939Z",
   "range": {
     "from": "2025-09-04",
     "to": "2026-09-08"
@@ -2353,7 +2353,7 @@
         {
           "date": "2026-09-07",
           "arrivals": 32,
-          "paidSubscriptions": 4,
+          "paidSubscriptions": 0,
           "arrivalSources": [
             {
               "label": "Fansly FYP",
@@ -2376,17 +2376,21 @@
               "value": 1
             }
           ],
-          "earnings": 80.8,
-          "unansweredMessages": 0
+          "earnings": 101.6,
+          "unansweredMessages": 9
         },
         {
           "date": "2026-09-08",
-          "arrivals": 11,
+          "arrivals": 19,
           "paidSubscriptions": 0,
           "arrivalSources": [
             {
               "label": "Fansly FYP",
-              "value": 11
+              "value": 18
+            },
+            {
+              "label": "Fansly Suggestions",
+              "value": 1
             }
           ],
           "earnings": 0,
@@ -4456,16 +4460,16 @@
             }
           ],
           "earnings": 4,
-          "unansweredMessages": 1
+          "unansweredMessages": 5
         },
         {
           "date": "2026-09-08",
-          "arrivals": 12,
+          "arrivals": 18,
           "paidSubscriptions": 0,
           "arrivalSources": [
             {
               "label": "Fansly FYP",
-              "value": 12
+              "value": 18
             }
           ],
           "earnings": 0,
@@ -5698,12 +5702,12 @@
         },
         {
           "date": "2026-09-08",
-          "arrivals": 1,
+          "arrivals": 2,
           "paidSubscriptions": 0,
           "arrivalSources": [
             {
               "label": "Fansly FYP",
-              "value": 1
+              "value": 2
             }
           ],
           "earnings": 0,
@@ -5881,7 +5885,7 @@
           "arrivals": 0,
           "paidSubscriptions": 0,
           "arrivalSources": [],
-          "earnings": 36,
+          "earnings": 60.24,
           "unansweredMessages": null
         },
         {
