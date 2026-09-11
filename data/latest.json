@@ -4,8 +4,8 @@
     "title": "James Statistics",
     "agencyName": "Virgin 67 (six seven) Agency"
   },
-  "publishedAt": "2026-09-11T16:58:36.709Z",
-  "dataGeneratedAt": "2026-09-11T15:00:47.763Z",
+  "publishedAt": "2026-09-11T17:59:11.599Z",
+  "dataGeneratedAt": "2026-09-11T17:57:40.681Z",
   "range": {
     "from": "2025-09-07",
     "to": "2026-09-11"
@@ -22,7 +22,7 @@
       "platform": "onlyfans",
       "username": "lilyuliaxo",
       "dataFrom": "2026-07-28",
-      "dataThrough": "2026-09-10",
+      "dataThrough": "2026-09-11",
       "stale": true,
       "series": [
         {
@@ -1402,6 +1402,51 @@
           ],
           "earnings": 0,
           "unansweredMessages": null
+        },
+        {
+          "date": "2026-09-11",
+          "arrivals": 22,
+          "paidSubscriptions": 0,
+          "arrivalSources": [
+            {
+              "label": "Реддит 2 Sined",
+              "value": 11
+            },
+            {
+              "label": "fikfap",
+              "value": 3
+            },
+            {
+              "label": "TicPorn",
+              "value": 2
+            },
+            {
+              "label": "X1 @pretty_uma1",
+              "value": 1
+            },
+            {
+              "label": "Твиттер @fleamxxxx",
+              "value": 1
+            },
+            {
+              "label": "Хамстер",
+              "value": 1
+            },
+            {
+              "label": "Ютуб Йога",
+              "value": 1
+            },
+            {
+              "label": "ПX 2",
+              "value": 1
+            },
+            {
+              "label": "ИксФлоу",
+              "value": 1
+            }
+          ],
+          "earnings": 0,
+          "unansweredMessages": null
         }
       ]
     },
@@ -2595,8 +2640,8 @@
               "value": 1
             }
           ],
-          "earnings": 0,
-          "unansweredMessages": null
+          "earnings": 62.4,
+          "unansweredMessages": 4
         }
       ]
     },
