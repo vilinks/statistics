@@ -4,8 +4,8 @@
     "title": "James Statistics",
     "agencyName": "Virgin 67 (six seven) Agency"
   },
-  "publishedAt": "2026-09-11T17:59:11.599Z",
-  "dataGeneratedAt": "2026-09-11T17:57:40.681Z",
+  "publishedAt": "2026-09-11T18:59:19.517Z",
+  "dataGeneratedAt": "2026-09-11T18:11:46.396Z",
   "range": {
     "from": "2025-09-07",
     "to": "2026-09-11"
@@ -3231,7 +3231,7 @@
             }
           ],
           "earnings": 0,
-          "unansweredMessages": null
+          "unansweredMessages": 3
         }
       ]
     },
@@ -3242,7 +3242,7 @@
       "platform": "onlyfans",
       "username": "bamby_eyes_vip",
       "dataFrom": "2026-07-28",
-      "dataThrough": "2026-09-10",
+      "dataThrough": "2026-09-11",
       "stale": true,
       "series": [
         {
@@ -3997,6 +3997,23 @@
             }
           ],
           "earnings": 8,
+          "unansweredMessages": null
+        },
+        {
+          "date": "2026-09-11",
+          "arrivals": 5,
+          "paidSubscriptions": 0,
+          "arrivalSources": [
+            {
+              "label": "Редгифс",
+              "value": 3
+            },
+            {
+              "label": "GG SFS",
+              "value": 2
+            }
+          ],
+          "earnings": 0,
           "unansweredMessages": null
         }
       ]
@@ -4884,8 +4901,8 @@
               "value": 14
             }
           ],
-          "earnings": 0,
-          "unansweredMessages": null
+          "earnings": 23.92,
+          "unansweredMessages": 1
         }
       ]
     },
@@ -5636,7 +5653,7 @@
           "paidSubscriptions": 0,
           "arrivalSources": [],
           "earnings": 0,
-          "unansweredMessages": null
+          "unansweredMessages": 11
         }
       ]
     },
@@ -6203,7 +6220,7 @@
             }
           ],
           "earnings": 0,
-          "unansweredMessages": null
+          "unansweredMessages": 12
         }
       ]
     },
@@ -6409,7 +6426,7 @@
           "arrivals": 0,
           "paidSubscriptions": 0,
           "arrivalSources": [],
-          "earnings": 0,
+          "earnings": 40,
           "unansweredMessages": null
         }
       ]
@@ -7100,7 +7117,7 @@
             }
           ],
           "earnings": 0,
-          "unansweredMessages": null
+          "unansweredMessages": 36
         }
       ]
     },
@@ -7651,7 +7668,7 @@
             }
           ],
           "earnings": 0,
-          "unansweredMessages": null
+          "unansweredMessages": 18
         }
       ]
     }
