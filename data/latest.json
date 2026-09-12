@@ -4,8 +4,8 @@
     "title": "James Statistics",
     "agencyName": "Virgin 67 (six seven) Agency"
   },
-  "publishedAt": "2026-09-12T14:11:39.372Z",
-  "dataGeneratedAt": "2026-09-12T12:27:50.001Z",
+  "publishedAt": "2026-09-12T15:11:44.041Z",
+  "dataGeneratedAt": "2026-09-12T15:08:53.501Z",
   "range": {
     "from": "2025-09-08",
     "to": "2026-09-12"
@@ -1433,7 +1433,7 @@
               "value": 1
             }
           ],
-          "earnings": 0,
+          "earnings": 8,
           "unansweredMessages": null
         }
       ]
@@ -3240,9 +3240,14 @@
         },
         {
           "date": "2026-09-12",
-          "arrivals": 0,
+          "arrivals": 1,
           "paidSubscriptions": 0,
-          "arrivalSources": [],
+          "arrivalSources": [
+            {
+              "label": "Fansly Search",
+              "value": 1
+            }
+          ],
           "earnings": 0,
           "unansweredMessages": null
         }
@@ -5687,7 +5692,7 @@
           "paidSubscriptions": 0,
           "arrivalSources": [],
           "earnings": 0,
-          "unansweredMessages": 16
+          "unansweredMessages": 17
         },
         {
           "date": "2026-09-12",
@@ -6279,12 +6284,12 @@
         },
         {
           "date": "2026-09-12",
-          "arrivals": 4,
+          "arrivals": 5,
           "paidSubscriptions": 0,
           "arrivalSources": [
             {
               "label": "Fansly FYP",
-              "value": 3
+              "value": 4
             },
             {
               "label": "Fansly Search",
