@@ -4,8 +4,8 @@
     "title": "James Statistics",
     "agencyName": "Virgin 67 (six seven) Agency"
   },
-  "publishedAt": "2026-09-13T08:20:05.605Z",
-  "dataGeneratedAt": "2026-09-13T07:38:42.647Z",
+  "publishedAt": "2026-09-13T09:20:11.643Z",
+  "dataGeneratedAt": "2026-09-13T09:01:37.526Z",
   "range": {
     "from": "2025-09-09",
     "to": "2026-09-13"
@@ -1474,7 +1474,7 @@
       "platform": "fansly",
       "username": "littleyulia",
       "dataFrom": "2026-07-29",
-      "dataThrough": "2026-09-12",
+      "dataThrough": "2026-09-13",
       "stale": true,
       "series": [
         {
@@ -2663,7 +2663,7 @@
         {
           "date": "2026-09-12",
           "arrivals": 22,
-          "paidSubscriptions": 0,
+          "paidSubscriptions": 5,
           "arrivalSources": [
             {
               "label": "Fansly FYP",
@@ -2671,6 +2671,35 @@
             },
             {
               "label": "Fansly Search",
+              "value": 1
+            }
+          ],
+          "earnings": 39.2,
+          "unansweredMessages": 0
+        },
+        {
+          "date": "2026-09-13",
+          "arrivals": 36,
+          "paidSubscriptions": 0,
+          "arrivalSources": [
+            {
+              "label": "Fansly FYP",
+              "value": 31
+            },
+            {
+              "label": "Перегон со второй страницы",
+              "value": 2
+            },
+            {
+              "label": "Fansly Search",
+              "value": 1
+            },
+            {
+              "label": "Фикфап",
+              "value": 1
+            },
+            {
+              "label": "Ваптпап",
               "value": 1
             }
           ],
