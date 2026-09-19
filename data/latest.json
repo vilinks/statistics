@@ -4,8 +4,8 @@
     "title": "James Statistics",
     "agencyName": "Virgin 67 (six seven) Agency"
   },
-  "publishedAt": "2026-09-19T11:32:40.696Z",
-  "dataGeneratedAt": "2026-09-15T06:38:16.986Z",
+  "publishedAt": "2026-09-19T12:33:39.774Z",
+  "dataGeneratedAt": "2026-09-19T12:26:29.455Z",
   "range": {
     "from": "2025-09-15",
     "to": "2026-09-19"
@@ -22,7 +22,7 @@
       "platform": "onlyfans",
       "username": "lilyuliaxo",
       "dataFrom": "2026-07-28",
-      "dataThrough": "2026-09-14",
+      "dataThrough": "2026-09-19",
       "stale": true,
       "series": [
         {
@@ -724,6 +724,39 @@
           "unansweredMessages": null
         },
         {
+          "date": "2026-08-21",
+          "arrivals": 17,
+          "paidSubscriptions": 0,
+          "arrivalSources": [
+            {
+              "label": "Реддит 2 Sined",
+              "value": 8
+            },
+            {
+              "label": "fikfap",
+              "value": 3
+            },
+            {
+              "label": "Порнпикс",
+              "value": 2
+            },
+            {
+              "label": "Редгифс",
+              "value": 2
+            },
+            {
+              "label": "GG SFS",
+              "value": 1
+            },
+            {
+              "label": "TicPorn",
+              "value": 1
+            }
+          ],
+          "earnings": 0,
+          "unansweredMessages": null
+        },
+        {
           "date": "2026-08-22",
           "arrivals": 10,
           "paidSubscriptions": 2,
@@ -1360,7 +1393,7 @@
         },
         {
           "date": "2026-09-10",
-          "arrivals": 22,
+          "arrivals": 23,
           "paidSubscriptions": 1,
           "arrivalSources": [
             {
@@ -1373,6 +1406,10 @@
             },
             {
               "label": "TicPorn",
+              "value": 2
+            },
+            {
+              "label": "ИксФлоу",
               "value": 2
             },
             {
@@ -1393,10 +1430,6 @@
             },
             {
               "label": "ПX 2",
-              "value": 1
-            },
-            {
-              "label": "ИксФлоу",
               "value": 1
             }
           ],
@@ -1550,6 +1583,527 @@
           ],
           "earnings": 11.2,
           "unansweredMessages": null
+        },
+        {
+          "date": "2026-09-15",
+          "arrivals": 7,
+          "paidSubscriptions": 0,
+          "arrivalSources": [
+            {
+              "label": "GG SFS",
+              "value": 2
+            },
+            {
+              "label": "ПX 2",
+              "value": 2
+            },
+            {
+              "label": "Хамстер",
+              "value": 1
+            },
+            {
+              "label": "TicPorn",
+              "value": 1
+            },
+            {
+              "label": "ИксФлоу",
+              "value": 1
+            }
+          ],
+          "earnings": 0,
+          "unansweredMessages": null
+        },
+        {
+          "date": "2026-09-16",
+          "arrivals": 2304,
+          "paidSubscriptions": 0,
+          "arrivalSources": [
+            {
+              "label": "Редит",
+              "value": 495
+            },
+            {
+              "label": "Твитер",
+              "value": 472
+            },
+            {
+              "label": "твитер 2",
+              "value": 336
+            },
+            {
+              "label": "xfree",
+              "value": 311
+            },
+            {
+              "label": "ПорноХаб",
+              "value": 205
+            },
+            {
+              "label": "Ютуб - П",
+              "value": 98
+            },
+            {
+              "label": "редит",
+              "value": 63
+            },
+            {
+              "label": "Редгифс",
+              "value": 57
+            },
+            {
+              "label": "твитер 5",
+              "value": 50
+            },
+            {
+              "label": "SEXCOM",
+              "value": 26
+            },
+            {
+              "label": "твитер",
+              "value": 25
+            },
+            {
+              "label": "твитер 2 @JuliaJuliaaai",
+              "value": 25
+            },
+            {
+              "label": "твтер 5",
+              "value": 25
+            },
+            {
+              "label": "5",
+              "value": 25
+            },
+            {
+              "label": "Редит 1",
+              "value": 14
+            },
+            {
+              "label": "ютуб",
+              "value": 14
+            },
+            {
+              "label": "рэдгифс",
+              "value": 14
+            },
+            {
+              "label": "trial",
+              "value": 13
+            },
+            {
+              "label": "trl",
+              "value": 11
+            },
+            {
+              "label": "Ютуб - О",
+              "value": 6
+            },
+            {
+              "label": "TRL",
+              "value": 4
+            },
+            {
+              "label": "TicPorn",
+              "value": 3
+            },
+            {
+              "label": "GG SFS",
+              "value": 2
+            },
+            {
+              "label": "fikfap",
+              "value": 2
+            },
+            {
+              "label": "ПX 2",
+              "value": 2
+            },
+            {
+              "label": "X1 @pretty_uma1",
+              "value": 1
+            },
+            {
+              "label": "Порнпикс",
+              "value": 1
+            },
+            {
+              "label": "Твитер 6",
+              "value": 1
+            },
+            {
+              "label": "Ваптап",
+              "value": 1
+            },
+            {
+              "label": "ИксФлоу",
+              "value": 1
+            },
+            {
+              "label": "Редит 2",
+              "value": 1
+            }
+          ],
+          "earnings": 0,
+          "unansweredMessages": null
+        },
+        {
+          "date": "2026-09-17",
+          "arrivals": 2294,
+          "paidSubscriptions": 0,
+          "arrivalSources": [
+            {
+              "label": "Редит",
+              "value": 495
+            },
+            {
+              "label": "Твитер",
+              "value": 472
+            },
+            {
+              "label": "твитер 2",
+              "value": 336
+            },
+            {
+              "label": "xfree",
+              "value": 311
+            },
+            {
+              "label": "ПорноХаб",
+              "value": 204
+            },
+            {
+              "label": "Ютуб - П",
+              "value": 97
+            },
+            {
+              "label": "редит",
+              "value": 63
+            },
+            {
+              "label": "Редгифс",
+              "value": 56
+            },
+            {
+              "label": "твитер 5",
+              "value": 50
+            },
+            {
+              "label": "SEXCOM",
+              "value": 26
+            },
+            {
+              "label": "твитер",
+              "value": 25
+            },
+            {
+              "label": "твитер 2 @JuliaJuliaaai",
+              "value": 25
+            },
+            {
+              "label": "твтер 5",
+              "value": 25
+            },
+            {
+              "label": "5",
+              "value": 25
+            },
+            {
+              "label": "Редит 1",
+              "value": 14
+            },
+            {
+              "label": "ютуб",
+              "value": 14
+            },
+            {
+              "label": "рэдгифс",
+              "value": 13
+            },
+            {
+              "label": "trial",
+              "value": 13
+            },
+            {
+              "label": "trl",
+              "value": 11
+            },
+            {
+              "label": "Ютуб - О",
+              "value": 6
+            },
+            {
+              "label": "TRL",
+              "value": 4
+            },
+            {
+              "label": "Хамстер",
+              "value": 2
+            },
+            {
+              "label": "X1 @pretty_uma1",
+              "value": 1
+            },
+            {
+              "label": "GG SFS",
+              "value": 1
+            },
+            {
+              "label": "Порнпикс",
+              "value": 1
+            },
+            {
+              "label": "fikfap",
+              "value": 1
+            },
+            {
+              "label": "TicPorn",
+              "value": 1
+            },
+            {
+              "label": "Ваптап",
+              "value": 1
+            },
+            {
+              "label": "Редит 2",
+              "value": 1
+            }
+          ],
+          "earnings": 0,
+          "unansweredMessages": null
+        },
+        {
+          "date": "2026-09-18",
+          "arrivals": 2296,
+          "paidSubscriptions": 0,
+          "arrivalSources": [
+            {
+              "label": "Редит",
+              "value": 495
+            },
+            {
+              "label": "Твитер",
+              "value": 472
+            },
+            {
+              "label": "твитер 2",
+              "value": 336
+            },
+            {
+              "label": "xfree",
+              "value": 311
+            },
+            {
+              "label": "ПорноХаб",
+              "value": 204
+            },
+            {
+              "label": "Ютуб - П",
+              "value": 97
+            },
+            {
+              "label": "редит",
+              "value": 62
+            },
+            {
+              "label": "Редгифс",
+              "value": 56
+            },
+            {
+              "label": "твитер 5",
+              "value": 50
+            },
+            {
+              "label": "SEXCOM",
+              "value": 25
+            },
+            {
+              "label": "твитер",
+              "value": 25
+            },
+            {
+              "label": "твитер 2 @JuliaJuliaaai",
+              "value": 25
+            },
+            {
+              "label": "твтер 5",
+              "value": 25
+            },
+            {
+              "label": "5",
+              "value": 25
+            },
+            {
+              "label": "Редит 1",
+              "value": 13
+            },
+            {
+              "label": "ютуб",
+              "value": 13
+            },
+            {
+              "label": "рэдгифс",
+              "value": 13
+            },
+            {
+              "label": "trial",
+              "value": 12
+            },
+            {
+              "label": "Реддит 2 Sined",
+              "value": 11
+            },
+            {
+              "label": "trl",
+              "value": 10
+            },
+            {
+              "label": "Ютуб - О",
+              "value": 5
+            },
+            {
+              "label": "TRL",
+              "value": 4
+            },
+            {
+              "label": "fikfap",
+              "value": 2
+            },
+            {
+              "label": "GG SFS",
+              "value": 1
+            },
+            {
+              "label": "Хамстер",
+              "value": 1
+            },
+            {
+              "label": "TicPorn",
+              "value": 1
+            },
+            {
+              "label": "ПX 2",
+              "value": 1
+            },
+            {
+              "label": "Редит 2",
+              "value": 1
+            }
+          ],
+          "earnings": 246.4,
+          "unansweredMessages": null
+        },
+        {
+          "date": "2026-09-19",
+          "arrivals": 2278,
+          "paidSubscriptions": 0,
+          "arrivalSources": [
+            {
+              "label": "Редит",
+              "value": 495
+            },
+            {
+              "label": "Твитер",
+              "value": 471
+            },
+            {
+              "label": "твитер 2",
+              "value": 335
+            },
+            {
+              "label": "xfree",
+              "value": 311
+            },
+            {
+              "label": "ПорноХаб",
+              "value": 204
+            },
+            {
+              "label": "Ютуб - П",
+              "value": 97
+            },
+            {
+              "label": "редит",
+              "value": 59
+            },
+            {
+              "label": "Редгифс",
+              "value": 56
+            },
+            {
+              "label": "твитер 5",
+              "value": 50
+            },
+            {
+              "label": "SEXCOM",
+              "value": 25
+            },
+            {
+              "label": "твитер",
+              "value": 25
+            },
+            {
+              "label": "твитер 2 @JuliaJuliaaai",
+              "value": 25
+            },
+            {
+              "label": "твтер 5",
+              "value": 25
+            },
+            {
+              "label": "5",
+              "value": 25
+            },
+            {
+              "label": "Редит 1",
+              "value": 13
+            },
+            {
+              "label": "ютуб",
+              "value": 13
+            },
+            {
+              "label": "рэдгифс",
+              "value": 13
+            },
+            {
+              "label": "trial",
+              "value": 12
+            },
+            {
+              "label": "trl",
+              "value": 10
+            },
+            {
+              "label": "Ютуб - О",
+              "value": 5
+            },
+            {
+              "label": "TRL",
+              "value": 3
+            },
+            {
+              "label": "GG SFS",
+              "value": 2
+            },
+            {
+              "label": "fikfap",
+              "value": 1
+            },
+            {
+              "label": "TicPorn",
+              "value": 1
+            },
+            {
+              "label": "ПX 2",
+              "value": 1
+            },
+            {
+              "label": "ИксФлоу",
+              "value": 1
+            }
+          ],
+          "earnings": 0,
+          "unansweredMessages": null
         }
       ]
     },
@@ -1560,7 +2114,7 @@
       "platform": "fansly",
       "username": "littleyulia",
       "dataFrom": "2026-07-29",
-      "dataThrough": "2026-09-15",
+      "dataThrough": "2026-09-19",
       "stale": true,
       "series": [
         {
@@ -2841,6 +3395,126 @@
           ],
           "earnings": 0,
           "unansweredMessages": null
+        },
+        {
+          "date": "2026-09-16",
+          "arrivals": 31,
+          "paidSubscriptions": 0,
+          "arrivalSources": [
+            {
+              "label": "Fansly FYP",
+              "value": 21
+            },
+            {
+              "label": "Fansly Suggestions",
+              "value": 2
+            },
+            {
+              "label": "Fansly Search",
+              "value": 1
+            },
+            {
+              "label": "Пх",
+              "value": 1
+            },
+            {
+              "label": "Фикфап",
+              "value": 1
+            },
+            {
+              "label": "Иксфри",
+              "value": 1
+            },
+            {
+              "label": "Пх 2",
+              "value": 1
+            },
+            {
+              "label": "Хамстер",
+              "value": 1
+            },
+            {
+              "label": "Перегон со второй страницы",
+              "value": 1
+            },
+            {
+              "label": "Юля 3 @fleamxxxx",
+              "value": 1
+            }
+          ],
+          "earnings": 0,
+          "unansweredMessages": null
+        },
+        {
+          "date": "2026-09-17",
+          "arrivals": 25,
+          "paidSubscriptions": 0,
+          "arrivalSources": [
+            {
+              "label": "Fansly FYP",
+              "value": 20
+            },
+            {
+              "label": "Fansly Suggestions",
+              "value": 1
+            },
+            {
+              "label": "Fansly Search",
+              "value": 1
+            },
+            {
+              "label": "Фикфап",
+              "value": 1
+            },
+            {
+              "label": "Перегон со второй страницы",
+              "value": 1
+            },
+            {
+              "label": "Юля 3 @fleamxxxx",
+              "value": 1
+            }
+          ],
+          "earnings": 0,
+          "unansweredMessages": null
+        },
+        {
+          "date": "2026-09-18",
+          "arrivals": 22,
+          "paidSubscriptions": 4,
+          "arrivalSources": [
+            {
+              "label": "Fansly FYP",
+              "value": 20
+            },
+            {
+              "label": "Fansly Suggestions",
+              "value": 1
+            },
+            {
+              "label": "Фикфап",
+              "value": 1
+            }
+          ],
+          "earnings": 314,
+          "unansweredMessages": 4
+        },
+        {
+          "date": "2026-09-19",
+          "arrivals": 21,
+          "paidSubscriptions": 0,
+          "arrivalSources": [
+            {
+              "label": "Fansly FYP",
+              "value": 20
+            },
+            {
+              "label": "Fansly Suggestions",
+              "value": 1
+            }
+          ],
+          "earnings": 0,
+          "unansweredMessages": null
         }
       ]
     },
@@ -2851,7 +3525,7 @@
       "platform": "fansly",
       "username": "julianna348",
       "dataFrom": "2026-07-28",
-      "dataThrough": "2026-09-15",
+      "dataThrough": "2026-09-19",
       "stale": true,
       "series": [
         {
@@ -3483,6 +4157,58 @@
           ],
           "earnings": 0,
           "unansweredMessages": null
+        },
+        {
+          "date": "2026-09-16",
+          "arrivals": 4,
+          "paidSubscriptions": 0,
+          "arrivalSources": [
+            {
+              "label": "Fansly FYP",
+              "value": 4
+            }
+          ],
+          "earnings": 0,
+          "unansweredMessages": null
+        },
+        {
+          "date": "2026-09-17",
+          "arrivals": 4,
+          "paidSubscriptions": 0,
+          "arrivalSources": [
+            {
+              "label": "Fansly FYP",
+              "value": 4
+            }
+          ],
+          "earnings": 0,
+          "unansweredMessages": null
+        },
+        {
+          "date": "2026-09-18",
+          "arrivals": 4,
+          "paidSubscriptions": 1,
+          "arrivalSources": [
+            {
+              "label": "Fansly FYP",
+              "value": 4
+            }
+          ],
+          "earnings": 4,
+          "unansweredMessages": 6
+        },
+        {
+          "date": "2026-09-19",
+          "arrivals": 3,
+          "paidSubscriptions": 0,
+          "arrivalSources": [
+            {
+              "label": "Fansly FYP",
+              "value": 3
+            }
+          ],
+          "earnings": 0,
+          "unansweredMessages": null
         }
       ]
     },
@@ -3493,7 +4219,7 @@
       "platform": "onlyfans",
       "username": "bamby_eyes_vip",
       "dataFrom": "2026-07-28",
-      "dataThrough": "2026-09-14",
+      "dataThrough": "2026-09-19",
       "stale": true,
       "series": [
         {
@@ -3856,6 +4582,27 @@
           "unansweredMessages": null
         },
         {
+          "date": "2026-08-21",
+          "arrivals": 6,
+          "paidSubscriptions": 0,
+          "arrivalSources": [
+            {
+              "label": "РЕДИТ",
+              "value": 4
+            },
+            {
+              "label": "GG @averymayy 25.11.25",
+              "value": 1
+            },
+            {
+              "label": "adult source 01.07.25",
+              "value": 1
+            }
+          ],
+          "earnings": 0,
+          "unansweredMessages": null
+        },
+        {
           "date": "2026-08-22",
           "arrivals": 4,
           "paidSubscriptions": 1,
@@ -3944,13 +4691,34 @@
           "unansweredMessages": null
         },
         {
+          "date": "2026-08-26",
+          "arrivals": 5,
+          "paidSubscriptions": 0,
+          "arrivalSources": [
+            {
+              "label": "Instagram",
+              "value": 2
+            },
+            {
+              "label": "SEO 01.10.25",
+              "value": 2
+            },
+            {
+              "label": "GG @averymayy 25.11.25",
+              "value": 1
+            }
+          ],
+          "earnings": 0,
+          "unansweredMessages": null
+        },
+        {
           "date": "2026-08-27",
-          "arrivals": 22,
+          "arrivals": 40,
           "paidSubscriptions": 1,
           "arrivalSources": [
             {
               "label": "Instagram",
-              "value": 18
+              "value": 36
             },
             {
               "label": "blog 26.10.25",
@@ -4025,12 +4793,16 @@
         },
         {
           "date": "2026-08-31",
-          "arrivals": 4,
+          "arrivals": 5,
           "paidSubscriptions": 0,
           "arrivalSources": [
             {
               "label": "GG @averymayy 25.11.25",
               "value": 4
+            },
+            {
+              "label": "Adult Forums 01.10.25",
+              "value": 1
             }
           ],
           "earnings": 0,
@@ -4051,16 +4823,16 @@
         },
         {
           "date": "2026-09-02",
-          "arrivals": 4,
+          "arrivals": 5,
           "paidSubscriptions": 0,
           "arrivalSources": [
             {
-              "label": "GG @averymayy 25.11.25",
+              "label": "Instagram",
               "value": 2
             },
             {
-              "label": "Instagram",
-              "value": 1
+              "label": "GG @averymayy 25.11.25",
+              "value": 2
             },
             {
               "label": "OF Search Engine 18.10.25",
@@ -4122,12 +4894,12 @@
         },
         {
           "date": "2026-09-05",
-          "arrivals": 3,
+          "arrivals": 4,
           "paidSubscriptions": 1,
           "arrivalSources": [
             {
               "label": "Instagram",
-              "value": 1
+              "value": 2
             },
             {
               "label": "Органика твиттер без обнаженки",
@@ -4143,12 +4915,12 @@
         },
         {
           "date": "2026-09-06",
-          "arrivals": 6,
+          "arrivals": 8,
           "paidSubscriptions": 0,
           "arrivalSources": [
             {
               "label": "Instagram",
-              "value": 2
+              "value": 4
             },
             {
               "label": "twitter 21.09.25",
@@ -4168,12 +4940,12 @@
         },
         {
           "date": "2026-09-07",
-          "arrivals": 6,
+          "arrivals": 10,
           "paidSubscriptions": 0,
           "arrivalSources": [
             {
               "label": "Instagram",
-              "value": 4
+              "value": 8
             },
             {
               "label": "Органика твиттер без обнаженки",
@@ -4189,16 +4961,16 @@
         },
         {
           "date": "2026-09-08",
-          "arrivals": 6,
+          "arrivals": 7,
           "paidSubscriptions": 1,
           "arrivalSources": [
             {
-              "label": "хххфлоу",
+              "label": "Instagram",
               "value": 2
             },
             {
-              "label": "Instagram",
-              "value": 1
+              "label": "хххфлоу",
+              "value": 2
             },
             {
               "label": "GG @averymayy 25.11.25",
@@ -4252,12 +5024,12 @@
         },
         {
           "date": "2026-09-11",
-          "arrivals": 4,
+          "arrivals": 7,
           "paidSubscriptions": 0,
           "arrivalSources": [
             {
               "label": "Instagram",
-              "value": 1
+              "value": 2
             },
             {
               "label": "GG SFS",
@@ -4269,6 +5041,14 @@
             },
             {
               "label": "twitter 11.11.25",
+              "value": 1
+            },
+            {
+              "label": "Adult Forums 01.10.25",
+              "value": 1
+            },
+            {
+              "label": "twitter 21.09.25",
               "value": 1
             }
           ],
@@ -4302,12 +5082,12 @@
         },
         {
           "date": "2026-09-13",
-          "arrivals": 6,
+          "arrivals": 9,
           "paidSubscriptions": 0,
           "arrivalSources": [
             {
               "label": "Instagram",
-              "value": 3
+              "value": 6
             },
             {
               "label": "GG @averymayy 25.11.25",
@@ -4345,6 +5125,1415 @@
           ],
           "earnings": 0,
           "unansweredMessages": null
+        },
+        {
+          "date": "2026-09-15",
+          "arrivals": 1,
+          "paidSubscriptions": 0,
+          "arrivalSources": [
+            {
+              "label": "GG @averymayy 25.11.25",
+              "value": 1
+            }
+          ],
+          "earnings": 0,
+          "unansweredMessages": null
+        },
+        {
+          "date": "2026-09-16",
+          "arrivals": 8768,
+          "paidSubscriptions": 0,
+          "arrivalSources": [
+            {
+              "label": "Swap (our models)",
+              "value": 1098
+            },
+            {
+              "label": "Mutually PR (Jessi) (1 month free trial)",
+              "value": 918
+            },
+            {
+              "label": "GG - WML Software (twitter)",
+              "value": 719
+            },
+            {
+              "label": "blog - Don Vito",
+              "value": 546
+            },
+            {
+              "label": "CAPITOSHKA",
+              "value": 498
+            },
+            {
+              "label": "KOSMOSNADIA",
+              "value": 485
+            },
+            {
+              "label": "blog 21.09.24",
+              "value": 264
+            },
+            {
+              "label": "GG- Arinka (OF)",
+              "value": 242
+            },
+            {
+              "label": "blog 10.05.25",
+              "value": 221
+            },
+            {
+              "label": "twitter 02.02.25",
+              "value": 210
+            },
+            {
+              "label": "twitter 27.09.24",
+              "value": 208
+            },
+            {
+              "label": "Tumblr 06.12.24",
+              "value": 196
+            },
+            {
+              "label": "Adult Forums 22.10.24",
+              "value": 183
+            },
+            {
+              "label": "Redison Bamby",
+              "value": 161
+            },
+            {
+              "label": "Adult Forums 18.05.25",
+              "value": 160
+            },
+            {
+              "label": "twitter 18.05.25",
+              "value": 152
+            },
+            {
+              "label": "twitter 16.07.24",
+              "value": 137
+            },
+            {
+              "label": "telegram 16.10.24",
+              "value": 136
+            },
+            {
+              "label": "twitter 29.07.24",
+              "value": 131
+            },
+            {
+              "label": "blog 06.06.24",
+              "value": 106
+            },
+            {
+              "label": "TIMBURTON",
+              "value": 99
+            },
+            {
+              "label": "Adult Forums 08.04.25",
+              "value": 92
+            },
+            {
+              "label": "onlyfans 13.12.24",
+              "value": 89
+            },
+            {
+              "label": "Adult Forums 04.03.25",
+              "value": 88
+            },
+            {
+              "label": "instagram 02.11.24",
+              "value": 80
+            },
+            {
+              "label": "Bamby Eyes Twitter 25.11",
+              "value": 79
+            },
+            {
+              "label": "Adult Forums 05.02.25",
+              "value": 78
+            },
+            {
+              "label": "blog 18.05.25",
+              "value": 77
+            },
+            {
+              "label": "@farm_fetlife GG 280 subs",
+              "value": 72
+            },
+            {
+              "label": "onlyfans 24.05.25",
+              "value": 66
+            },
+            {
+              "label": "GG  Tesla Traff",
+              "value": 62
+            },
+            {
+              "label": "REDDIT NEW CardoCrew Traffic",
+              "value": 56
+            },
+            {
+              "label": "REDDIT NEW @Srochnoe_delo",
+              "value": 55
+            },
+            {
+              "label": "blog 25.04.25",
+              "value": 54
+            },
+            {
+              "label": "onlyfans 14.01.25",
+              "value": 51
+            },
+            {
+              "label": "INSTA NEW CardoCrew Traffic",
+              "value": 45
+            },
+            {
+              "label": "twitter 10.05.25",
+              "value": 40
+            },
+            {
+              "label": "Websites 12.12.24",
+              "value": 39
+            },
+            {
+              "label": "blog 13.05.25",
+              "value": 37
+            },
+            {
+              "label": "REDDIT CardoCrew Traffic",
+              "value": 37
+            },
+            {
+              "label": "onlyfans 10.05.25",
+              "value": 34
+            },
+            {
+              "label": "twitter 25.02.25",
+              "value": 33
+            },
+            {
+              "label": "telegram 14.05.25",
+              "value": 32
+            },
+            {
+              "label": "onlyfans 28.02.25",
+              "value": 32
+            },
+            {
+              "label": "TIMBURTON 2",
+              "value": 32
+            },
+            {
+              "label": "REDDIT @Srochnoe_delo",
+              "value": 32
+            },
+            {
+              "label": "onlyfans 26.04.25",
+              "value": 31
+            },
+            {
+              "label": "onlyfans 10.04.25",
+              "value": 31
+            },
+            {
+              "label": "onlyfans 09.05.25",
+              "value": 30
+            },
+            {
+              "label": "onlyfans 15.10.24",
+              "value": 30
+            },
+            {
+              "label": "onlyfans 22.04.25",
+              "value": 29
+            },
+            {
+              "label": "blog 18.03.25",
+              "value": 29
+            },
+            {
+              "label": "onlyfans 17.03.25",
+              "value": 29
+            },
+            {
+              "label": "onlyfans 16.12.24",
+              "value": 27
+            },
+            {
+              "label": "SEO Websites Network  07.03.25",
+              "value": 24
+            },
+            {
+              "label": "twitter 21.01.25",
+              "value": 24
+            },
+            {
+              "label": "REDDIT new @Srochnoe_delo",
+              "value": 24
+            },
+            {
+              "label": "GG -@realtrafficdealer  USA",
+              "value": 22
+            },
+            {
+              "label": "blog 05.06.24",
+              "value": 22
+            },
+            {
+              "label": "blog 29.01.25",
+              "value": 21
+            },
+            {
+              "label": "blog 09.04.25",
+              "value": 17
+            },
+            {
+              "label": "blog 03.03.25",
+              "value": 15
+            },
+            {
+              "label": "forum - Malenok",
+              "value": 13
+            },
+            {
+              "label": "blog 28.02.25",
+              "value": 12
+            },
+            {
+              "label": "blog - SEO",
+              "value": 10
+            },
+            {
+              "label": "blog 27.02.25",
+              "value": 9
+            },
+            {
+              "label": "blog 02.04.25",
+              "value": 8
+            },
+            {
+              "label": "REDDIT @AndyCake",
+              "value": 7
+            },
+            {
+              "label": "instagram 24.04.25",
+              "value": 5
+            },
+            {
+              "label": "blog 02.03.25",
+              "value": 4
+            },
+            {
+              "label": "Swap @Apree_promo_assist Spirit Moon",
+              "value": 3
+            },
+            {
+              "label": "onlyfans 02.03.25",
+              "value": 3
+            },
+            {
+              "label": "FREE PAGE",
+              "value": 3
+            },
+            {
+              "label": "instagram 15.03.25",
+              "value": 2
+            },
+            {
+              "label": "Cardo Crew INSTAGRAM",
+              "value": 2
+            },
+            {
+              "label": "GG @averymayy 25.11.25",
+              "value": 1
+            },
+            {
+              "label": "Adult Forums 01.10.25",
+              "value": 1
+            },
+            {
+              "label": "Pornpics 04.08.25",
+              "value": 1
+            },
+            {
+              "label": "facebook 07.05.25",
+              "value": 1
+            },
+            {
+              "label": "blog 17.03.25",
+              "value": 1
+            },
+            {
+              "label": "blog 10.03.25",
+              "value": 1
+            },
+            {
+              "label": "own sites 28.01.25",
+              "value": 1
+            },
+            {
+              "label": "twitter 03.12.24",
+              "value": 1
+            },
+            {
+              "label": "own sites 06.11.24",
+              "value": 1
+            },
+            {
+              "label": "twitter 17.09.24",
+              "value": 1
+            },
+            {
+              "label": "blog 24.08.24",
+              "value": 1
+            },
+            {
+              "label": "twitter 16.08.24",
+              "value": 1
+            },
+            {
+              "label": "Кит Оливер",
+              "value": 1
+            },
+            {
+              "label": "instagram 05.06.24",
+              "value": 1
+            },
+            {
+              "label": "telegram 01.06.24",
+              "value": 1
+            },
+            {
+              "label": "YouTube @sphonk",
+              "value": 1
+            },
+            {
+              "label": "telegram 08.04.24",
+              "value": 1
+            },
+            {
+              "label": "blog 04.04.24",
+              "value": 1
+            },
+            {
+              "label": "blog - Vishal Singh",
+              "value": 1
+            },
+            {
+              "label": "INSTAGRAM new @sphonk",
+              "value": 1
+            }
+          ],
+          "earnings": 0,
+          "unansweredMessages": null
+        },
+        {
+          "date": "2026-09-17",
+          "arrivals": 8734,
+          "paidSubscriptions": 0,
+          "arrivalSources": [
+            {
+              "label": "Swap (our models)",
+              "value": 1098
+            },
+            {
+              "label": "Mutually PR (Jessi) (1 month free trial)",
+              "value": 917
+            },
+            {
+              "label": "GG - WML Software (twitter)",
+              "value": 718
+            },
+            {
+              "label": "blog - Don Vito",
+              "value": 546
+            },
+            {
+              "label": "CAPITOSHKA",
+              "value": 497
+            },
+            {
+              "label": "KOSMOSNADIA",
+              "value": 485
+            },
+            {
+              "label": "blog 21.09.24",
+              "value": 264
+            },
+            {
+              "label": "GG- Arinka (OF)",
+              "value": 241
+            },
+            {
+              "label": "blog 10.05.25",
+              "value": 221
+            },
+            {
+              "label": "twitter 02.02.25",
+              "value": 209
+            },
+            {
+              "label": "twitter 27.09.24",
+              "value": 208
+            },
+            {
+              "label": "Tumblr 06.12.24",
+              "value": 196
+            },
+            {
+              "label": "Adult Forums 22.10.24",
+              "value": 183
+            },
+            {
+              "label": "Redison Bamby",
+              "value": 161
+            },
+            {
+              "label": "Adult Forums 18.05.25",
+              "value": 160
+            },
+            {
+              "label": "twitter 18.05.25",
+              "value": 152
+            },
+            {
+              "label": "twitter 16.07.24",
+              "value": 137
+            },
+            {
+              "label": "telegram 16.10.24",
+              "value": 135
+            },
+            {
+              "label": "twitter 29.07.24",
+              "value": 131
+            },
+            {
+              "label": "blog 06.06.24",
+              "value": 105
+            },
+            {
+              "label": "TIMBURTON",
+              "value": 99
+            },
+            {
+              "label": "Adult Forums 08.04.25",
+              "value": 92
+            },
+            {
+              "label": "Adult Forums 04.03.25",
+              "value": 88
+            },
+            {
+              "label": "onlyfans 13.12.24",
+              "value": 88
+            },
+            {
+              "label": "Bamby Eyes Twitter 25.11",
+              "value": 79
+            },
+            {
+              "label": "instagram 02.11.24",
+              "value": 79
+            },
+            {
+              "label": "Adult Forums 05.02.25",
+              "value": 78
+            },
+            {
+              "label": "blog 18.05.25",
+              "value": 77
+            },
+            {
+              "label": "@farm_fetlife GG 280 subs",
+              "value": 72
+            },
+            {
+              "label": "onlyfans 24.05.25",
+              "value": 65
+            },
+            {
+              "label": "GG  Tesla Traff",
+              "value": 62
+            },
+            {
+              "label": "REDDIT NEW CardoCrew Traffic",
+              "value": 55
+            },
+            {
+              "label": "REDDIT NEW @Srochnoe_delo",
+              "value": 55
+            },
+            {
+              "label": "blog 25.04.25",
+              "value": 54
+            },
+            {
+              "label": "onlyfans 14.01.25",
+              "value": 51
+            },
+            {
+              "label": "INSTA NEW CardoCrew Traffic",
+              "value": 45
+            },
+            {
+              "label": "twitter 10.05.25",
+              "value": 40
+            },
+            {
+              "label": "Websites 12.12.24",
+              "value": 39
+            },
+            {
+              "label": "blog 13.05.25",
+              "value": 37
+            },
+            {
+              "label": "REDDIT CardoCrew Traffic",
+              "value": 37
+            },
+            {
+              "label": "onlyfans 10.05.25",
+              "value": 34
+            },
+            {
+              "label": "telegram 14.05.25",
+              "value": 32
+            },
+            {
+              "label": "onlyfans 28.02.25",
+              "value": 32
+            },
+            {
+              "label": "twitter 25.02.25",
+              "value": 32
+            },
+            {
+              "label": "TIMBURTON 2",
+              "value": 32
+            },
+            {
+              "label": "onlyfans 26.04.25",
+              "value": 31
+            },
+            {
+              "label": "REDDIT @Srochnoe_delo",
+              "value": 31
+            },
+            {
+              "label": "onlyfans 09.05.25",
+              "value": 30
+            },
+            {
+              "label": "onlyfans 10.04.25",
+              "value": 30
+            },
+            {
+              "label": "onlyfans 22.04.25",
+              "value": 29
+            },
+            {
+              "label": "blog 18.03.25",
+              "value": 29
+            },
+            {
+              "label": "onlyfans 17.03.25",
+              "value": 29
+            },
+            {
+              "label": "onlyfans 15.10.24",
+              "value": 29
+            },
+            {
+              "label": "onlyfans 16.12.24",
+              "value": 27
+            },
+            {
+              "label": "SEO Websites Network  07.03.25",
+              "value": 24
+            },
+            {
+              "label": "twitter 21.01.25",
+              "value": 24
+            },
+            {
+              "label": "REDDIT new @Srochnoe_delo",
+              "value": 24
+            },
+            {
+              "label": "GG -@realtrafficdealer  USA",
+              "value": 22
+            },
+            {
+              "label": "blog 29.01.25",
+              "value": 21
+            },
+            {
+              "label": "blog 05.06.24",
+              "value": 21
+            },
+            {
+              "label": "blog 09.04.25",
+              "value": 17
+            },
+            {
+              "label": "blog 03.03.25",
+              "value": 14
+            },
+            {
+              "label": "forum - Malenok",
+              "value": 13
+            },
+            {
+              "label": "blog 28.02.25",
+              "value": 12
+            },
+            {
+              "label": "blog - SEO",
+              "value": 10
+            },
+            {
+              "label": "blog 27.02.25",
+              "value": 9
+            },
+            {
+              "label": "blog 02.04.25",
+              "value": 8
+            },
+            {
+              "label": "REDDIT @AndyCake",
+              "value": 6
+            },
+            {
+              "label": "instagram 24.04.25",
+              "value": 4
+            },
+            {
+              "label": "blog 02.03.25",
+              "value": 4
+            },
+            {
+              "label": "FREE PAGE",
+              "value": 3
+            },
+            {
+              "label": "Swap @Apree_promo_assist Spirit Moon",
+              "value": 2
+            },
+            {
+              "label": "instagram 15.03.25",
+              "value": 2
+            },
+            {
+              "label": "onlyfans 02.03.25",
+              "value": 2
+            },
+            {
+              "label": "РЕДИТ",
+              "value": 1
+            },
+            {
+              "label": "Шеерсон",
+              "value": 1
+            },
+            {
+              "label": "GG @averymayy 25.11.25",
+              "value": 1
+            },
+            {
+              "label": "blog 17.03.25",
+              "value": 1
+            },
+            {
+              "label": "own sites 28.01.25",
+              "value": 1
+            },
+            {
+              "label": "twitter 17.09.24",
+              "value": 1
+            },
+            {
+              "label": "Cardo Crew INSTAGRAM",
+              "value": 1
+            },
+            {
+              "label": "telegram 01.06.24",
+              "value": 1
+            },
+            {
+              "label": "YouTube @sphonk",
+              "value": 1
+            }
+          ],
+          "earnings": 0,
+          "unansweredMessages": null
+        },
+        {
+          "date": "2026-09-18",
+          "arrivals": 8721,
+          "paidSubscriptions": 0,
+          "arrivalSources": [
+            {
+              "label": "Swap (our models)",
+              "value": 1098
+            },
+            {
+              "label": "Mutually PR (Jessi) (1 month free trial)",
+              "value": 917
+            },
+            {
+              "label": "GG - WML Software (twitter)",
+              "value": 718
+            },
+            {
+              "label": "blog - Don Vito",
+              "value": 546
+            },
+            {
+              "label": "CAPITOSHKA",
+              "value": 497
+            },
+            {
+              "label": "KOSMOSNADIA",
+              "value": 485
+            },
+            {
+              "label": "blog 21.09.24",
+              "value": 264
+            },
+            {
+              "label": "GG- Arinka (OF)",
+              "value": 241
+            },
+            {
+              "label": "blog 10.05.25",
+              "value": 221
+            },
+            {
+              "label": "twitter 02.02.25",
+              "value": 209
+            },
+            {
+              "label": "twitter 27.09.24",
+              "value": 207
+            },
+            {
+              "label": "Tumblr 06.12.24",
+              "value": 195
+            },
+            {
+              "label": "Adult Forums 22.10.24",
+              "value": 183
+            },
+            {
+              "label": "Redison Bamby",
+              "value": 161
+            },
+            {
+              "label": "Adult Forums 18.05.25",
+              "value": 160
+            },
+            {
+              "label": "twitter 18.05.25",
+              "value": 152
+            },
+            {
+              "label": "twitter 16.07.24",
+              "value": 137
+            },
+            {
+              "label": "telegram 16.10.24",
+              "value": 135
+            },
+            {
+              "label": "twitter 29.07.24",
+              "value": 131
+            },
+            {
+              "label": "blog 06.06.24",
+              "value": 104
+            },
+            {
+              "label": "TIMBURTON",
+              "value": 99
+            },
+            {
+              "label": "Adult Forums 08.04.25",
+              "value": 92
+            },
+            {
+              "label": "onlyfans 13.12.24",
+              "value": 88
+            },
+            {
+              "label": "Adult Forums 04.03.25",
+              "value": 87
+            },
+            {
+              "label": "instagram 02.11.24",
+              "value": 79
+            },
+            {
+              "label": "Adult Forums 05.02.25",
+              "value": 78
+            },
+            {
+              "label": "Bamby Eyes Twitter 25.11",
+              "value": 78
+            },
+            {
+              "label": "blog 18.05.25",
+              "value": 77
+            },
+            {
+              "label": "@farm_fetlife GG 280 subs",
+              "value": 71
+            },
+            {
+              "label": "onlyfans 24.05.25",
+              "value": 65
+            },
+            {
+              "label": "GG  Tesla Traff",
+              "value": 61
+            },
+            {
+              "label": "REDDIT NEW CardoCrew Traffic",
+              "value": 55
+            },
+            {
+              "label": "REDDIT NEW @Srochnoe_delo",
+              "value": 55
+            },
+            {
+              "label": "blog 25.04.25",
+              "value": 54
+            },
+            {
+              "label": "onlyfans 14.01.25",
+              "value": 51
+            },
+            {
+              "label": "INSTA NEW CardoCrew Traffic",
+              "value": 45
+            },
+            {
+              "label": "twitter 10.05.25",
+              "value": 40
+            },
+            {
+              "label": "Websites 12.12.24",
+              "value": 39
+            },
+            {
+              "label": "REDDIT CardoCrew Traffic",
+              "value": 37
+            },
+            {
+              "label": "blog 13.05.25",
+              "value": 36
+            },
+            {
+              "label": "onlyfans 10.05.25",
+              "value": 34
+            },
+            {
+              "label": "telegram 14.05.25",
+              "value": 32
+            },
+            {
+              "label": "onlyfans 28.02.25",
+              "value": 32
+            },
+            {
+              "label": "TIMBURTON 2",
+              "value": 32
+            },
+            {
+              "label": "twitter 25.02.25",
+              "value": 31
+            },
+            {
+              "label": "onlyfans 09.05.25",
+              "value": 30
+            },
+            {
+              "label": "onlyfans 26.04.25",
+              "value": 30
+            },
+            {
+              "label": "onlyfans 10.04.25",
+              "value": 30
+            },
+            {
+              "label": "REDDIT @Srochnoe_delo",
+              "value": 30
+            },
+            {
+              "label": "onlyfans 17.03.25",
+              "value": 29
+            },
+            {
+              "label": "onlyfans 15.10.24",
+              "value": 29
+            },
+            {
+              "label": "onlyfans 22.04.25",
+              "value": 28
+            },
+            {
+              "label": "blog 18.03.25",
+              "value": 28
+            },
+            {
+              "label": "onlyfans 16.12.24",
+              "value": 26
+            },
+            {
+              "label": "SEO Websites Network  07.03.25",
+              "value": 24
+            },
+            {
+              "label": "REDDIT new @Srochnoe_delo",
+              "value": 24
+            },
+            {
+              "label": "twitter 21.01.25",
+              "value": 23
+            },
+            {
+              "label": "GG -@realtrafficdealer  USA",
+              "value": 22
+            },
+            {
+              "label": "blog 05.06.24",
+              "value": 21
+            },
+            {
+              "label": "blog 29.01.25",
+              "value": 20
+            },
+            {
+              "label": "blog 09.04.25",
+              "value": 17
+            },
+            {
+              "label": "blog 03.03.25",
+              "value": 14
+            },
+            {
+              "label": "forum - Malenok",
+              "value": 13
+            },
+            {
+              "label": "blog 28.02.25",
+              "value": 12
+            },
+            {
+              "label": "blog - SEO",
+              "value": 10
+            },
+            {
+              "label": "blog 02.04.25",
+              "value": 8
+            },
+            {
+              "label": "blog 27.02.25",
+              "value": 8
+            },
+            {
+              "label": "РЕДИТ",
+              "value": 6
+            },
+            {
+              "label": "REDDIT @AndyCake",
+              "value": 6
+            },
+            {
+              "label": "instagram 24.04.25",
+              "value": 4
+            },
+            {
+              "label": "blog 02.03.25",
+              "value": 4
+            },
+            {
+              "label": "FREE PAGE",
+              "value": 3
+            },
+            {
+              "label": "Swap @Apree_promo_assist Spirit Moon",
+              "value": 2
+            },
+            {
+              "label": "instagram 15.03.25",
+              "value": 2
+            },
+            {
+              "label": "onlyfans 02.03.25",
+              "value": 2
+            },
+            {
+              "label": "Adult Forums 01.10.25",
+              "value": 1
+            },
+            {
+              "label": "SEO 01.10.25",
+              "value": 1
+            },
+            {
+              "label": "own sites 28.01.25",
+              "value": 1
+            },
+            {
+              "label": "twitter 17.09.24",
+              "value": 1
+            },
+            {
+              "label": "Cardo Crew INSTAGRAM",
+              "value": 1
+            },
+            {
+              "label": "telegram 01.06.24",
+              "value": 1
+            },
+            {
+              "label": "YouTube @sphonk",
+              "value": 1
+            }
+          ],
+          "earnings": 252.16,
+          "unansweredMessages": null
+        },
+        {
+          "date": "2026-09-19",
+          "arrivals": 8692,
+          "paidSubscriptions": 0,
+          "arrivalSources": [
+            {
+              "label": "Swap (our models)",
+              "value": 1097
+            },
+            {
+              "label": "Mutually PR (Jessi) (1 month free trial)",
+              "value": 917
+            },
+            {
+              "label": "GG - WML Software (twitter)",
+              "value": 718
+            },
+            {
+              "label": "blog - Don Vito",
+              "value": 545
+            },
+            {
+              "label": "CAPITOSHKA",
+              "value": 497
+            },
+            {
+              "label": "KOSMOSNADIA",
+              "value": 484
+            },
+            {
+              "label": "blog 21.09.24",
+              "value": 264
+            },
+            {
+              "label": "GG- Arinka (OF)",
+              "value": 241
+            },
+            {
+              "label": "blog 10.05.25",
+              "value": 221
+            },
+            {
+              "label": "twitter 02.02.25",
+              "value": 209
+            },
+            {
+              "label": "twitter 27.09.24",
+              "value": 207
+            },
+            {
+              "label": "Tumblr 06.12.24",
+              "value": 195
+            },
+            {
+              "label": "Adult Forums 22.10.24",
+              "value": 183
+            },
+            {
+              "label": "Redison Bamby",
+              "value": 161
+            },
+            {
+              "label": "Adult Forums 18.05.25",
+              "value": 159
+            },
+            {
+              "label": "twitter 18.05.25",
+              "value": 151
+            },
+            {
+              "label": "twitter 16.07.24",
+              "value": 136
+            },
+            {
+              "label": "telegram 16.10.24",
+              "value": 135
+            },
+            {
+              "label": "twitter 29.07.24",
+              "value": 131
+            },
+            {
+              "label": "blog 06.06.24",
+              "value": 104
+            },
+            {
+              "label": "TIMBURTON",
+              "value": 98
+            },
+            {
+              "label": "Adult Forums 08.04.25",
+              "value": 92
+            },
+            {
+              "label": "onlyfans 13.12.24",
+              "value": 88
+            },
+            {
+              "label": "Adult Forums 04.03.25",
+              "value": 87
+            },
+            {
+              "label": "instagram 02.11.24",
+              "value": 79
+            },
+            {
+              "label": "Bamby Eyes Twitter 25.11",
+              "value": 78
+            },
+            {
+              "label": "Adult Forums 05.02.25",
+              "value": 77
+            },
+            {
+              "label": "blog 18.05.25",
+              "value": 76
+            },
+            {
+              "label": "@farm_fetlife GG 280 subs",
+              "value": 71
+            },
+            {
+              "label": "onlyfans 24.05.25",
+              "value": 65
+            },
+            {
+              "label": "GG  Tesla Traff",
+              "value": 61
+            },
+            {
+              "label": "REDDIT NEW CardoCrew Traffic",
+              "value": 55
+            },
+            {
+              "label": "REDDIT NEW @Srochnoe_delo",
+              "value": 54
+            },
+            {
+              "label": "blog 25.04.25",
+              "value": 53
+            },
+            {
+              "label": "onlyfans 14.01.25",
+              "value": 51
+            },
+            {
+              "label": "INSTA NEW CardoCrew Traffic",
+              "value": 44
+            },
+            {
+              "label": "twitter 10.05.25",
+              "value": 39
+            },
+            {
+              "label": "Websites 12.12.24",
+              "value": 39
+            },
+            {
+              "label": "blog 13.05.25",
+              "value": 36
+            },
+            {
+              "label": "REDDIT CardoCrew Traffic",
+              "value": 36
+            },
+            {
+              "label": "onlyfans 10.05.25",
+              "value": 33
+            },
+            {
+              "label": "telegram 14.05.25",
+              "value": 31
+            },
+            {
+              "label": "onlyfans 28.02.25",
+              "value": 31
+            },
+            {
+              "label": "twitter 25.02.25",
+              "value": 31
+            },
+            {
+              "label": "TIMBURTON 2",
+              "value": 31
+            },
+            {
+              "label": "onlyfans 26.04.25",
+              "value": 30
+            },
+            {
+              "label": "onlyfans 10.04.25",
+              "value": 30
+            },
+            {
+              "label": "REDDIT @Srochnoe_delo",
+              "value": 30
+            },
+            {
+              "label": "onlyfans 09.05.25",
+              "value": 29
+            },
+            {
+              "label": "onlyfans 15.10.24",
+              "value": 29
+            },
+            {
+              "label": "onlyfans 22.04.25",
+              "value": 28
+            },
+            {
+              "label": "blog 18.03.25",
+              "value": 28
+            },
+            {
+              "label": "onlyfans 17.03.25",
+              "value": 28
+            },
+            {
+              "label": "onlyfans 16.12.24",
+              "value": 26
+            },
+            {
+              "label": "SEO Websites Network  07.03.25",
+              "value": 24
+            },
+            {
+              "label": "REDDIT new @Srochnoe_delo",
+              "value": 24
+            },
+            {
+              "label": "twitter 21.01.25",
+              "value": 23
+            },
+            {
+              "label": "GG -@realtrafficdealer  USA",
+              "value": 22
+            },
+            {
+              "label": "blog 05.06.24",
+              "value": 21
+            },
+            {
+              "label": "blog 29.01.25",
+              "value": 20
+            },
+            {
+              "label": "blog 09.04.25",
+              "value": 17
+            },
+            {
+              "label": "blog 03.03.25",
+              "value": 14
+            },
+            {
+              "label": "forum - Malenok",
+              "value": 13
+            },
+            {
+              "label": "blog 28.02.25",
+              "value": 12
+            },
+            {
+              "label": "blog - SEO",
+              "value": 9
+            },
+            {
+              "label": "blog 27.02.25",
+              "value": 8
+            },
+            {
+              "label": "blog 02.04.25",
+              "value": 7
+            },
+            {
+              "label": "REDDIT @AndyCake",
+              "value": 6
+            },
+            {
+              "label": "instagram 24.04.25",
+              "value": 4
+            },
+            {
+              "label": "blog 02.03.25",
+              "value": 4
+            },
+            {
+              "label": "FREE PAGE",
+              "value": 3
+            },
+            {
+              "label": "Swap @Apree_promo_assist Spirit Moon",
+              "value": 2
+            },
+            {
+              "label": "instagram 15.03.25",
+              "value": 2
+            },
+            {
+              "label": "onlyfans 02.03.25",
+              "value": 2
+            },
+            {
+              "label": "Тикпорн",
+              "value": 1
+            },
+            {
+              "label": "SEO 01.10.25",
+              "value": 1
+            },
+            {
+              "label": "own sites 28.01.25",
+              "value": 1
+            },
+            {
+              "label": "twitter 17.09.24",
+              "value": 1
+            },
+            {
+              "label": "Cardo Crew INSTAGRAM",
+              "value": 1
+            },
+            {
+              "label": "telegram 01.06.24",
+              "value": 1
+            }
+          ],
+          "earnings": 0,
+          "unansweredMessages": null
         }
       ]
     },
@@ -4355,7 +6544,7 @@
       "platform": "fansly",
       "username": "CutieBambyEyes",
       "dataFrom": "2026-07-28",
-      "dataThrough": "2026-09-15",
+      "dataThrough": "2026-09-19",
       "stale": true,
       "series": [
         {
@@ -5301,6 +7490,62 @@
             {
               "label": "Кейт 1 @avva_avad",
               "value": 1
+            }
+          ],
+          "earnings": 0,
+          "unansweredMessages": null
+        },
+        {
+          "date": "2026-09-16",
+          "arrivals": 24,
+          "paidSubscriptions": 0,
+          "arrivalSources": [
+            {
+              "label": "Fansly FYP",
+              "value": 23
+            },
+            {
+              "label": "Fansly Search",
+              "value": 1
+            }
+          ],
+          "earnings": 0,
+          "unansweredMessages": null
+        },
+        {
+          "date": "2026-09-17",
+          "arrivals": 23,
+          "paidSubscriptions": 0,
+          "arrivalSources": [
+            {
+              "label": "Fansly FYP",
+              "value": 23
+            }
+          ],
+          "earnings": 0,
+          "unansweredMessages": null
+        },
+        {
+          "date": "2026-09-18",
+          "arrivals": 22,
+          "paidSubscriptions": 3,
+          "arrivalSources": [
+            {
+              "label": "Fansly FYP",
+              "value": 22
+            }
+          ],
+          "earnings": 138.48,
+          "unansweredMessages": 0
+        },
+        {
+          "date": "2026-09-19",
+          "arrivals": 22,
+          "paidSubscriptions": 0,
+          "arrivalSources": [
+            {
+              "label": "Fansly FYP",
+              "value": 22
             }
           ],
           "earnings": 0,
@@ -6756,7 +9001,7 @@
       "platform": "onlyfans",
       "username": "asyabunny",
       "dataFrom": "2026-08-20",
-      "dataThrough": "2026-09-15",
+      "dataThrough": "2026-09-19",
       "stale": true,
       "series": [
         {
@@ -6768,6 +9013,19 @@
               "label": "jj twitter",
               "value": 3
             },
+            {
+              "label": "Artem - fikfap.com/user/asyabunny",
+              "value": 1
+            }
+          ],
+          "earnings": 0,
+          "unansweredMessages": null
+        },
+        {
+          "date": "2026-08-21",
+          "arrivals": 1,
+          "paidSubscriptions": 0,
+          "arrivalSources": [
             {
               "label": "Artem - fikfap.com/user/asyabunny",
               "value": 1
@@ -6820,25 +9078,44 @@
         },
         {
           "date": "2026-08-26",
-          "arrivals": 0,
+          "arrivals": 2,
           "paidSubscriptions": 0,
-          "arrivalSources": [],
+          "arrivalSources": [
+            {
+              "label": "jj twitter",
+              "value": 2
+            }
+          ],
           "earnings": 20,
           "unansweredMessages": null
         },
         {
           "date": "2026-08-27",
-          "arrivals": 0,
+          "arrivals": 2,
           "paidSubscriptions": 0,
-          "arrivalSources": [],
+          "arrivalSources": [
+            {
+              "label": "Artem - fikfap.com/user/asyabunny",
+              "value": 1
+            },
+            {
+              "label": "jj twitter",
+              "value": 1
+            }
+          ],
           "earnings": 0,
           "unansweredMessages": null
         },
         {
           "date": "2026-08-28",
-          "arrivals": 0,
+          "arrivals": 1,
           "paidSubscriptions": 0,
-          "arrivalSources": [],
+          "arrivalSources": [
+            {
+              "label": "Artem - fikfap.com/user/asyabunny",
+              "value": 1
+            }
+          ],
           "earnings": 60.79,
           "unansweredMessages": null
         },
@@ -6852,33 +9129,61 @@
         },
         {
           "date": "2026-08-30",
-          "arrivals": 0,
+          "arrivals": 3,
           "paidSubscriptions": 2,
-          "arrivalSources": [],
+          "arrivalSources": [
+            {
+              "label": "jj twitter",
+              "value": 3
+            }
+          ],
           "earnings": 36.8,
           "unansweredMessages": null
         },
         {
           "date": "2026-08-31",
-          "arrivals": 0,
+          "arrivals": 2,
           "paidSubscriptions": 2,
-          "arrivalSources": [],
+          "arrivalSources": [
+            {
+              "label": "jj twitter",
+              "value": 2
+            }
+          ],
           "earnings": 245.59,
           "unansweredMessages": null
         },
         {
           "date": "2026-09-01",
-          "arrivals": 0,
+          "arrivals": 1,
           "paidSubscriptions": 2,
-          "arrivalSources": [],
+          "arrivalSources": [
+            {
+              "label": "Органика твиттер без обнаженки",
+              "value": 1
+            }
+          ],
           "earnings": 24,
           "unansweredMessages": null
         },
         {
           "date": "2026-09-02",
-          "arrivals": 0,
+          "arrivals": 3,
           "paidSubscriptions": 2,
-          "arrivalSources": [],
+          "arrivalSources": [
+            {
+              "label": "Инстаграм Егор 1",
+              "value": 1
+            },
+            {
+              "label": "Органика твиттер без обнаженки",
+              "value": 1
+            },
+            {
+              "label": "jj twitter",
+              "value": 1
+            }
+          ],
           "earnings": 259.99,
           "unansweredMessages": null
         },
@@ -6892,41 +9197,90 @@
         },
         {
           "date": "2026-09-04",
-          "arrivals": 0,
+          "arrivals": 2,
           "paidSubscriptions": 0,
-          "arrivalSources": [],
+          "arrivalSources": [
+            {
+              "label": "Ероме",
+              "value": 1
+            },
+            {
+              "label": "Artem - fikfap.com/user/asyabunny",
+              "value": 1
+            }
+          ],
           "earnings": 64,
           "unansweredMessages": null
         },
         {
           "date": "2026-09-05",
-          "arrivals": 0,
+          "arrivals": 3,
           "paidSubscriptions": 1,
-          "arrivalSources": [],
+          "arrivalSources": [
+            {
+              "label": "Artem - fikfap.com/user/asyabunny",
+              "value": 1
+            },
+            {
+              "label": "Органика твиттер без обнаженки",
+              "value": 1
+            },
+            {
+              "label": "jj twitter",
+              "value": 1
+            }
+          ],
           "earnings": 82.39,
           "unansweredMessages": null
         },
         {
           "date": "2026-09-06",
-          "arrivals": 0,
+          "arrivals": 2,
           "paidSubscriptions": 0,
-          "arrivalSources": [],
+          "arrivalSources": [
+            {
+              "label": "Хфри",
+              "value": 2
+            }
+          ],
           "earnings": 320.24,
           "unansweredMessages": null
         },
         {
           "date": "2026-09-07",
-          "arrivals": 0,
+          "arrivals": 6,
           "paidSubscriptions": 0,
-          "arrivalSources": [],
+          "arrivalSources": [
+            {
+              "label": "Реддит Sined",
+              "value": 3
+            },
+            {
+              "label": "Artem - fikfap.com/user/asyabunny",
+              "value": 2
+            },
+            {
+              "label": "jj twitter",
+              "value": 1
+            }
+          ],
           "earnings": 92.24,
           "unansweredMessages": null
         },
         {
           "date": "2026-09-08",
-          "arrivals": 0,
+          "arrivals": 3,
           "paidSubscriptions": 0,
-          "arrivalSources": [],
+          "arrivalSources": [
+            {
+              "label": "Artem - fikfap.com/user/asyabunny",
+              "value": 2
+            },
+            {
+              "label": "kysa_kysa",
+              "value": 1
+            }
+          ],
           "earnings": 27.99,
           "unansweredMessages": null
         },
@@ -6940,49 +9294,2487 @@
         },
         {
           "date": "2026-09-10",
-          "arrivals": 0,
+          "arrivals": 1,
           "paidSubscriptions": 3,
-          "arrivalSources": [],
+          "arrivalSources": [
+            {
+              "label": "Органика твиттер без обнаженки",
+              "value": 1
+            }
+          ],
           "earnings": 31.98,
           "unansweredMessages": null
         },
         {
           "date": "2026-09-11",
-          "arrivals": 0,
+          "arrivals": 1,
           "paidSubscriptions": 0,
-          "arrivalSources": [],
+          "arrivalSources": [
+            {
+              "label": "Artem - fikfap.com/user/asyabunny",
+              "value": 1
+            }
+          ],
           "earnings": 103.28,
           "unansweredMessages": null
         },
         {
           "date": "2026-09-12",
-          "arrivals": 0,
+          "arrivals": 2,
           "paidSubscriptions": 0,
-          "arrivalSources": [],
+          "arrivalSources": [
+            {
+              "label": "Реддит Sined",
+              "value": 1
+            },
+            {
+              "label": "jj twitter",
+              "value": 1
+            }
+          ],
           "earnings": 15.99,
           "unansweredMessages": null
         },
         {
           "date": "2026-09-13",
-          "arrivals": 0,
+          "arrivals": 1,
           "paidSubscriptions": 1,
-          "arrivalSources": [],
+          "arrivalSources": [
+            {
+              "label": "Реддит Sined",
+              "value": 1
+            }
+          ],
           "earnings": 12,
           "unansweredMessages": null
         },
         {
           "date": "2026-09-14",
-          "arrivals": 0,
+          "arrivals": 17,
           "paidSubscriptions": 0,
-          "arrivalSources": [],
+          "arrivalSources": [
+            {
+              "label": "Реддит Sined",
+              "value": 9
+            },
+            {
+              "label": "Инстаграм Егор 7",
+              "value": 7
+            },
+            {
+              "label": "Artem - fikfap.com/user/asyabunny",
+              "value": 1
+            }
+          ],
           "earnings": 0,
           "unansweredMessages": null
         },
         {
           "date": "2026-09-15",
-          "arrivals": 0,
+          "arrivals": 29,
           "paidSubscriptions": 0,
-          "arrivalSources": [],
+          "arrivalSources": [
+            {
+              "label": "Инстаграм Егор 7",
+              "value": 26
+            },
+            {
+              "label": "Artem - fikfap.com/user/asyabunny",
+              "value": 3
+            }
+          ],
+          "earnings": 0,
+          "unansweredMessages": null
+        },
+        {
+          "date": "2026-09-16",
+          "arrivals": 14526,
+          "paidSubscriptions": 0,
+          "arrivalSources": [
+            {
+              "label": "Twitter rom",
+              "value": 1882
+            },
+            {
+              "label": "reddit vito 2",
+              "value": 1332
+            },
+            {
+              "label": "andrew tt 2",
+              "value": 971
+            },
+            {
+              "label": "andrew twitter",
+              "value": 914
+            },
+            {
+              "label": "twitter andrei 3",
+              "value": 521
+            },
+            {
+              "label": "inst setka",
+              "value": 488
+            },
+            {
+              "label": "onlyfinder",
+              "value": 440
+            },
+            {
+              "label": "Alexa twitter",
+              "value": 435
+            },
+            {
+              "label": "Max reddit",
+              "value": 394
+            },
+            {
+              "label": "expired fans",
+              "value": 386
+            },
+            {
+              "label": "sfs",
+              "value": 350
+            },
+            {
+              "label": "instagram bite",
+              "value": 305
+            },
+            {
+              "label": "twitter helper",
+              "value": 287
+            },
+            {
+              "label": "Shaonti",
+              "value": 264
+            },
+            {
+              "label": "arina",
+              "value": 263
+            },
+            {
+              "label": "твитер андрей 4",
+              "value": 239
+            },
+            {
+              "label": "fikfap/sexcom",
+              "value": 226
+            },
+            {
+              "label": "insta nikita",
+              "value": 222
+            },
+            {
+              "label": "twitter non nude oliver",
+              "value": 221
+            },
+            {
+              "label": "ютуб",
+              "value": 207
+            },
+            {
+              "label": "twitter master",
+              "value": 204
+            },
+            {
+              "label": "anna reddit 2",
+              "value": 204
+            },
+            {
+              "label": "gg swap chlor 100",
+              "value": 178
+            },
+            {
+              "label": "твитер андрей 5",
+              "value": 143
+            },
+            {
+              "label": "max tt spam 1",
+              "value": 134
+            },
+            {
+              "label": "fikfap",
+              "value": 124
+            },
+            {
+              "label": "oliver test",
+              "value": 118
+            },
+            {
+              "label": "old fans",
+              "value": 109
+            },
+            {
+              "label": "youtube",
+              "value": 104
+            },
+            {
+              "label": "андрей 4",
+              "value": 101
+            },
+            {
+              "label": "Arina",
+              "value": 92
+            },
+            {
+              "label": "expired",
+              "value": 87
+            },
+            {
+              "label": "asyabunny.com",
+              "value": 87
+            },
+            {
+              "label": "Инстаграм Егор 7",
+              "value": 85
+            },
+            {
+              "label": "gg14",
+              "value": 82
+            },
+            {
+              "label": "christmass free trial",
+              "value": 80
+            },
+            {
+              "label": "sunfire",
+              "value": 79
+            },
+            {
+              "label": "Eireen",
+              "value": 75
+            },
+            {
+              "label": "секс ком",
+              "value": 66
+            },
+            {
+              "label": "max tt spam 5",
+              "value": 65
+            },
+            {
+              "label": "новый редит дэн",
+              "value": 60
+            },
+            {
+              "label": "Expired",
+              "value": 60
+            },
+            {
+              "label": "анк реддит",
+              "value": 56
+            },
+            {
+              "label": "марат",
+              "value": 56
+            },
+            {
+              "label": "gg41",
+              "value": 53
+            },
+            {
+              "label": "asya instagram dolgosrok",
+              "value": 52
+            },
+            {
+              "label": "внутренняя реклама ася",
+              "value": 48
+            },
+            {
+              "label": "gg55",
+              "value": 46
+            },
+            {
+              "label": "Arina sfs",
+              "value": 42
+            },
+            {
+              "label": "Arina promo",
+              "value": 41
+            },
+            {
+              "label": "gg25",
+              "value": 40
+            },
+            {
+              "label": "inst",
+              "value": 39
+            },
+            {
+              "label": "gg48",
+              "value": 38
+            },
+            {
+              "label": "андрей 5",
+              "value": 38
+            },
+            {
+              "label": "max tt spam 3",
+              "value": 35
+            },
+            {
+              "label": "artem inst",
+              "value": 35
+            },
+            {
+              "label": "gg49",
+              "value": 34
+            },
+            {
+              "label": "ank  reddit",
+              "value": 32
+            },
+            {
+              "label": "reddit den new",
+              "value": 31
+            },
+            {
+              "label": "gg 1",
+              "value": 31
+            },
+            {
+              "label": "gg43",
+              "value": 28
+            },
+            {
+              "label": "инста спам",
+              "value": 28
+            },
+            {
+              "label": "gg20",
+              "value": 28
+            },
+            {
+              "label": "gg 3",
+              "value": 27
+            },
+            {
+              "label": "rid1",
+              "value": 27
+            },
+            {
+              "label": "кити реддит",
+              "value": 27
+            },
+            {
+              "label": "gg33",
+              "value": 26
+            },
+            {
+              "label": "andrei reddit",
+              "value": 26
+            },
+            {
+              "label": "gg54",
+              "value": 25
+            },
+            {
+              "label": "mark  gg",
+              "value": 25
+            },
+            {
+              "label": "instagram lite",
+              "value": 24
+            },
+            {
+              "label": "gg 9",
+              "value": 23
+            },
+            {
+              "label": "gg23",
+              "value": 22
+            },
+            {
+              "label": "gg30",
+              "value": 21
+            },
+            {
+              "label": "gg11",
+              "value": 21
+            },
+            {
+              "label": "rid 3",
+              "value": 21
+            },
+            {
+              "label": "chillfree",
+              "value": 21
+            },
+            {
+              "label": "gg46",
+              "value": 20
+            },
+            {
+              "label": "gg26",
+              "value": 20
+            },
+            {
+              "label": "gg16",
+              "value": 20
+            },
+            {
+              "label": "rid 5",
+              "value": 20
+            },
+            {
+              "label": "gg35",
+              "value": 19
+            },
+            {
+              "label": "gg grace",
+              "value": 19
+            },
+            {
+              "label": "twitter new",
+              "value": 18
+            },
+            {
+              "label": "rid 2",
+              "value": 18
+            },
+            {
+              "label": "gg6",
+              "value": 17
+            },
+            {
+              "label": "gg4",
+              "value": 17
+            },
+            {
+              "label": "gg19",
+              "value": 16
+            },
+            {
+              "label": "gg12",
+              "value": 16
+            },
+            {
+              "label": "gg7",
+              "value": 16
+            },
+            {
+              "label": "rid 4",
+              "value": 16
+            },
+            {
+              "label": "gg31",
+              "value": 15
+            },
+            {
+              "label": "new inst asya 2",
+              "value": 15
+            },
+            {
+              "label": "gg22",
+              "value": 15
+            },
+            {
+              "label": "gg17",
+              "value": 15
+            },
+            {
+              "label": "gg29",
+              "value": 14
+            },
+            {
+              "label": "max tt spam 4",
+              "value": 14
+            },
+            {
+              "label": "gg18",
+              "value": 14
+            },
+            {
+              "label": "lir assistant",
+              "value": 13
+            },
+            {
+              "label": "gg52Nicolle",
+              "value": 13
+            },
+            {
+              "label": "gg47",
+              "value": 13
+            },
+            {
+              "label": "gg 2",
+              "value": 13
+            },
+            {
+              "label": "gg27",
+              "value": 12
+            },
+            {
+              "label": "gg21",
+              "value": 12
+            },
+            {
+              "label": "gg36",
+              "value": 11
+            },
+            {
+              "label": "twitter vlad",
+              "value": 11
+            },
+            {
+              "label": "gg5",
+              "value": 11
+            },
+            {
+              "label": "gg37",
+              "value": 10
+            },
+            {
+              "label": "new inst asya",
+              "value": 10
+            },
+            {
+              "label": "Ron new",
+              "value": 10
+            },
+            {
+              "label": "gg45",
+              "value": 9
+            },
+            {
+              "label": "gg40",
+              "value": 9
+            },
+            {
+              "label": "gg34",
+              "value": 9
+            },
+            {
+              "label": "gg10",
+              "value": 9
+            },
+            {
+              "label": "bait fb",
+              "value": 8
+            },
+            {
+              "label": "new link asya",
+              "value": 7
+            },
+            {
+              "label": "бабилуна",
+              "value": 7
+            },
+            {
+              "label": "tiktok 3",
+              "value": 7
+            },
+            {
+              "label": "companion 3 tt spam",
+              "value": 7
+            },
+            {
+              "label": "Companion 1 tt spam",
+              "value": 7
+            },
+            {
+              "label": "yes i do",
+              "value": 6
+            },
+            {
+              "label": "gg13",
+              "value": 6
+            },
+            {
+              "label": "Companion 2 tt spam",
+              "value": 6
+            },
+            {
+              "label": "vlad asya test xcom",
+              "value": 5
+            },
+            {
+              "label": "gg32",
+              "value": 5
+            },
+            {
+              "label": "google",
+              "value": 5
+            },
+            {
+              "label": "никита тт",
+              "value": 5
+            },
+            {
+              "label": "am i",
+              "value": 5
+            },
+            {
+              "label": "sunfir",
+              "value": 5
+            },
+            {
+              "label": "youtube kostya",
+              "value": 4
+            },
+            {
+              "label": "gg53",
+              "value": 4
+            },
+            {
+              "label": "gg39",
+              "value": 4
+            },
+            {
+              "label": "tt asya1",
+              "value": 4
+            },
+            {
+              "label": "gg15",
+              "value": 4
+            },
+            {
+              "label": "спам тт",
+              "value": 4
+            },
+            {
+              "label": "max fb",
+              "value": 4
+            },
+            {
+              "label": "gg56",
+              "value": 3
+            },
+            {
+              "label": "gg24",
+              "value": 3
+            },
+            {
+              "label": "gg8",
+              "value": 3
+            },
+            {
+              "label": "artem",
+              "value": 3
+            },
+            {
+              "label": "миша реддит",
+              "value": 3
+            },
+            {
+              "label": "ron 4",
+              "value": 2
+            },
+            {
+              "label": "gg44",
+              "value": 1
+            },
+            {
+              "label": "gg42",
+              "value": 1
+            },
+            {
+              "label": "gg38",
+              "value": 1
+            },
+            {
+              "label": "gg28",
+              "value": 1
+            },
+            {
+              "label": "max tt spam 2",
+              "value": 1
+            },
+            {
+              "label": "Reddit den new",
+              "value": 1
+            },
+            {
+              "label": "andrei tinder",
+              "value": 1
+            },
+            {
+              "label": "andrei reddit 2",
+              "value": 1
+            },
+            {
+              "label": "ron 3",
+              "value": 1
+            },
+            {
+              "label": "ron 2",
+              "value": 1
+            }
+          ],
+          "earnings": 0,
+          "unansweredMessages": null
+        },
+        {
+          "date": "2026-09-17",
+          "arrivals": 14527,
+          "paidSubscriptions": 0,
+          "arrivalSources": [
+            {
+              "label": "Twitter rom",
+              "value": 1882
+            },
+            {
+              "label": "reddit vito 2",
+              "value": 1332
+            },
+            {
+              "label": "andrew tt 2",
+              "value": 971
+            },
+            {
+              "label": "andrew twitter",
+              "value": 914
+            },
+            {
+              "label": "twitter andrei 3",
+              "value": 521
+            },
+            {
+              "label": "inst setka",
+              "value": 488
+            },
+            {
+              "label": "onlyfinder",
+              "value": 440
+            },
+            {
+              "label": "Alexa twitter",
+              "value": 434
+            },
+            {
+              "label": "Max reddit",
+              "value": 394
+            },
+            {
+              "label": "expired fans",
+              "value": 386
+            },
+            {
+              "label": "sfs",
+              "value": 349
+            },
+            {
+              "label": "instagram bite",
+              "value": 305
+            },
+            {
+              "label": "twitter helper",
+              "value": 286
+            },
+            {
+              "label": "Shaonti",
+              "value": 263
+            },
+            {
+              "label": "arina",
+              "value": 263
+            },
+            {
+              "label": "твитер андрей 4",
+              "value": 239
+            },
+            {
+              "label": "fikfap/sexcom",
+              "value": 226
+            },
+            {
+              "label": "insta nikita",
+              "value": 222
+            },
+            {
+              "label": "twitter non nude oliver",
+              "value": 221
+            },
+            {
+              "label": "ютуб",
+              "value": 206
+            },
+            {
+              "label": "anna reddit 2",
+              "value": 204
+            },
+            {
+              "label": "twitter master",
+              "value": 203
+            },
+            {
+              "label": "gg swap chlor 100",
+              "value": 178
+            },
+            {
+              "label": "твитер андрей 5",
+              "value": 142
+            },
+            {
+              "label": "Инстаграм Егор 7",
+              "value": 138
+            },
+            {
+              "label": "max tt spam 1",
+              "value": 134
+            },
+            {
+              "label": "fikfap",
+              "value": 123
+            },
+            {
+              "label": "oliver test",
+              "value": 117
+            },
+            {
+              "label": "old fans",
+              "value": 108
+            },
+            {
+              "label": "youtube",
+              "value": 104
+            },
+            {
+              "label": "андрей 4",
+              "value": 101
+            },
+            {
+              "label": "Arina",
+              "value": 91
+            },
+            {
+              "label": "expired",
+              "value": 87
+            },
+            {
+              "label": "asyabunny.com",
+              "value": 86
+            },
+            {
+              "label": "gg14",
+              "value": 82
+            },
+            {
+              "label": "christmass free trial",
+              "value": 80
+            },
+            {
+              "label": "sunfire",
+              "value": 79
+            },
+            {
+              "label": "Eireen",
+              "value": 75
+            },
+            {
+              "label": "секс ком",
+              "value": 66
+            },
+            {
+              "label": "max tt spam 5",
+              "value": 65
+            },
+            {
+              "label": "новый редит дэн",
+              "value": 59
+            },
+            {
+              "label": "Expired",
+              "value": 59
+            },
+            {
+              "label": "анк реддит",
+              "value": 56
+            },
+            {
+              "label": "марат",
+              "value": 56
+            },
+            {
+              "label": "gg41",
+              "value": 53
+            },
+            {
+              "label": "asya instagram dolgosrok",
+              "value": 52
+            },
+            {
+              "label": "внутренняя реклама ася",
+              "value": 47
+            },
+            {
+              "label": "gg55",
+              "value": 46
+            },
+            {
+              "label": "Arina sfs",
+              "value": 42
+            },
+            {
+              "label": "Arina promo",
+              "value": 41
+            },
+            {
+              "label": "gg25",
+              "value": 39
+            },
+            {
+              "label": "inst",
+              "value": 39
+            },
+            {
+              "label": "gg48",
+              "value": 38
+            },
+            {
+              "label": "андрей 5",
+              "value": 37
+            },
+            {
+              "label": "max tt spam 3",
+              "value": 34
+            },
+            {
+              "label": "artem inst",
+              "value": 34
+            },
+            {
+              "label": "gg49",
+              "value": 33
+            },
+            {
+              "label": "ank  reddit",
+              "value": 32
+            },
+            {
+              "label": "gg 1",
+              "value": 31
+            },
+            {
+              "label": "reddit den new",
+              "value": 30
+            },
+            {
+              "label": "gg43",
+              "value": 28
+            },
+            {
+              "label": "инста спам",
+              "value": 28
+            },
+            {
+              "label": "gg20",
+              "value": 27
+            },
+            {
+              "label": "gg 3",
+              "value": 27
+            },
+            {
+              "label": "gg33",
+              "value": 26
+            },
+            {
+              "label": "rid1",
+              "value": 26
+            },
+            {
+              "label": "andrei reddit",
+              "value": 26
+            },
+            {
+              "label": "кити реддит",
+              "value": 26
+            },
+            {
+              "label": "gg54",
+              "value": 25
+            },
+            {
+              "label": "mark  gg",
+              "value": 24
+            },
+            {
+              "label": "instagram lite",
+              "value": 23
+            },
+            {
+              "label": "gg23",
+              "value": 22
+            },
+            {
+              "label": "gg 9",
+              "value": 22
+            },
+            {
+              "label": "gg30",
+              "value": 21
+            },
+            {
+              "label": "rid 3",
+              "value": 21
+            },
+            {
+              "label": "chillfree",
+              "value": 21
+            },
+            {
+              "label": "gg16",
+              "value": 20
+            },
+            {
+              "label": "gg11",
+              "value": 20
+            },
+            {
+              "label": "gg46",
+              "value": 19
+            },
+            {
+              "label": "gg35",
+              "value": 19
+            },
+            {
+              "label": "gg26",
+              "value": 19
+            },
+            {
+              "label": "gg grace",
+              "value": 19
+            },
+            {
+              "label": "rid 5",
+              "value": 19
+            },
+            {
+              "label": "rid 2",
+              "value": 18
+            },
+            {
+              "label": "twitter new",
+              "value": 17
+            },
+            {
+              "label": "gg19",
+              "value": 16
+            },
+            {
+              "label": "gg12",
+              "value": 16
+            },
+            {
+              "label": "gg7",
+              "value": 16
+            },
+            {
+              "label": "gg6",
+              "value": 16
+            },
+            {
+              "label": "gg4",
+              "value": 16
+            },
+            {
+              "label": "rid 4",
+              "value": 16
+            },
+            {
+              "label": "gg31",
+              "value": 15
+            },
+            {
+              "label": "gg22",
+              "value": 15
+            },
+            {
+              "label": "new inst asya 2",
+              "value": 14
+            },
+            {
+              "label": "gg29",
+              "value": 14
+            },
+            {
+              "label": "max tt spam 4",
+              "value": 14
+            },
+            {
+              "label": "gg17",
+              "value": 14
+            },
+            {
+              "label": "lir assistant",
+              "value": 13
+            },
+            {
+              "label": "gg47",
+              "value": 13
+            },
+            {
+              "label": "gg18",
+              "value": 13
+            },
+            {
+              "label": "gg 2",
+              "value": 13
+            },
+            {
+              "label": "gg52Nicolle",
+              "value": 12
+            },
+            {
+              "label": "gg27",
+              "value": 12
+            },
+            {
+              "label": "gg36",
+              "value": 11
+            },
+            {
+              "label": "twitter vlad",
+              "value": 11
+            },
+            {
+              "label": "gg21",
+              "value": 11
+            },
+            {
+              "label": "gg37",
+              "value": 10
+            },
+            {
+              "label": "new inst asya",
+              "value": 10
+            },
+            {
+              "label": "gg5",
+              "value": 10
+            },
+            {
+              "label": "Ron new",
+              "value": 10
+            },
+            {
+              "label": "gg45",
+              "value": 9
+            },
+            {
+              "label": "gg40",
+              "value": 9
+            },
+            {
+              "label": "gg34",
+              "value": 9
+            },
+            {
+              "label": "gg10",
+              "value": 9
+            },
+            {
+              "label": "bait fb",
+              "value": 8
+            },
+            {
+              "label": "new link asya",
+              "value": 7
+            },
+            {
+              "label": "бабилуна",
+              "value": 7
+            },
+            {
+              "label": "companion 3 tt spam",
+              "value": 7
+            },
+            {
+              "label": "Companion 1 tt spam",
+              "value": 7
+            },
+            {
+              "label": "yes i do",
+              "value": 6
+            },
+            {
+              "label": "tiktok 3",
+              "value": 6
+            },
+            {
+              "label": "gg13",
+              "value": 6
+            },
+            {
+              "label": "Companion 2 tt spam",
+              "value": 6
+            },
+            {
+              "label": "vlad asya test xcom",
+              "value": 5
+            },
+            {
+              "label": "gg32",
+              "value": 5
+            },
+            {
+              "label": "youtube kostya",
+              "value": 4
+            },
+            {
+              "label": "gg39",
+              "value": 4
+            },
+            {
+              "label": "tt asya1",
+              "value": 4
+            },
+            {
+              "label": "google",
+              "value": 4
+            },
+            {
+              "label": "gg15",
+              "value": 4
+            },
+            {
+              "label": "никита тт",
+              "value": 4
+            },
+            {
+              "label": "am i",
+              "value": 4
+            },
+            {
+              "label": "max fb",
+              "value": 4
+            },
+            {
+              "label": "sunfir",
+              "value": 4
+            },
+            {
+              "label": "gg56",
+              "value": 3
+            },
+            {
+              "label": "gg53",
+              "value": 3
+            },
+            {
+              "label": "gg24",
+              "value": 3
+            },
+            {
+              "label": "спам тт",
+              "value": 3
+            },
+            {
+              "label": "artem",
+              "value": 3
+            },
+            {
+              "label": "миша реддит",
+              "value": 3
+            },
+            {
+              "label": "Artem - fikfap.com/user/asyabunny",
+              "value": 2
+            },
+            {
+              "label": "gg8",
+              "value": 2
+            },
+            {
+              "label": "gg44",
+              "value": 1
+            },
+            {
+              "label": "gg42",
+              "value": 1
+            },
+            {
+              "label": "gg38",
+              "value": 1
+            },
+            {
+              "label": "andrei tinder",
+              "value": 1
+            },
+            {
+              "label": "andrei reddit 2",
+              "value": 1
+            },
+            {
+              "label": "ron 2",
+              "value": 1
+            }
+          ],
+          "earnings": 0,
+          "unansweredMessages": null
+        },
+        {
+          "date": "2026-09-18",
+          "arrivals": 14368,
+          "paidSubscriptions": 0,
+          "arrivalSources": [
+            {
+              "label": "Twitter rom",
+              "value": 1881
+            },
+            {
+              "label": "reddit vito 2",
+              "value": 1331
+            },
+            {
+              "label": "andrew tt 2",
+              "value": 970
+            },
+            {
+              "label": "andrew twitter",
+              "value": 913
+            },
+            {
+              "label": "twitter andrei 3",
+              "value": 521
+            },
+            {
+              "label": "inst setka",
+              "value": 488
+            },
+            {
+              "label": "onlyfinder",
+              "value": 440
+            },
+            {
+              "label": "Alexa twitter",
+              "value": 434
+            },
+            {
+              "label": "Max reddit",
+              "value": 394
+            },
+            {
+              "label": "expired fans",
+              "value": 384
+            },
+            {
+              "label": "sfs",
+              "value": 349
+            },
+            {
+              "label": "instagram bite",
+              "value": 305
+            },
+            {
+              "label": "twitter helper",
+              "value": 286
+            },
+            {
+              "label": "Shaonti",
+              "value": 263
+            },
+            {
+              "label": "arina",
+              "value": 262
+            },
+            {
+              "label": "твитер андрей 4",
+              "value": 239
+            },
+            {
+              "label": "fikfap/sexcom",
+              "value": 226
+            },
+            {
+              "label": "insta nikita",
+              "value": 222
+            },
+            {
+              "label": "twitter non nude oliver",
+              "value": 220
+            },
+            {
+              "label": "ютуб",
+              "value": 206
+            },
+            {
+              "label": "anna reddit 2",
+              "value": 204
+            },
+            {
+              "label": "twitter master",
+              "value": 203
+            },
+            {
+              "label": "gg swap chlor 100",
+              "value": 178
+            },
+            {
+              "label": "твитер андрей 5",
+              "value": 142
+            },
+            {
+              "label": "max tt spam 1",
+              "value": 134
+            },
+            {
+              "label": "fikfap",
+              "value": 123
+            },
+            {
+              "label": "oliver test",
+              "value": 117
+            },
+            {
+              "label": "old fans",
+              "value": 108
+            },
+            {
+              "label": "youtube",
+              "value": 104
+            },
+            {
+              "label": "андрей 4",
+              "value": 101
+            },
+            {
+              "label": "Arina",
+              "value": 91
+            },
+            {
+              "label": "expired",
+              "value": 87
+            },
+            {
+              "label": "asyabunny.com",
+              "value": 86
+            },
+            {
+              "label": "gg14",
+              "value": 82
+            },
+            {
+              "label": "christmass free trial",
+              "value": 79
+            },
+            {
+              "label": "sunfire",
+              "value": 79
+            },
+            {
+              "label": "Eireen",
+              "value": 74
+            },
+            {
+              "label": "секс ком",
+              "value": 66
+            },
+            {
+              "label": "max tt spam 5",
+              "value": 65
+            },
+            {
+              "label": "новый редит дэн",
+              "value": 59
+            },
+            {
+              "label": "Expired",
+              "value": 59
+            },
+            {
+              "label": "анк реддит",
+              "value": 56
+            },
+            {
+              "label": "марат",
+              "value": 56
+            },
+            {
+              "label": "gg41",
+              "value": 53
+            },
+            {
+              "label": "asya instagram dolgosrok",
+              "value": 52
+            },
+            {
+              "label": "внутренняя реклама ася",
+              "value": 47
+            },
+            {
+              "label": "gg55",
+              "value": 46
+            },
+            {
+              "label": "Arina sfs",
+              "value": 42
+            },
+            {
+              "label": "Arina promo",
+              "value": 41
+            },
+            {
+              "label": "gg25",
+              "value": 39
+            },
+            {
+              "label": "gg48",
+              "value": 38
+            },
+            {
+              "label": "inst",
+              "value": 38
+            },
+            {
+              "label": "андрей 5",
+              "value": 37
+            },
+            {
+              "label": "max tt spam 3",
+              "value": 34
+            },
+            {
+              "label": "artem inst",
+              "value": 34
+            },
+            {
+              "label": "gg49",
+              "value": 33
+            },
+            {
+              "label": "gg 1",
+              "value": 31
+            },
+            {
+              "label": "ank  reddit",
+              "value": 31
+            },
+            {
+              "label": "reddit den new",
+              "value": 30
+            },
+            {
+              "label": "инста спам",
+              "value": 28
+            },
+            {
+              "label": "gg43",
+              "value": 27
+            },
+            {
+              "label": "gg20",
+              "value": 27
+            },
+            {
+              "label": "gg 3",
+              "value": 27
+            },
+            {
+              "label": "gg33",
+              "value": 26
+            },
+            {
+              "label": "rid1",
+              "value": 26
+            },
+            {
+              "label": "кити реддит",
+              "value": 26
+            },
+            {
+              "label": "gg54",
+              "value": 25
+            },
+            {
+              "label": "andrei reddit",
+              "value": 25
+            },
+            {
+              "label": "mark  gg",
+              "value": 24
+            },
+            {
+              "label": "instagram lite",
+              "value": 23
+            },
+            {
+              "label": "gg23",
+              "value": 22
+            },
+            {
+              "label": "gg 9",
+              "value": 22
+            },
+            {
+              "label": "gg30",
+              "value": 21
+            },
+            {
+              "label": "chillfree",
+              "value": 21
+            },
+            {
+              "label": "gg11",
+              "value": 20
+            },
+            {
+              "label": "rid 3",
+              "value": 20
+            },
+            {
+              "label": "gg46",
+              "value": 19
+            },
+            {
+              "label": "gg35",
+              "value": 19
+            },
+            {
+              "label": "gg26",
+              "value": 19
+            },
+            {
+              "label": "gg16",
+              "value": 19
+            },
+            {
+              "label": "gg grace",
+              "value": 19
+            },
+            {
+              "label": "rid 5",
+              "value": 19
+            },
+            {
+              "label": "twitter new",
+              "value": 17
+            },
+            {
+              "label": "rid 2",
+              "value": 17
+            },
+            {
+              "label": "gg19",
+              "value": 16
+            },
+            {
+              "label": "gg12",
+              "value": 16
+            },
+            {
+              "label": "gg7",
+              "value": 16
+            },
+            {
+              "label": "gg6",
+              "value": 16
+            },
+            {
+              "label": "gg4",
+              "value": 16
+            },
+            {
+              "label": "rid 4",
+              "value": 16
+            },
+            {
+              "label": "gg31",
+              "value": 15
+            },
+            {
+              "label": "new inst asya 2",
+              "value": 14
+            },
+            {
+              "label": "gg22",
+              "value": 14
+            },
+            {
+              "label": "gg29",
+              "value": 14
+            },
+            {
+              "label": "max tt spam 4",
+              "value": 14
+            },
+            {
+              "label": "gg17",
+              "value": 14
+            },
+            {
+              "label": "lir assistant",
+              "value": 13
+            },
+            {
+              "label": "gg47",
+              "value": 13
+            },
+            {
+              "label": "gg18",
+              "value": 13
+            },
+            {
+              "label": "gg 2",
+              "value": 13
+            },
+            {
+              "label": "gg52Nicolle",
+              "value": 12
+            },
+            {
+              "label": "gg36",
+              "value": 11
+            },
+            {
+              "label": "twitter vlad",
+              "value": 11
+            },
+            {
+              "label": "gg27",
+              "value": 11
+            },
+            {
+              "label": "gg21",
+              "value": 11
+            },
+            {
+              "label": "gg37",
+              "value": 10
+            },
+            {
+              "label": "gg5",
+              "value": 10
+            },
+            {
+              "label": "gg45",
+              "value": 9
+            },
+            {
+              "label": "gg40",
+              "value": 9
+            },
+            {
+              "label": "new inst asya",
+              "value": 9
+            },
+            {
+              "label": "gg10",
+              "value": 9
+            },
+            {
+              "label": "Ron new",
+              "value": 9
+            },
+            {
+              "label": "gg34",
+              "value": 8
+            },
+            {
+              "label": "Инстаграм Егор 7",
+              "value": 7
+            },
+            {
+              "label": "new link asya",
+              "value": 7
+            },
+            {
+              "label": "бабилуна",
+              "value": 7
+            },
+            {
+              "label": "companion 3 tt spam",
+              "value": 7
+            },
+            {
+              "label": "Companion 1 tt spam",
+              "value": 7
+            },
+            {
+              "label": "bait fb",
+              "value": 7
+            },
+            {
+              "label": "Реддит Sined",
+              "value": 6
+            },
+            {
+              "label": "yes i do",
+              "value": 6
+            },
+            {
+              "label": "tiktok 3",
+              "value": 6
+            },
+            {
+              "label": "Companion 2 tt spam",
+              "value": 6
+            },
+            {
+              "label": "vlad asya test xcom",
+              "value": 5
+            },
+            {
+              "label": "gg32",
+              "value": 5
+            },
+            {
+              "label": "gg13",
+              "value": 5
+            },
+            {
+              "label": "youtube kostya",
+              "value": 4
+            },
+            {
+              "label": "tt asya1",
+              "value": 4
+            },
+            {
+              "label": "никита тт",
+              "value": 4
+            },
+            {
+              "label": "am i",
+              "value": 4
+            },
+            {
+              "label": "sunfir",
+              "value": 4
+            },
+            {
+              "label": "gg56",
+              "value": 3
+            },
+            {
+              "label": "gg53",
+              "value": 3
+            },
+            {
+              "label": "gg39",
+              "value": 3
+            },
+            {
+              "label": "gg24",
+              "value": 3
+            },
+            {
+              "label": "google",
+              "value": 3
+            },
+            {
+              "label": "gg15",
+              "value": 3
+            },
+            {
+              "label": "спам тт",
+              "value": 3
+            },
+            {
+              "label": "artem",
+              "value": 3
+            },
+            {
+              "label": "max fb",
+              "value": 3
+            },
+            {
+              "label": "миша реддит",
+              "value": 3
+            },
+            {
+              "label": "gg8",
+              "value": 2
+            },
+            {
+              "label": "gg42",
+              "value": 1
+            },
+            {
+              "label": "andrei tinder",
+              "value": 1
+            }
+          ],
+          "earnings": 324.78,
+          "unansweredMessages": null
+        },
+        {
+          "date": "2026-09-19",
+          "arrivals": 14390,
+          "paidSubscriptions": 0,
+          "arrivalSources": [
+            {
+              "label": "Twitter rom",
+              "value": 1881
+            },
+            {
+              "label": "reddit vito 2",
+              "value": 1331
+            },
+            {
+              "label": "andrew tt 2",
+              "value": 970
+            },
+            {
+              "label": "andrew twitter",
+              "value": 913
+            },
+            {
+              "label": "twitter andrei 3",
+              "value": 521
+            },
+            {
+              "label": "inst setka",
+              "value": 487
+            },
+            {
+              "label": "onlyfinder",
+              "value": 439
+            },
+            {
+              "label": "Alexa twitter",
+              "value": 434
+            },
+            {
+              "label": "Max reddit",
+              "value": 393
+            },
+            {
+              "label": "expired fans",
+              "value": 384
+            },
+            {
+              "label": "sfs",
+              "value": 349
+            },
+            {
+              "label": "instagram bite",
+              "value": 305
+            },
+            {
+              "label": "twitter helper",
+              "value": 286
+            },
+            {
+              "label": "Shaonti",
+              "value": 263
+            },
+            {
+              "label": "arina",
+              "value": 262
+            },
+            {
+              "label": "твитер андрей 4",
+              "value": 238
+            },
+            {
+              "label": "fikfap/sexcom",
+              "value": 225
+            },
+            {
+              "label": "insta nikita",
+              "value": 221
+            },
+            {
+              "label": "twitter non nude oliver",
+              "value": 220
+            },
+            {
+              "label": "ютуб",
+              "value": 206
+            },
+            {
+              "label": "anna reddit 2",
+              "value": 204
+            },
+            {
+              "label": "twitter master",
+              "value": 203
+            },
+            {
+              "label": "gg swap chlor 100",
+              "value": 177
+            },
+            {
+              "label": "твитер андрей 5",
+              "value": 142
+            },
+            {
+              "label": "max tt spam 1",
+              "value": 134
+            },
+            {
+              "label": "fikfap",
+              "value": 123
+            },
+            {
+              "label": "oliver test",
+              "value": 117
+            },
+            {
+              "label": "old fans",
+              "value": 108
+            },
+            {
+              "label": "youtube",
+              "value": 103
+            },
+            {
+              "label": "андрей 4",
+              "value": 100
+            },
+            {
+              "label": "Arina",
+              "value": 91
+            },
+            {
+              "label": "expired",
+              "value": 87
+            },
+            {
+              "label": "asyabunny.com",
+              "value": 86
+            },
+            {
+              "label": "gg14",
+              "value": 82
+            },
+            {
+              "label": "christmass free trial",
+              "value": 79
+            },
+            {
+              "label": "sunfire",
+              "value": 78
+            },
+            {
+              "label": "Eireen",
+              "value": 74
+            },
+            {
+              "label": "секс ком",
+              "value": 66
+            },
+            {
+              "label": "Инстаграм Егор 7",
+              "value": 65
+            },
+            {
+              "label": "max tt spam 5",
+              "value": 64
+            },
+            {
+              "label": "новый редит дэн",
+              "value": 59
+            },
+            {
+              "label": "Expired",
+              "value": 59
+            },
+            {
+              "label": "анк реддит",
+              "value": 56
+            },
+            {
+              "label": "марат",
+              "value": 56
+            },
+            {
+              "label": "gg41",
+              "value": 52
+            },
+            {
+              "label": "asya instagram dolgosrok",
+              "value": 51
+            },
+            {
+              "label": "внутренняя реклама ася",
+              "value": 47
+            },
+            {
+              "label": "gg55",
+              "value": 45
+            },
+            {
+              "label": "Arina sfs",
+              "value": 41
+            },
+            {
+              "label": "Arina promo",
+              "value": 41
+            },
+            {
+              "label": "gg48",
+              "value": 38
+            },
+            {
+              "label": "gg25",
+              "value": 38
+            },
+            {
+              "label": "inst",
+              "value": 38
+            },
+            {
+              "label": "андрей 5",
+              "value": 37
+            },
+            {
+              "label": "max tt spam 3",
+              "value": 34
+            },
+            {
+              "label": "artem inst",
+              "value": 34
+            },
+            {
+              "label": "gg49",
+              "value": 33
+            },
+            {
+              "label": "gg 1",
+              "value": 31
+            },
+            {
+              "label": "ank  reddit",
+              "value": 31
+            },
+            {
+              "label": "reddit den new",
+              "value": 30
+            },
+            {
+              "label": "gg43",
+              "value": 27
+            },
+            {
+              "label": "инста спам",
+              "value": 27
+            },
+            {
+              "label": "gg20",
+              "value": 27
+            },
+            {
+              "label": "gg 3",
+              "value": 27
+            },
+            {
+              "label": "gg33",
+              "value": 26
+            },
+            {
+              "label": "rid1",
+              "value": 26
+            },
+            {
+              "label": "кити реддит",
+              "value": 26
+            },
+            {
+              "label": "andrei reddit",
+              "value": 25
+            },
+            {
+              "label": "gg54",
+              "value": 24
+            },
+            {
+              "label": "mark  gg",
+              "value": 24
+            },
+            {
+              "label": "instagram lite",
+              "value": 23
+            },
+            {
+              "label": "gg 9",
+              "value": 22
+            },
+            {
+              "label": "gg23",
+              "value": 21
+            },
+            {
+              "label": "gg30",
+              "value": 20
+            },
+            {
+              "label": "gg11",
+              "value": 20
+            },
+            {
+              "label": "rid 3",
+              "value": 20
+            },
+            {
+              "label": "chillfree",
+              "value": 20
+            },
+            {
+              "label": "gg46",
+              "value": 19
+            },
+            {
+              "label": "gg35",
+              "value": 19
+            },
+            {
+              "label": "gg26",
+              "value": 19
+            },
+            {
+              "label": "gg16",
+              "value": 19
+            },
+            {
+              "label": "rid 5",
+              "value": 19
+            },
+            {
+              "label": "gg grace",
+              "value": 18
+            },
+            {
+              "label": "twitter new",
+              "value": 17
+            },
+            {
+              "label": "rid 2",
+              "value": 17
+            },
+            {
+              "label": "gg19",
+              "value": 16
+            },
+            {
+              "label": "gg12",
+              "value": 16
+            },
+            {
+              "label": "gg7",
+              "value": 16
+            },
+            {
+              "label": "gg6",
+              "value": 16
+            },
+            {
+              "label": "gg4",
+              "value": 16
+            },
+            {
+              "label": "gg31",
+              "value": 15
+            },
+            {
+              "label": "rid 4",
+              "value": 15
+            },
+            {
+              "label": "new inst asya 2",
+              "value": 14
+            },
+            {
+              "label": "gg22",
+              "value": 14
+            },
+            {
+              "label": "max tt spam 4",
+              "value": 14
+            },
+            {
+              "label": "gg17",
+              "value": 14
+            },
+            {
+              "label": "lir assistant",
+              "value": 13
+            },
+            {
+              "label": "gg29",
+              "value": 13
+            },
+            {
+              "label": "gg18",
+              "value": 13
+            },
+            {
+              "label": "gg 2",
+              "value": 13
+            },
+            {
+              "label": "gg52Nicolle",
+              "value": 12
+            },
+            {
+              "label": "gg47",
+              "value": 12
+            },
+            {
+              "label": "gg36",
+              "value": 11
+            },
+            {
+              "label": "gg27",
+              "value": 11
+            },
+            {
+              "label": "gg21",
+              "value": 11
+            },
+            {
+              "label": "gg37",
+              "value": 10
+            },
+            {
+              "label": "twitter vlad",
+              "value": 10
+            },
+            {
+              "label": "gg5",
+              "value": 10
+            },
+            {
+              "label": "gg45",
+              "value": 9
+            },
+            {
+              "label": "gg40",
+              "value": 9
+            },
+            {
+              "label": "new inst asya",
+              "value": 9
+            },
+            {
+              "label": "Ron new",
+              "value": 9
+            },
+            {
+              "label": "gg34",
+              "value": 8
+            },
+            {
+              "label": "gg10",
+              "value": 8
+            },
+            {
+              "label": "бабилуна",
+              "value": 7
+            },
+            {
+              "label": "bait fb",
+              "value": 7
+            },
+            {
+              "label": "yes i do",
+              "value": 6
+            },
+            {
+              "label": "new link asya",
+              "value": 6
+            },
+            {
+              "label": "tiktok 3",
+              "value": 6
+            },
+            {
+              "label": "companion 3 tt spam",
+              "value": 6
+            },
+            {
+              "label": "Companion 2 tt spam",
+              "value": 6
+            },
+            {
+              "label": "Companion 1 tt spam",
+              "value": 6
+            },
+            {
+              "label": "vlad asya test xcom",
+              "value": 5
+            },
+            {
+              "label": "gg13",
+              "value": 5
+            },
+            {
+              "label": "gg32",
+              "value": 4
+            },
+            {
+              "label": "tt asya1",
+              "value": 4
+            },
+            {
+              "label": "никита тт",
+              "value": 4
+            },
+            {
+              "label": "am i",
+              "value": 4
+            },
+            {
+              "label": "sunfir",
+              "value": 4
+            },
+            {
+              "label": "youtube kostya",
+              "value": 3
+            },
+            {
+              "label": "gg56",
+              "value": 3
+            },
+            {
+              "label": "gg53",
+              "value": 3
+            },
+            {
+              "label": "gg39",
+              "value": 3
+            },
+            {
+              "label": "google",
+              "value": 3
+            },
+            {
+              "label": "gg15",
+              "value": 3
+            },
+            {
+              "label": "спам тт",
+              "value": 3
+            },
+            {
+              "label": "artem",
+              "value": 3
+            },
+            {
+              "label": "max fb",
+              "value": 3
+            },
+            {
+              "label": "миша реддит",
+              "value": 3
+            },
+            {
+              "label": "jj twitter",
+              "value": 2
+            },
+            {
+              "label": "gg24",
+              "value": 2
+            },
+            {
+              "label": "gg8",
+              "value": 2
+            },
+            {
+              "label": "Органика твиттер без обнаженки",
+              "value": 1
+            },
+            {
+              "label": "gg42",
+              "value": 1
+            },
+            {
+              "label": "andrei tinder",
+              "value": 1
+            }
+          ],
           "earnings": 0,
           "unansweredMessages": null
         }
@@ -6995,7 +11787,7 @@
       "platform": "fansly",
       "username": "realkatrinasten",
       "dataFrom": "2026-07-28",
-      "dataThrough": "2026-09-15",
+      "dataThrough": "2026-09-19",
       "stale": true,
       "series": [
         {
@@ -7731,6 +12523,70 @@
           ],
           "earnings": 0,
           "unansweredMessages": null
+        },
+        {
+          "date": "2026-09-16",
+          "arrivals": 9,
+          "paidSubscriptions": 0,
+          "arrivalSources": [
+            {
+              "label": "Fansly FYP",
+              "value": 7
+            },
+            {
+              "label": "Fansly Search",
+              "value": 1
+            },
+            {
+              "label": "Тикпорн",
+              "value": 1
+            }
+          ],
+          "earnings": 0,
+          "unansweredMessages": null
+        },
+        {
+          "date": "2026-09-17",
+          "arrivals": 8,
+          "paidSubscriptions": 0,
+          "arrivalSources": [
+            {
+              "label": "Fansly FYP",
+              "value": 7
+            },
+            {
+              "label": "Fansly Search",
+              "value": 1
+            }
+          ],
+          "earnings": 0,
+          "unansweredMessages": null
+        },
+        {
+          "date": "2026-09-18",
+          "arrivals": 6,
+          "paidSubscriptions": 0,
+          "arrivalSources": [
+            {
+              "label": "Fansly FYP",
+              "value": 6
+            }
+          ],
+          "earnings": 0,
+          "unansweredMessages": 45
+        },
+        {
+          "date": "2026-09-19",
+          "arrivals": 6,
+          "paidSubscriptions": 0,
+          "arrivalSources": [
+            {
+              "label": "Fansly FYP",
+              "value": 6
+            }
+          ],
+          "earnings": 0,
+          "unansweredMessages": null
         }
       ]
     },
@@ -7741,7 +12597,7 @@
       "platform": "fansly",
       "username": "LillieMelody",
       "dataFrom": "2026-07-28",
-      "dataThrough": "2026-09-15",
+      "dataThrough": "2026-09-19",
       "stale": true,
       "series": [
         {
@@ -8325,6 +13181,66 @@
             {
               "label": "Fansly FYP",
               "value": 1
+            }
+          ],
+          "earnings": 0,
+          "unansweredMessages": null
+        },
+        {
+          "date": "2026-09-16",
+          "arrivals": 4,
+          "paidSubscriptions": 0,
+          "arrivalSources": [
+            {
+              "label": "Fansly FYP",
+              "value": 3
+            },
+            {
+              "label": "Fansly Search",
+              "value": 1
+            }
+          ],
+          "earnings": 0,
+          "unansweredMessages": null
+        },
+        {
+          "date": "2026-09-17",
+          "arrivals": 3,
+          "paidSubscriptions": 0,
+          "arrivalSources": [
+            {
+              "label": "Fansly FYP",
+              "value": 2
+            },
+            {
+              "label": "Fansly Search",
+              "value": 1
+            }
+          ],
+          "earnings": 0,
+          "unansweredMessages": null
+        },
+        {
+          "date": "2026-09-18",
+          "arrivals": 2,
+          "paidSubscriptions": 0,
+          "arrivalSources": [
+            {
+              "label": "Fansly FYP",
+              "value": 2
+            }
+          ],
+          "earnings": 0,
+          "unansweredMessages": 21
+        },
+        {
+          "date": "2026-09-19",
+          "arrivals": 2,
+          "paidSubscriptions": 0,
+          "arrivalSources": [
+            {
+              "label": "Fansly FYP",
+              "value": 2
             }
           ],
           "earnings": 0,
