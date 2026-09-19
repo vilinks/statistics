@@ -4,11 +4,11 @@
     "title": "James Statistics",
     "agencyName": "Virgin 67 (six seven) Agency"
   },
-  "publishedAt": "2026-09-15T05:42:09.815Z",
-  "dataGeneratedAt": "2026-09-15T04:12:40.001Z",
+  "publishedAt": "2026-09-19T11:32:40.696Z",
+  "dataGeneratedAt": "2026-09-15T06:38:16.986Z",
   "range": {
-    "from": "2025-09-11",
-    "to": "2026-09-15"
+    "from": "2025-09-15",
+    "to": "2026-09-19"
   },
   "privacy": {
     "earnings": true,
@@ -1548,7 +1548,7 @@
               "value": 1
             }
           ],
-          "earnings": 3.2,
+          "earnings": 11.2,
           "unansweredMessages": null
         }
       ]
@@ -2819,16 +2819,16 @@
             }
           ],
           "earnings": 2.4,
-          "unansweredMessages": 1
+          "unansweredMessages": 2
         },
         {
           "date": "2026-09-15",
-          "arrivals": 16,
+          "arrivals": 23,
           "paidSubscriptions": 0,
           "arrivalSources": [
             {
               "label": "Fansly FYP",
-              "value": 14
+              "value": 21
             },
             {
               "label": "Юля 6 @viesmasenu77171",
@@ -3473,12 +3473,12 @@
         },
         {
           "date": "2026-09-15",
-          "arrivals": 3,
+          "arrivals": 4,
           "paidSubscriptions": 0,
           "arrivalSources": [
             {
               "label": "Fansly FYP",
-              "value": 3
+              "value": 4
             }
           ],
           "earnings": 0,
@@ -5267,7 +5267,7 @@
         {
           "date": "2026-09-14",
           "arrivals": 26,
-          "paidSubscriptions": 0,
+          "paidSubscriptions": 1,
           "arrivalSources": [
             {
               "label": "Fansly FYP",
@@ -5282,17 +5282,21 @@
               "value": 1
             }
           ],
-          "earnings": 32.8,
-          "unansweredMessages": 2
+          "earnings": 112.8,
+          "unansweredMessages": 6
         },
         {
           "date": "2026-09-15",
-          "arrivals": 8,
+          "arrivals": 17,
           "paidSubscriptions": 0,
           "arrivalSources": [
             {
               "label": "Fansly FYP",
-              "value": 7
+              "value": 15
+            },
+            {
+              "label": "Иксфлоу",
+              "value": 1
             },
             {
               "label": "Кейт 1 @avva_avad",
