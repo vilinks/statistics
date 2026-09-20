@@ -4,8 +4,8 @@
     "title": "James Statistics",
     "agencyName": "Virgin 67 (six seven) Agency"
   },
-  "publishedAt": "2026-09-20T10:41:43.126Z",
-  "dataGeneratedAt": "2026-09-20T06:54:14.371Z",
+  "publishedAt": "2026-09-20T11:42:08.681Z",
+  "dataGeneratedAt": "2026-09-20T11:41:48.566Z",
   "range": {
     "from": "2025-09-16",
     "to": "2026-09-20"
@@ -1754,9 +1754,14 @@
         },
         {
           "date": "2026-09-20",
-          "arrivals": 0,
+          "arrivals": 1,
           "paidSubscriptions": 0,
-          "arrivalSources": [],
+          "arrivalSources": [
+            {
+              "label": "xfree",
+              "value": 1
+            }
+          ],
           "earnings": 8,
           "unansweredMessages": null
         }
@@ -2864,7 +2869,7 @@
         {
           "date": "2026-09-17",
           "arrivals": 30,
-          "paidSubscriptions": 0,
+          "paidSubscriptions": 3,
           "arrivalSources": [
             {
               "label": "Fansly FYP",
@@ -2893,7 +2898,7 @@
         {
           "date": "2026-09-18",
           "arrivals": 27,
-          "paidSubscriptions": 0,
+          "paidSubscriptions": 4,
           "arrivalSources": [
             {
               "label": "Fansly FYP",
@@ -2922,7 +2927,7 @@
         {
           "date": "2026-09-19",
           "arrivals": 23,
-          "paidSubscriptions": 0,
+          "paidSubscriptions": 4,
           "arrivalSources": [
             {
               "label": "Fansly FYP",
@@ -2934,16 +2939,16 @@
             }
           ],
           "earnings": 42.4,
-          "unansweredMessages": 13
+          "unansweredMessages": 2
         },
         {
           "date": "2026-09-20",
-          "arrivals": 9,
+          "arrivals": 13,
           "paidSubscriptions": 0,
           "arrivalSources": [
             {
               "label": "Fansly FYP",
-              "value": 7
+              "value": 10
             },
             {
               "label": "Fansly Suggestions",
@@ -2952,9 +2957,13 @@
             {
               "label": "Фикфап",
               "value": 1
+            },
+            {
+              "label": "Fansly Search",
+              "value": 1
             }
           ],
-          "earnings": 38.4,
+          "earnings": 64.4,
           "unansweredMessages": null
         }
       ]
