@@ -4,8 +4,8 @@
     "title": "James Statistics",
     "agencyName": "Virgin 67 (six seven) Agency"
   },
-  "publishedAt": "2026-09-25T07:21:50.405Z",
-  "dataGeneratedAt": "2026-09-25T03:02:23.886Z",
+  "publishedAt": "2026-09-25T08:22:31.933Z",
+  "dataGeneratedAt": "2026-09-25T08:19:25.308Z",
   "range": {
     "from": "2025-09-21",
     "to": "2026-09-25"
@@ -1883,7 +1883,7 @@
         {
           "date": "2026-09-24",
           "arrivals": 10,
-          "paidSubscriptions": 0,
+          "paidSubscriptions": 3,
           "arrivalSources": [
             {
               "label": "GG SFS",
@@ -3197,7 +3197,7 @@
         {
           "date": "2026-09-24",
           "arrivals": 50,
-          "paidSubscriptions": 3,
+          "paidSubscriptions": 4,
           "arrivalSources": [
             {
               "label": "Fansly FYP",
@@ -3213,19 +3213,19 @@
             }
           ],
           "earnings": 155.2,
-          "unansweredMessages": 1
+          "unansweredMessages": 4
         },
         {
           "date": "2026-09-25",
-          "arrivals": 3,
+          "arrivals": 12,
           "paidSubscriptions": 0,
           "arrivalSources": [
             {
               "label": "Fansly FYP",
-              "value": 3
+              "value": 12
             }
           ],
-          "earnings": 0,
+          "earnings": 2.4,
           "unansweredMessages": null
         }
       ]
@@ -4994,19 +4994,19 @@
         },
         {
           "date": "2026-09-24",
-          "arrivals": 6,
+          "arrivals": 7,
           "paidSubscriptions": 0,
           "arrivalSources": [
+            {
+              "label": "GG @averymayy 25.11.25",
+              "value": 2
+            },
             {
               "label": "GG SFS",
               "value": 1
             },
             {
               "label": "Фикфап",
-              "value": 1
-            },
-            {
-              "label": "GG @averymayy 25.11.25",
               "value": 1
             },
             {
@@ -5986,7 +5986,7 @@
         {
           "date": "2026-09-24",
           "arrivals": 25,
-          "paidSubscriptions": 1,
+          "paidSubscriptions": 2,
           "arrivalSources": [
             {
               "label": "Fansly FYP",
@@ -6002,16 +6002,16 @@
             }
           ],
           "earnings": 16.8,
-          "unansweredMessages": 3
+          "unansweredMessages": 11
         },
         {
           "date": "2026-09-25",
-          "arrivals": 6,
+          "arrivals": 7,
           "paidSubscriptions": 0,
           "arrivalSources": [
             {
               "label": "Fansly FYP",
-              "value": 6
+              "value": 7
             }
           ],
           "earnings": 2.4,
@@ -6893,16 +6893,16 @@
             }
           ],
           "earnings": 36.72,
-          "unansweredMessages": 4
+          "unansweredMessages": 8
         },
         {
           "date": "2026-09-25",
-          "arrivals": 2,
+          "arrivals": 6,
           "paidSubscriptions": 0,
           "arrivalSources": [
             {
               "label": "Fansly FYP",
-              "value": 2
+              "value": 6
             }
           ],
           "earnings": 0,
