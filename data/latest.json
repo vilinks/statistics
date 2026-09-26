@@ -4,8 +4,8 @@
     "title": "James Statistics",
     "agencyName": "Virgin 67 (six seven) Agency"
   },
-  "publishedAt": "2026-09-26T11:36:53.807Z",
-  "dataGeneratedAt": "2026-09-26T11:33:25.271Z",
+  "publishedAt": "2026-09-26T12:37:22.062Z",
+  "dataGeneratedAt": "2026-09-26T11:38:28.033Z",
   "range": {
     "from": "2025-09-22",
     "to": "2026-09-26"
@@ -1944,9 +1944,13 @@
         },
         {
           "date": "2026-09-26",
-          "arrivals": 2,
+          "arrivals": 3,
           "paidSubscriptions": 0,
           "arrivalSources": [
+            {
+              "label": "fikfap",
+              "value": 1
+            },
             {
               "label": "xfree",
               "value": 1
@@ -8373,12 +8377,16 @@
         },
         {
           "date": "2026-09-26",
-          "arrivals": 2,
+          "arrivals": 3,
           "paidSubscriptions": 0,
           "arrivalSources": [
             {
               "label": "Инстаграм Егор 1",
               "value": 2
+            },
+            {
+              "label": "Инстаграм Егор 7",
+              "value": 1
             }
           ],
           "earnings": 4,
