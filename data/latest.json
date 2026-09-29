@@ -4,8 +4,8 @@
     "title": "James Statistics",
     "agencyName": "Virgin 67 (six seven) Agency"
   },
-  "publishedAt": "2026-09-29T05:05:07.968Z",
-  "dataGeneratedAt": "2026-09-29T03:39:51.763Z",
+  "publishedAt": "2026-09-29T06:05:32.587Z",
+  "dataGeneratedAt": "2026-09-29T05:28:03.622Z",
   "range": {
     "from": "2025-09-25",
     "to": "2026-09-29"
@@ -2055,9 +2055,14 @@
         },
         {
           "date": "2026-09-29",
-          "arrivals": 0,
+          "arrivals": 1,
           "paidSubscriptions": 0,
-          "arrivalSources": [],
+          "arrivalSources": [
+            {
+              "label": "TicPorn",
+              "value": 1
+            }
+          ],
           "earnings": 0,
           "unansweredMessages": null
         }
@@ -8788,12 +8793,12 @@
         },
         {
           "date": "2026-09-29",
-          "arrivals": 1,
+          "arrivals": 2,
           "paidSubscriptions": 0,
           "arrivalSources": [
             {
               "label": "Инстаграм Егор 1",
-              "value": 1
+              "value": 2
             }
           ],
           "earnings": 0,
@@ -12024,29 +12029,29 @@
       {
         "date": "2026-09-29",
         "modelName": "Кейт @bamby_eyes_vip",
-        "views": 3,
-        "totalClicks": 2,
+        "views": 6,
+        "totalClicks": 5,
         "onlyFans": 0,
-        "fansly": 2,
+        "fansly": 5,
         "other": 0,
-        "conversion": 66.7
+        "conversion": 83.3
       },
       {
         "date": "2026-09-29",
         "modelName": "Юля @lilyuliaxo",
-        "views": 34,
-        "totalClicks": 13,
-        "onlyFans": 7,
-        "fansly": 3,
+        "views": 55,
+        "totalClicks": 19,
+        "onlyFans": 10,
+        "fansly": 6,
         "other": 3,
-        "conversion": 38.2
+        "conversion": 34.5
       }
     ],
     "links": [
       {
         "label": "Хамстер",
         "modelName": "Юля @lilyuliaxo",
-        "views": 9343,
+        "views": 9345,
         "totalClicks": 2229,
         "onlyFans": 1355,
         "fansly": 563,
@@ -12066,9 +12071,9 @@
       {
         "label": "Фикфап",
         "modelName": "Юля @lilyuliaxo",
-        "views": 3586,
-        "totalClicks": 1098,
-        "onlyFans": 521,
+        "views": 3591,
+        "totalClicks": 1099,
+        "onlyFans": 522,
         "fansly": 388,
         "other": 189,
         "conversion": 30.6
@@ -12086,22 +12091,22 @@
       {
         "label": "Иксфри",
         "modelName": "Юля @lilyuliaxo",
-        "views": 686,
-        "totalClicks": 527,
-        "onlyFans": 326,
-        "fansly": 115,
+        "views": 689,
+        "totalClicks": 529,
+        "onlyFans": 327,
+        "fansly": 116,
         "other": 86,
         "conversion": 76.8
       },
       {
         "label": "Порнхаб",
         "modelName": "Юля @lilyuliaxo",
-        "views": 1035,
+        "views": 1037,
         "totalClicks": 480,
         "onlyFans": 274,
         "fansly": 123,
         "other": 83,
-        "conversion": 46.4
+        "conversion": 46.3
       },
       {
         "label": "Интаграм FTA 1",
@@ -12116,7 +12121,7 @@
       {
         "label": "Порнхаб",
         "modelName": "Юля @lilyuliaxo",
-        "views": 1793,
+        "views": 1796,
         "totalClicks": 368,
         "onlyFans": 234,
         "fansly": 99,
@@ -12136,22 +12141,22 @@
       {
         "label": "Твиттер без обнаженки",
         "modelName": "Кейт @bamby_eyes_vip",
-        "views": 342,
-        "totalClicks": 294,
+        "views": 345,
+        "totalClicks": 297,
         "onlyFans": 53,
-        "fansly": 241,
+        "fansly": 244,
         "other": 0,
-        "conversion": 86
+        "conversion": 86.1
       },
       {
         "label": "Ероме",
         "modelName": "Юля @lilyuliaxo",
-        "views": 585,
-        "totalClicks": 254,
-        "onlyFans": 167,
-        "fansly": 67,
+        "views": 591,
+        "totalClicks": 257,
+        "onlyFans": 168,
+        "fansly": 69,
         "other": 20,
-        "conversion": 43.4
+        "conversion": 43.5
       },
       {
         "label": "Твиттер",
