@@ -4,8 +4,8 @@
     "title": "James Statistics",
     "agencyName": "Virgin 67 (six seven) Agency"
   },
-  "publishedAt": "2026-09-30T14:18:21.306Z",
-  "dataGeneratedAt": "2026-09-30T13:30:38.992Z",
+  "publishedAt": "2026-09-30T15:18:56.074Z",
+  "dataGeneratedAt": "2026-09-30T14:48:24.402Z",
   "range": {
     "from": "2025-09-26",
     "to": "2026-09-30"
@@ -9012,9 +9012,14 @@
         },
         {
           "date": "2026-09-30",
-          "arrivals": 0,
+          "arrivals": 1,
           "paidSubscriptions": 0,
-          "arrivalSources": [],
+          "arrivalSources": [
+            {
+              "label": "Инстаграм Егор 1",
+              "value": 1
+            }
+          ],
           "earnings": 0,
           "unansweredMessages": null
         }
@@ -12344,19 +12349,19 @@
       {
         "date": "2026-09-30",
         "modelName": "Юля @lilyuliaxo",
-        "views": 176,
-        "totalClicks": 71,
-        "onlyFans": 43,
-        "fansly": 16,
+        "views": 196,
+        "totalClicks": 76,
+        "onlyFans": 47,
+        "fansly": 17,
         "other": 12,
-        "conversion": 40.3
+        "conversion": 38.8
       }
     ],
     "links": [
       {
         "label": "Хамстер",
         "modelName": "Юля @lilyuliaxo",
-        "views": 9438,
+        "views": 9445,
         "totalClicks": 2247,
         "onlyFans": 1367,
         "fansly": 568,
@@ -12376,17 +12381,17 @@
       {
         "label": "Фикфап",
         "modelName": "Юля @lilyuliaxo",
-        "views": 3657,
-        "totalClicks": 1117,
-        "onlyFans": 529,
-        "fansly": 396,
+        "views": 3661,
+        "totalClicks": 1119,
+        "onlyFans": 530,
+        "fansly": 397,
         "other": 192,
-        "conversion": 30.5
+        "conversion": 30.6
       },
       {
         "label": "Иксфлоу",
         "modelName": "Юля @lilyuliaxo",
-        "views": 1693,
+        "views": 1694,
         "totalClicks": 588,
         "onlyFans": 234,
         "fansly": 220,
@@ -12406,12 +12411,12 @@
       {
         "label": "Порнхаб",
         "modelName": "Юля @lilyuliaxo",
-        "views": 1063,
+        "views": 1064,
         "totalClicks": 493,
         "onlyFans": 279,
         "fansly": 129,
         "other": 85,
-        "conversion": 46.4
+        "conversion": 46.3
       },
       {
         "label": "Интаграм FTA 1",
@@ -12426,22 +12431,22 @@
       {
         "label": "Порнхаб",
         "modelName": "Юля @lilyuliaxo",
-        "views": 1837,
+        "views": 1838,
         "totalClicks": 374,
         "onlyFans": 238,
         "fansly": 101,
         "other": 35,
-        "conversion": 20.4
+        "conversion": 20.3
       },
       {
         "label": "Ероме",
         "modelName": "Юля @lilyuliaxo",
-        "views": 759,
-        "totalClicks": 334,
-        "onlyFans": 221,
+        "views": 765,
+        "totalClicks": 337,
+        "onlyFans": 224,
         "fansly": 86,
         "other": 27,
-        "conversion": 44
+        "conversion": 44.1
       },
       {
         "label": "Твиттер без обнаженки",
