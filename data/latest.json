@@ -4,8 +4,8 @@
     "title": "James Statistics",
     "agencyName": "Virgin 67 (six seven) Agency"
   },
-  "publishedAt": "2026-09-30T13:17:30.811Z",
-  "dataGeneratedAt": "2026-09-30T13:16:13.861Z",
+  "publishedAt": "2026-09-30T14:18:21.306Z",
+  "dataGeneratedAt": "2026-09-30T13:30:38.992Z",
   "range": {
     "from": "2025-09-26",
     "to": "2026-09-30"
@@ -8685,7 +8685,7 @@
         },
         {
           "date": "2026-09-15",
-          "arrivals": 29,
+          "arrivals": 30,
           "paidSubscriptions": 1,
           "arrivalSources": [
             {
@@ -8695,6 +8695,10 @@
             {
               "label": "Artem - fikfap.com/user/asyabunny",
               "value": 3
+            },
+            {
+              "label": "Инстаграм Егор 1",
+              "value": 1
             }
           ],
           "earnings": 59.99,
@@ -8715,7 +8719,7 @@
         },
         {
           "date": "2026-09-17",
-          "arrivals": 141,
+          "arrivals": 142,
           "paidSubscriptions": 0,
           "arrivalSources": [
             {
@@ -8723,12 +8727,12 @@
               "value": 138
             },
             {
-              "label": "Artem - fikfap.com/user/asyabunny",
+              "label": "Инстаграм Егор 1",
               "value": 2
             },
             {
-              "label": "Инстаграм Егор 1",
-              "value": 1
+              "label": "Artem - fikfap.com/user/asyabunny",
+              "value": 2
             }
           ],
           "earnings": 92.8,
@@ -8753,12 +8757,16 @@
         },
         {
           "date": "2026-09-19",
-          "arrivals": 85,
+          "arrivals": 87,
           "paidSubscriptions": 1,
           "arrivalSources": [
             {
               "label": "Инстаграм Егор 7",
               "value": 82
+            },
+            {
+              "label": "Инстаграм Егор 1",
+              "value": 2
             },
             {
               "label": "jj twitter",
@@ -12336,19 +12344,19 @@
       {
         "date": "2026-09-30",
         "modelName": "Юля @lilyuliaxo",
-        "views": 165,
-        "totalClicks": 66,
-        "onlyFans": 39,
-        "fansly": 15,
+        "views": 176,
+        "totalClicks": 71,
+        "onlyFans": 43,
+        "fansly": 16,
         "other": 12,
-        "conversion": 40
+        "conversion": 40.3
       }
     ],
     "links": [
       {
         "label": "Хамстер",
         "modelName": "Юля @lilyuliaxo",
-        "views": 9433,
+        "views": 9438,
         "totalClicks": 2247,
         "onlyFans": 1367,
         "fansly": 568,
@@ -12368,10 +12376,10 @@
       {
         "label": "Фикфап",
         "modelName": "Юля @lilyuliaxo",
-        "views": 3655,
-        "totalClicks": 1115,
-        "onlyFans": 528,
-        "fansly": 395,
+        "views": 3657,
+        "totalClicks": 1117,
+        "onlyFans": 529,
+        "fansly": 396,
         "other": 192,
         "conversion": 30.5
       },
@@ -12428,12 +12436,12 @@
       {
         "label": "Ероме",
         "modelName": "Юля @lilyuliaxo",
-        "views": 755,
-        "totalClicks": 331,
-        "onlyFans": 218,
+        "views": 759,
+        "totalClicks": 334,
+        "onlyFans": 221,
         "fansly": 86,
         "other": 27,
-        "conversion": 43.8
+        "conversion": 44
       },
       {
         "label": "Твиттер без обнаженки",
