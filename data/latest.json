@@ -4,8 +4,8 @@
     "title": "James Statistics",
     "agencyName": "Virgin 67 (six seven) Agency"
   },
-  "publishedAt": "2026-10-01T11:26:10.754Z",
-  "dataGeneratedAt": "2026-10-01T10:32:41.183Z",
+  "publishedAt": "2026-10-01T12:26:15.645Z",
+  "dataGeneratedAt": "2026-10-01T12:21:42.820Z",
   "range": {
     "from": "2025-09-27",
     "to": "2026-10-01"
@@ -3556,12 +3556,12 @@
         },
         {
           "date": "2026-10-01",
-          "arrivals": 8,
+          "arrivals": 10,
           "paidSubscriptions": 0,
           "arrivalSources": [
             {
               "label": "Fansly FYP",
-              "value": 8
+              "value": 10
             }
           ],
           "earnings": 521.6,
@@ -6644,12 +6644,16 @@
         },
         {
           "date": "2026-10-01",
-          "arrivals": 10,
+          "arrivals": 11,
           "paidSubscriptions": 0,
           "arrivalSources": [
             {
               "label": "Fansly FYP",
               "value": 10
+            },
+            {
+              "label": "Fansly Suggestions",
+              "value": 1
             }
           ],
           "earnings": 0,
@@ -7625,7 +7629,7 @@
             }
           ],
           "earnings": 0,
-          "unansweredMessages": 5
+          "unansweredMessages": 6
         },
         {
           "date": "2026-10-01",
@@ -10050,12 +10054,12 @@
         },
         {
           "date": "2026-10-01",
-          "arrivals": 4,
+          "arrivals": 5,
           "paidSubscriptions": 0,
           "arrivalSources": [
             {
               "label": "Fansly FYP",
-              "value": 4
+              "value": 5
             }
           ],
           "earnings": 4,
@@ -12539,24 +12543,24 @@
       {
         "date": "2026-10-01",
         "modelName": "Юля @lilyuliaxo",
-        "views": 111,
-        "totalClicks": 28,
-        "onlyFans": 16,
-        "fansly": 7,
-        "other": 5,
-        "conversion": 25.2
+        "views": 132,
+        "totalClicks": 34,
+        "onlyFans": 18,
+        "fansly": 9,
+        "other": 7,
+        "conversion": 25.8
       }
     ],
     "links": [
       {
         "label": "Хамстер",
         "modelName": "Юля @lilyuliaxo",
-        "views": 9516,
-        "totalClicks": 2260,
-        "onlyFans": 1373,
-        "fansly": 574,
-        "other": 313,
-        "conversion": 23.7
+        "views": 9521,
+        "totalClicks": 2263,
+        "onlyFans": 1374,
+        "fansly": 575,
+        "other": 314,
+        "conversion": 23.8
       },
       {
         "label": "Инстаграм Molly",
@@ -12571,7 +12575,7 @@
       {
         "label": "Фикфап",
         "modelName": "Юля @lilyuliaxo",
-        "views": 3680,
+        "views": 3683,
         "totalClicks": 1127,
         "onlyFans": 534,
         "fansly": 399,
@@ -12581,7 +12585,7 @@
       {
         "label": "Иксфлоу",
         "modelName": "Юля @lilyuliaxo",
-        "views": 1701,
+        "views": 1704,
         "totalClicks": 591,
         "onlyFans": 235,
         "fansly": 222,
@@ -12601,12 +12605,12 @@
       {
         "label": "Порнхаб",
         "modelName": "Юля @lilyuliaxo",
-        "views": 1080,
-        "totalClicks": 495,
-        "onlyFans": 281,
+        "views": 1081,
+        "totalClicks": 496,
+        "onlyFans": 282,
         "fansly": 129,
         "other": 85,
-        "conversion": 45.8
+        "conversion": 45.9
       },
       {
         "label": "Интаграм FTA 1",
@@ -12621,22 +12625,22 @@
       {
         "label": "Порнхаб",
         "modelName": "Юля @lilyuliaxo",
-        "views": 1866,
-        "totalClicks": 376,
+        "views": 1870,
+        "totalClicks": 377,
         "onlyFans": 238,
         "fansly": 101,
-        "other": 37,
+        "other": 38,
         "conversion": 20.2
       },
       {
         "label": "Ероме",
         "modelName": "Юля @lilyuliaxo",
-        "views": 863,
-        "totalClicks": 362,
+        "views": 868,
+        "totalClicks": 363,
         "onlyFans": 241,
-        "fansly": 94,
+        "fansly": 95,
         "other": 27,
-        "conversion": 41.9
+        "conversion": 41.8
       },
       {
         "label": "Твиттер без обнаженки",
