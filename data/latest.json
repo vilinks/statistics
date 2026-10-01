@@ -4,8 +4,8 @@
     "title": "James Statistics",
     "agencyName": "Virgin 67 (six seven) Agency"
   },
-  "publishedAt": "2026-10-01T16:26:41.239Z",
-  "dataGeneratedAt": "2026-10-01T12:21:42.820Z",
+  "publishedAt": "2026-10-01T17:26:59.330Z",
+  "dataGeneratedAt": "2026-10-01T17:26:12.472Z",
   "range": {
     "from": "2025-09-27",
     "to": "2026-10-01"
@@ -2112,7 +2112,7 @@
           "arrivals": 0,
           "paidSubscriptions": 0,
           "arrivalSources": [],
-          "earnings": 16,
+          "earnings": 48,
           "unansweredMessages": null
         }
       ]
@@ -3552,16 +3552,20 @@
             }
           ],
           "earnings": 154.4,
-          "unansweredMessages": 0
+          "unansweredMessages": 1
         },
         {
           "date": "2026-10-01",
-          "arrivals": 10,
+          "arrivals": 19,
           "paidSubscriptions": 0,
           "arrivalSources": [
             {
               "label": "Fansly FYP",
-              "value": 10
+              "value": 18
+            },
+            {
+              "label": "Ероме Владik",
+              "value": 1
             }
           ],
           "earnings": 521.6,
@@ -5568,9 +5572,14 @@
         },
         {
           "date": "2026-10-01",
-          "arrivals": 0,
+          "arrivals": 1,
           "paidSubscriptions": 0,
-          "arrivalSources": [],
+          "arrivalSources": [
+            {
+              "label": "GG - WML Software (twitter)",
+              "value": 1
+            }
+          ],
           "earnings": 0,
           "unansweredMessages": null
         }
@@ -6640,16 +6649,16 @@
             }
           ],
           "earnings": 12.8,
-          "unansweredMessages": 0
+          "unansweredMessages": 5
         },
         {
           "date": "2026-10-01",
-          "arrivals": 11,
+          "arrivals": 14,
           "paidSubscriptions": 0,
           "arrivalSources": [
             {
               "label": "Fansly FYP",
-              "value": 10
+              "value": 13
             },
             {
               "label": "Fansly Suggestions",
