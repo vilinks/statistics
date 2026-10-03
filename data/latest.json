@@ -4,8 +4,8 @@
     "title": "James Statistics",
     "agencyName": "Virgin 67 (six seven) Agency"
   },
-  "publishedAt": "2026-10-03T10:34:00.591Z",
-  "dataGeneratedAt": "2026-10-03T09:02:45.202Z",
+  "publishedAt": "2026-10-03T11:34:11.190Z",
+  "dataGeneratedAt": "2026-10-03T11:32:30.851Z",
   "range": {
     "from": "2025-09-29",
     "to": "2026-10-03"
@@ -2183,7 +2183,7 @@
         },
         {
           "date": "2026-10-03",
-          "arrivals": 5,
+          "arrivals": 6,
           "paidSubscriptions": 0,
           "arrivalSources": [
             {
@@ -2200,6 +2200,10 @@
             },
             {
               "label": "Порнпикс",
+              "value": 1
+            },
+            {
+              "label": "xfree",
               "value": 1
             }
           ],
@@ -3689,16 +3693,16 @@
             }
           ],
           "earnings": 1355.6,
-          "unansweredMessages": 1
+          "unansweredMessages": 11
         },
         {
           "date": "2026-10-03",
-          "arrivals": 8,
+          "arrivals": 12,
           "paidSubscriptions": 0,
           "arrivalSources": [
             {
               "label": "Fansly FYP",
-              "value": 5
+              "value": 9
             },
             {
               "label": "Фикфап",
@@ -4490,9 +4494,14 @@
         },
         {
           "date": "2026-10-03",
-          "arrivals": 0,
+          "arrivals": 1,
           "paidSubscriptions": 0,
-          "arrivalSources": [],
+          "arrivalSources": [
+            {
+              "label": "Fansly FYP",
+              "value": 1
+            }
+          ],
           "earnings": 0,
           "unansweredMessages": null
         }
@@ -6894,19 +6903,19 @@
             }
           ],
           "earnings": 40.8,
-          "unansweredMessages": 0
+          "unansweredMessages": 2
         },
         {
           "date": "2026-10-03",
-          "arrivals": 8,
+          "arrivals": 13,
           "paidSubscriptions": 0,
           "arrivalSources": [
             {
               "label": "Fansly FYP",
-              "value": 8
+              "value": 13
             }
           ],
-          "earnings": 32.8,
+          "earnings": 52.8,
           "unansweredMessages": null
         }
       ]
@@ -7909,7 +7918,7 @@
             }
           ],
           "earnings": 80,
-          "unansweredMessages": 6
+          "unansweredMessages": 0
         },
         {
           "date": "2026-10-03",
@@ -9493,7 +9502,7 @@
           "arrivals": 0,
           "paidSubscriptions": 0,
           "arrivalSources": [],
-          "earnings": 0,
+          "earnings": 61.78,
           "unansweredMessages": null
         }
       ]
