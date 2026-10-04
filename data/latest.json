@@ -4,8 +4,8 @@
     "title": "James Statistics",
     "agencyName": "Virgin 67 (six seven) Agency"
   },
-  "publishedAt": "2026-10-04T13:38:46.573Z",
-  "dataGeneratedAt": "2026-10-04T13:34:34.434Z",
+  "publishedAt": "2026-10-04T14:39:05.314Z",
+  "dataGeneratedAt": "2026-10-04T13:59:50.849Z",
   "range": {
     "from": "2025-09-30",
     "to": "2026-10-04"
@@ -3751,15 +3751,31 @@
         },
         {
           "date": "2026-10-04",
-          "arrivals": 6,
+          "arrivals": 15,
           "paidSubscriptions": 0,
           "arrivalSources": [
             {
               "label": "Fansly FYP",
-              "value": 5
+              "value": 10
+            },
+            {
+              "label": "Fansly Suggestions",
+              "value": 1
+            },
+            {
+              "label": "Fansly Search",
+              "value": 1
             },
             {
               "label": "Пх",
+              "value": 1
+            },
+            {
+              "label": "Реддит",
+              "value": 1
+            },
+            {
+              "label": "Ероме Владik",
               "value": 1
             }
           ],
@@ -5884,7 +5900,7 @@
               "value": 1
             }
           ],
-          "earnings": 0,
+          "earnings": 4,
           "unansweredMessages": null
         }
       ]
@@ -7008,16 +7024,16 @@
             }
           ],
           "earnings": 76.8,
-          "unansweredMessages": 1
+          "unansweredMessages": 4
         },
         {
           "date": "2026-10-04",
-          "arrivals": 3,
+          "arrivals": 10,
           "paidSubscriptions": 0,
           "arrivalSources": [
             {
               "label": "Fansly FYP",
-              "value": 3
+              "value": 10
             }
           ],
           "earnings": 32,
@@ -8044,16 +8060,20 @@
             }
           ],
           "earnings": 8.16,
-          "unansweredMessages": 9
+          "unansweredMessages": 4
         },
         {
           "date": "2026-10-04",
-          "arrivals": 2,
+          "arrivals": 5,
           "paidSubscriptions": 0,
           "arrivalSources": [
             {
               "label": "Fansly FYP",
-              "value": 2
+              "value": 4
+            },
+            {
+              "label": "Fansly Search",
+              "value": 1
             }
           ],
           "earnings": 0,
@@ -8866,16 +8886,16 @@
           "paidSubscriptions": 0,
           "arrivalSources": [],
           "earnings": 0,
-          "unansweredMessages": 17
+          "unansweredMessages": 0
         },
         {
           "date": "2026-10-04",
-          "arrivals": 1,
+          "arrivals": 2,
           "paidSubscriptions": 0,
           "arrivalSources": [
             {
               "label": "Fansly FYP",
-              "value": 1
+              "value": 2
             }
           ],
           "earnings": 0,
@@ -13210,23 +13230,23 @@
       {
         "date": "2026-10-04",
         "modelName": "Юля @lilyuliaxo",
-        "views": 163,
-        "totalClicks": 56,
+        "views": 166,
+        "totalClicks": 60,
         "onlyFans": 29,
-        "fansly": 16,
-        "other": 11,
-        "conversion": 34.4
+        "fansly": 18,
+        "other": 13,
+        "conversion": 36.1
       }
     ],
     "links": [
       {
         "label": "Хамстер",
         "modelName": "Юля @lilyuliaxo",
-        "views": 9786,
-        "totalClicks": 2346,
+        "views": 9787,
+        "totalClicks": 2348,
         "onlyFans": 1424,
         "fansly": 598,
-        "other": 324,
+        "other": 326,
         "conversion": 24
       },
       {
@@ -13292,12 +13312,12 @@
       {
         "label": "Порнхаб",
         "modelName": "Юля @lilyuliaxo",
-        "views": 2061,
-        "totalClicks": 414,
+        "views": 2063,
+        "totalClicks": 416,
         "onlyFans": 258,
-        "fansly": 116,
+        "fansly": 118,
         "other": 40,
-        "conversion": 20.1
+        "conversion": 20.2
       },
       {
         "label": "Интаграм FTA 1",
