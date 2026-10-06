@@ -4,7 +4,7 @@
     "title": "James Statistics",
     "agencyName": "Virgin 67 (six seven) Agency"
   },
-  "publishedAt": "2026-10-06T11:45:26.784Z",
+  "publishedAt": "2026-10-06T12:45:45.486Z",
   "dataGeneratedAt": "2026-10-06T08:07:47.573Z",
   "range": {
     "from": "2025-10-02",
@@ -11714,6 +11714,17 @@
           "unansweredMessages": null
         }
       ]
+    },
+    {
+      "id": "адель-its-kikidoll-fansly",
+      "modelName": "Адель",
+      "pageName": "@its_kikidoll",
+      "platform": "fansly",
+      "username": "its_kikidoll",
+      "dataFrom": "",
+      "dataThrough": "",
+      "stale": true,
+      "series": []
     }
   ],
   "clicks": {
