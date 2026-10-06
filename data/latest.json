@@ -4,8 +4,8 @@
     "title": "James Statistics",
     "agencyName": "Virgin 67 (six seven) Agency"
   },
-  "publishedAt": "2026-10-06T06:44:42.457Z",
-  "dataGeneratedAt": "2026-10-06T02:40:34.898Z",
+  "publishedAt": "2026-10-06T07:44:58.862Z",
+  "dataGeneratedAt": "2026-10-06T07:43:27.530Z",
   "range": {
     "from": "2025-10-02",
     "to": "2026-10-06"
@@ -2250,7 +2250,7 @@
         {
           "date": "2026-10-05",
           "arrivals": 9,
-          "paidSubscriptions": 0,
+          "paidSubscriptions": 1,
           "arrivalSources": [
             {
               "label": "Реддит 2 Sined",
@@ -2277,14 +2277,23 @@
               "value": 1
             }
           ],
-          "earnings": 211.2,
+          "earnings": 243.2,
           "unansweredMessages": null
         },
         {
           "date": "2026-10-06",
-          "arrivals": 0,
+          "arrivals": 2,
           "paidSubscriptions": 0,
-          "arrivalSources": [],
+          "arrivalSources": [
+            {
+              "label": "xfree",
+              "value": 1
+            },
+            {
+              "label": "ПорноХаб",
+              "value": 1
+            }
+          ],
           "earnings": 0,
           "unansweredMessages": null
         }
@@ -3830,7 +3839,7 @@
         {
           "date": "2026-10-05",
           "arrivals": 23,
-          "paidSubscriptions": 3,
+          "paidSubscriptions": 5,
           "arrivalSources": [
             {
               "label": "Fansly FYP",
@@ -3854,13 +3863,22 @@
             }
           ],
           "earnings": 99.6,
-          "unansweredMessages": 1
+          "unansweredMessages": 0
         },
         {
           "date": "2026-10-06",
-          "arrivals": 0,
+          "arrivals": 6,
           "paidSubscriptions": 0,
-          "arrivalSources": [],
+          "arrivalSources": [
+            {
+              "label": "Fansly FYP",
+              "value": 5
+            },
+            {
+              "label": "Fansly Search",
+              "value": 1
+            }
+          ],
           "earnings": 8,
           "unansweredMessages": null
         }
