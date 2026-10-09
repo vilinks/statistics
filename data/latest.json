@@ -4,8 +4,8 @@
     "title": "James Statistics",
     "agencyName": "Virgin 67 (six seven) Agency"
   },
-  "publishedAt": "2026-10-09T19:02:40.478Z",
-  "dataGeneratedAt": "2026-10-09T14:57:04.452Z",
+  "publishedAt": "2026-10-09T20:02:56.263Z",
+  "dataGeneratedAt": "2026-10-09T20:00:44.109Z",
   "range": {
     "from": "2025-10-05",
     "to": "2026-10-09"
@@ -2397,7 +2397,7 @@
               "value": 1
             }
           ],
-          "earnings": 16,
+          "earnings": 180,
           "unansweredMessages": null
         }
       ]
@@ -4037,16 +4037,16 @@
             }
           ],
           "earnings": 49.68,
-          "unansweredMessages": 0
+          "unansweredMessages": 1
         },
         {
           "date": "2026-10-09",
-          "arrivals": 10,
+          "arrivals": 14,
           "paidSubscriptions": 0,
           "arrivalSources": [
             {
               "label": "Fansly FYP",
-              "value": 7
+              "value": 10
             },
             {
               "label": "Fansly Search",
@@ -4059,9 +4059,13 @@
             {
               "label": "Fansly Suggestions",
               "value": 1
+            },
+            {
+              "label": "Пх 2",
+              "value": 1
             }
           ],
-          "earnings": 24,
+          "earnings": 28,
           "unansweredMessages": null
         }
       ]
@@ -6329,7 +6333,7 @@
         },
         {
           "date": "2026-10-09",
-          "arrivals": 2,
+          "arrivals": 3,
           "paidSubscriptions": 0,
           "arrivalSources": [
             {
@@ -6338,6 +6342,10 @@
             },
             {
               "label": "GG - WML Software (twitter)",
+              "value": 1
+            },
+            {
+              "label": "blog 13.05.25",
               "value": 1
             }
           ],
