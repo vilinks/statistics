@@ -4,8 +4,8 @@
     "title": "James Statistics",
     "agencyName": "Virgin 67 (six seven) Agency"
   },
-  "publishedAt": "2026-10-10T22:07:08.624Z",
-  "dataGeneratedAt": "2026-10-10T17:14:04.275Z",
+  "publishedAt": "2026-10-10T23:07:27.503Z",
+  "dataGeneratedAt": "2026-10-10T22:28:57.403Z",
   "range": {
     "from": "2025-10-06",
     "to": "2026-10-10"
@@ -2402,23 +2402,23 @@
         },
         {
           "date": "2026-10-10",
-          "arrivals": 8,
+          "arrivals": 11,
           "paidSubscriptions": 0,
           "arrivalSources": [
             {
               "label": "TicPorn",
-              "value": 2
+              "value": 3
             },
             {
               "label": "GG SFS",
-              "value": 1
-            },
-            {
-              "label": "Порнпикс",
-              "value": 1
+              "value": 2
             },
             {
               "label": "Ероме Владik",
+              "value": 2
+            },
+            {
+              "label": "Порнпикс",
               "value": 1
             },
             {
@@ -2434,7 +2434,7 @@
               "value": 1
             }
           ],
-          "earnings": 105.83,
+          "earnings": 121.83,
           "unansweredMessages": null
         }
       ]
@@ -4107,20 +4107,20 @@
         },
         {
           "date": "2026-10-10",
-          "arrivals": 6,
-          "paidSubscriptions": 0,
+          "arrivals": 12,
+          "paidSubscriptions": 2,
           "arrivalSources": [
             {
               "label": "Fansly FYP",
-              "value": 5
+              "value": 11
             },
             {
               "label": "Иксфри",
               "value": 1
             }
           ],
-          "earnings": 6.4,
-          "unansweredMessages": null
+          "earnings": 38.4,
+          "unansweredMessages": 17
         }
       ]
     },
@@ -6408,15 +6408,19 @@
         },
         {
           "date": "2026-10-10",
-          "arrivals": 1,
+          "arrivals": 3,
           "paidSubscriptions": 0,
           "arrivalSources": [
             {
               "label": "GG @averymayy 25.11.25",
+              "value": 2
+            },
+            {
+              "label": "twitter 05.03.25",
               "value": 1
             }
           ],
-          "earnings": 12.8,
+          "earnings": 44.8,
           "unansweredMessages": null
         }
       ]
@@ -7634,16 +7638,16 @@
         },
         {
           "date": "2026-10-10",
-          "arrivals": 9,
+          "arrivals": 12,
           "paidSubscriptions": 0,
           "arrivalSources": [
             {
               "label": "Fansly FYP",
-              "value": 9
+              "value": 12
             }
           ],
-          "earnings": 113.6,
-          "unansweredMessages": null
+          "earnings": 180.8,
+          "unansweredMessages": 0
         }
       ]
     },
@@ -8764,16 +8768,16 @@
         },
         {
           "date": "2026-10-10",
-          "arrivals": 3,
+          "arrivals": 4,
           "paidSubscriptions": 0,
           "arrivalSources": [
             {
               "label": "Fansly Search",
-              "value": 3
+              "value": 4
             }
           ],
           "earnings": 0,
-          "unansweredMessages": null
+          "unansweredMessages": 4
         }
       ]
     },
@@ -9658,11 +9662,16 @@
         },
         {
           "date": "2026-10-10",
-          "arrivals": 0,
+          "arrivals": 1,
           "paidSubscriptions": 0,
-          "arrivalSources": [],
+          "arrivalSources": [
+            {
+              "label": "Fansly FYP",
+              "value": 1
+            }
+          ],
           "earnings": 0,
-          "unansweredMessages": null
+          "unansweredMessages": 3
         }
       ]
     },
@@ -10564,12 +10573,12 @@
         },
         {
           "date": "2026-10-10",
-          "arrivals": 5,
+          "arrivals": 7,
           "paidSubscriptions": 0,
           "arrivalSources": [
             {
               "label": "GG SFS",
-              "value": 3
+              "value": 5
             },
             {
               "label": "Инстаграм Егор 7",
@@ -10580,7 +10589,7 @@
               "value": 1
             }
           ],
-          "earnings": 21.6,
+          "earnings": 39.19,
           "unansweredMessages": null
         }
       ]
@@ -11617,7 +11626,7 @@
             }
           ],
           "earnings": 0,
-          "unansweredMessages": null
+          "unansweredMessages": 54
         }
       ]
     },
@@ -12446,7 +12455,7 @@
             }
           ],
           "earnings": 0,
-          "unansweredMessages": null
+          "unansweredMessages": 30
         }
       ]
     },
@@ -14589,23 +14598,23 @@
       {
         "date": "2026-10-10",
         "modelName": "Юля @lilyuliaxo",
-        "views": 146,
-        "totalClicks": 39,
-        "onlyFans": 23,
-        "fansly": 6,
-        "other": 10,
-        "conversion": 26.7
+        "views": 201,
+        "totalClicks": 50,
+        "onlyFans": 29,
+        "fansly": 10,
+        "other": 11,
+        "conversion": 24.9
       }
     ],
     "links": [
       {
         "label": "Хамстер",
         "modelName": "Юля @lilyuliaxo",
-        "views": 10447,
-        "totalClicks": 2488,
-        "onlyFans": 1510,
-        "fansly": 635,
-        "other": 343,
+        "views": 10468,
+        "totalClicks": 2491,
+        "onlyFans": 1511,
+        "fansly": 636,
+        "other": 344,
         "conversion": 23.8
       },
       {
@@ -14621,7 +14630,7 @@
       {
         "label": "Фикфап",
         "modelName": "Юля @lilyuliaxo",
-        "views": 4020,
+        "views": 4022,
         "totalClicks": 1260,
         "onlyFans": 586,
         "fansly": 445,
@@ -14631,7 +14640,7 @@
       {
         "label": "Иксфлоу",
         "modelName": "Юля @lilyuliaxo",
-        "views": 1798,
+        "views": 1799,
         "totalClicks": 613,
         "onlyFans": 245,
         "fansly": 230,
@@ -14641,42 +14650,42 @@
       {
         "label": "Иксфри",
         "modelName": "Юля @lilyuliaxo",
-        "views": 765,
-        "totalClicks": 590,
-        "onlyFans": 359,
-        "fansly": 136,
+        "views": 767,
+        "totalClicks": 592,
+        "onlyFans": 360,
+        "fansly": 137,
         "other": 95,
-        "conversion": 77.1
+        "conversion": 77.2
       },
       {
         "label": "Порнхаб",
         "modelName": "Юля @lilyuliaxo",
-        "views": 1241,
-        "totalClicks": 568,
-        "onlyFans": 310,
+        "views": 1248,
+        "totalClicks": 569,
+        "onlyFans": 311,
         "fansly": 154,
         "other": 104,
-        "conversion": 45.8
+        "conversion": 45.6
       },
       {
         "label": "Ероме",
         "modelName": "Юля @lilyuliaxo",
-        "views": 1289,
-        "totalClicks": 488,
-        "onlyFans": 336,
-        "fansly": 124,
+        "views": 1298,
+        "totalClicks": 490,
+        "onlyFans": 337,
+        "fansly": 125,
         "other": 28,
-        "conversion": 37.9
+        "conversion": 37.8
       },
       {
         "label": "Порнхаб",
         "modelName": "Юля @lilyuliaxo",
-        "views": 2422,
-        "totalClicks": 466,
-        "onlyFans": 287,
-        "fansly": 130,
+        "views": 2432,
+        "totalClicks": 469,
+        "onlyFans": 289,
+        "fansly": 131,
         "other": 49,
-        "conversion": 19.2
+        "conversion": 19.3
       },
       {
         "label": "Интаграм FTA 1",
@@ -14721,22 +14730,22 @@
       {
         "label": "Ваптап",
         "modelName": "Юля @lilyuliaxo",
-        "views": 97,
+        "views": 98,
         "totalClicks": 104,
         "onlyFans": 51,
         "fansly": 36,
         "other": 17,
-        "conversion": 107.2
+        "conversion": 106.1
       },
       {
         "label": "Инстаграм",
         "modelName": "Юля @lilyuliaxo",
-        "views": 105,
+        "views": 107,
         "totalClicks": 97,
         "onlyFans": 26,
         "fansly": 20,
         "other": 51,
-        "conversion": 92.4
+        "conversion": 90.7
       },
       {
         "label": "Кьюаркод",
