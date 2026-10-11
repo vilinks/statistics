@@ -4,8 +4,8 @@
     "title": "James Statistics",
     "agencyName": "Virgin 67 (six seven) Agency"
   },
-  "publishedAt": "2026-10-11T13:10:11.567Z",
-  "dataGeneratedAt": "2026-10-11T10:34:12.712Z",
+  "publishedAt": "2026-10-11T14:10:27.639Z",
+  "dataGeneratedAt": "2026-10-11T14:09:19.084Z",
   "range": {
     "from": "2025-10-07",
     "to": "2026-10-11"
@@ -2451,7 +2451,7 @@
               "value": 1
             }
           ],
-          "earnings": 0,
+          "earnings": 64,
           "unansweredMessages": null
         }
       ]
@@ -4137,19 +4137,31 @@
             }
           ],
           "earnings": 38.4,
-          "unansweredMessages": 0
+          "unansweredMessages": 4
         },
         {
           "date": "2026-10-11",
-          "arrivals": 5,
+          "arrivals": 10,
           "paidSubscriptions": 0,
           "arrivalSources": [
             {
               "label": "Fansly FYP",
-              "value": 5
+              "value": 7
+            },
+            {
+              "label": "Fansly Suggestions",
+              "value": 1
+            },
+            {
+              "label": "Fansly Search",
+              "value": 1
+            },
+            {
+              "label": "Фикфап",
+              "value": 1
             }
           ],
-          "earnings": 0,
+          "earnings": 30.4,
           "unansweredMessages": null
         }
       ]
@@ -7690,16 +7702,16 @@
             }
           ],
           "earnings": 280.8,
-          "unansweredMessages": 3
+          "unansweredMessages": 0
         },
         {
           "date": "2026-10-11",
-          "arrivals": 5,
+          "arrivals": 7,
           "paidSubscriptions": 0,
           "arrivalSources": [
             {
               "label": "Fansly FYP",
-              "value": 4
+              "value": 6
             },
             {
               "label": "Фикфап",
@@ -10679,11 +10691,15 @@
         },
         {
           "date": "2026-10-11",
-          "arrivals": 1,
+          "arrivals": 2,
           "paidSubscriptions": 0,
           "arrivalSources": [
             {
               "label": "GG SFS",
+              "value": 1
+            },
+            {
+              "label": "gg14",
               "value": 1
             }
           ],
