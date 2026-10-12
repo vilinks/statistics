@@ -4,8 +4,8 @@
     "title": "James Statistics",
     "agencyName": "Virgin 67 (six seven) Agency"
   },
-  "publishedAt": "2026-10-12T06:16:40.006Z",
-  "dataGeneratedAt": "2026-10-12T06:04:44.759Z",
+  "publishedAt": "2026-10-12T07:17:30.989Z",
+  "dataGeneratedAt": "2026-10-12T06:37:13.013Z",
   "range": {
     "from": "2025-10-08",
     "to": "2026-10-12"
@@ -2484,9 +2484,14 @@
         },
         {
           "date": "2026-10-12",
-          "arrivals": 0,
+          "arrivals": 1,
           "paidSubscriptions": 0,
-          "arrivalSources": [],
+          "arrivalSources": [
+            {
+              "label": "fikfap",
+              "value": 1
+            }
+          ],
           "earnings": 0,
           "unansweredMessages": null
         }
@@ -7789,7 +7794,7 @@
             }
           ],
           "earnings": 102.4,
-          "unansweredMessages": 3
+          "unansweredMessages": 2
         },
         {
           "date": "2026-10-12",
@@ -9868,7 +9873,7 @@
             }
           ],
           "earnings": 13.59,
-          "unansweredMessages": 4
+          "unansweredMessages": 3
         },
         {
           "date": "2026-10-12",
@@ -14938,22 +14943,22 @@
       {
         "date": "2026-10-12",
         "modelName": "Юля @lilyuliaxo",
-        "views": 45,
-        "totalClicks": 11,
+        "views": 49,
+        "totalClicks": 12,
         "onlyFans": 3,
-        "fansly": 5,
+        "fansly": 6,
         "other": 3,
-        "conversion": 24.4
+        "conversion": 24.5
       }
     ],
     "links": [
       {
         "label": "Хамстер",
         "modelName": "Юля @lilyuliaxo",
-        "views": 10584,
-        "totalClicks": 2522,
+        "views": 10585,
+        "totalClicks": 2523,
         "onlyFans": 1529,
-        "fansly": 643,
+        "fansly": 644,
         "other": 350,
         "conversion": 23.8
       },
@@ -15000,17 +15005,17 @@
       {
         "label": "Порнхаб",
         "modelName": "Юля @lilyuliaxo",
-        "views": 1267,
+        "views": 1269,
         "totalClicks": 576,
         "onlyFans": 315,
         "fansly": 157,
         "other": 104,
-        "conversion": 45.5
+        "conversion": 45.4
       },
       {
         "label": "Ероме",
         "modelName": "Юля @lilyuliaxo",
-        "views": 1349,
+        "views": 1350,
         "totalClicks": 510,
         "onlyFans": 352,
         "fansly": 129,
