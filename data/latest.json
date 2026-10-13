@@ -4,8 +4,8 @@
     "title": "James Statistics",
     "agencyName": "Virgin 67 (six seven) Agency"
   },
-  "publishedAt": "2026-10-13T19:28:54.478Z",
-  "dataGeneratedAt": "2026-10-13T15:27:34.148Z",
+  "publishedAt": "2026-10-13T20:28:57.575Z",
+  "dataGeneratedAt": "2026-10-13T20:28:11.031Z",
   "range": {
     "from": "2025-10-09",
     "to": "2026-10-13"
@@ -1509,9 +1509,13 @@
         },
         {
           "date": "2026-10-13",
-          "arrivals": 3,
+          "arrivals": 6,
           "paidSubscriptions": 0,
           "arrivalSources": [
+            {
+              "label": "GG SFS",
+              "value": 1
+            },
             {
               "label": "Adult Forums 01.10.25",
               "value": 1
@@ -1522,6 +1526,14 @@
             },
             {
               "label": "Redison Bamby",
+              "value": 1
+            },
+            {
+              "label": "GG - WML Software (twitter)",
+              "value": 1
+            },
+            {
+              "label": "blog 06.06.24",
               "value": 1
             }
           ],
@@ -16480,34 +16492,34 @@
       {
         "date": "2026-10-13",
         "modelName": "Кейт @bamby_eyes_vip",
-        "views": 2,
+        "views": 4,
         "totalClicks": 2,
         "onlyFans": 0,
         "fansly": 2,
         "other": 0,
-        "conversion": 100
+        "conversion": 50
       },
       {
         "date": "2026-10-13",
         "modelName": "Юля @lilyuliaxo",
-        "views": 114,
-        "totalClicks": 36,
-        "onlyFans": 16,
-        "fansly": 10,
+        "views": 161,
+        "totalClicks": 42,
+        "onlyFans": 21,
+        "fansly": 11,
         "other": 10,
-        "conversion": 31.6
+        "conversion": 26.1
       }
     ],
     "links": [
       {
         "label": "Хамстер",
         "modelName": "Юля @lilyuliaxo",
-        "views": 10693,
-        "totalClicks": 2561,
-        "onlyFans": 1547,
-        "fansly": 655,
+        "views": 10726,
+        "totalClicks": 2565,
+        "onlyFans": 1550,
+        "fansly": 656,
         "other": 359,
-        "conversion": 24
+        "conversion": 23.9
       },
       {
         "label": "Инстаграм Molly",
@@ -16522,7 +16534,7 @@
       {
         "label": "Фикфап",
         "modelName": "Юля @lilyuliaxo",
-        "views": 4049,
+        "views": 4050,
         "totalClicks": 1282,
         "onlyFans": 592,
         "fansly": 454,
@@ -16552,19 +16564,19 @@
       {
         "label": "Порнхаб",
         "modelName": "Юля @lilyuliaxo",
-        "views": 1289,
+        "views": 1291,
         "totalClicks": 579,
         "onlyFans": 316,
         "fansly": 159,
         "other": 104,
-        "conversion": 44.9
+        "conversion": 44.8
       },
       {
         "label": "Ероме",
         "modelName": "Юля @lilyuliaxo",
-        "views": 1392,
-        "totalClicks": 528,
-        "onlyFans": 364,
+        "views": 1399,
+        "totalClicks": 530,
+        "onlyFans": 366,
         "fansly": 134,
         "other": 30,
         "conversion": 37.9
@@ -16572,7 +16584,7 @@
       {
         "label": "Порнхаб",
         "modelName": "Юля @lilyuliaxo",
-        "views": 2594,
+        "views": 2598,
         "totalClicks": 494,
         "onlyFans": 300,
         "fansly": 140,
@@ -16812,12 +16824,12 @@
       {
         "label": "Иксфри",
         "modelName": "Кейт @bamby_eyes_vip",
-        "views": 5,
+        "views": 6,
         "totalClicks": 3,
         "onlyFans": 2,
         "fansly": 1,
         "other": 0,
-        "conversion": 60
+        "conversion": 50
       },
       {
         "label": "Ася 1 @mercy_m_1",
@@ -16982,6 +16994,16 @@
       {
         "label": "Тамблер",
         "modelName": "Юля @lilyuliaxo",
+        "views": 1,
+        "totalClicks": 0,
+        "onlyFans": 0,
+        "fansly": 0,
+        "other": 0,
+        "conversion": 0
+      },
+      {
+        "label": "YouTube UCxjq4jk0PHasXOfkSSGfuJA",
+        "modelName": "Кейт @bamby_eyes_vip",
         "views": 1,
         "totalClicks": 0,
         "onlyFans": 0,
