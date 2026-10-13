@@ -4,8 +4,8 @@
     "title": "James Statistics",
     "agencyName": "Virgin 67 (six seven) Agency"
   },
-  "publishedAt": "2026-10-13T20:28:57.575Z",
-  "dataGeneratedAt": "2026-10-13T20:28:11.031Z",
+  "publishedAt": "2026-10-13T21:29:00.067Z",
+  "dataGeneratedAt": "2026-10-13T20:50:25.402Z",
   "range": {
     "from": "2025-10-09",
     "to": "2026-10-13"
@@ -5881,7 +5881,7 @@
         },
         {
           "date": "2026-10-13",
-          "arrivals": 3,
+          "arrivals": 4,
           "paidSubscriptions": 0,
           "arrivalSources": [
             {
@@ -5891,9 +5891,13 @@
             {
               "label": "GG SFS",
               "value": 1
+            },
+            {
+              "label": "oliver test",
+              "value": 1
             }
           ],
-          "earnings": 70.4,
+          "earnings": 120,
           "unansweredMessages": null
         }
       ]
@@ -16502,19 +16506,19 @@
       {
         "date": "2026-10-13",
         "modelName": "Юля @lilyuliaxo",
-        "views": 161,
-        "totalClicks": 42,
-        "onlyFans": 21,
+        "views": 165,
+        "totalClicks": 44,
+        "onlyFans": 23,
         "fansly": 11,
         "other": 10,
-        "conversion": 26.1
+        "conversion": 26.7
       }
     ],
     "links": [
       {
         "label": "Хамстер",
         "modelName": "Юля @lilyuliaxo",
-        "views": 10726,
+        "views": 10728,
         "totalClicks": 2565,
         "onlyFans": 1550,
         "fansly": 656,
@@ -16554,9 +16558,9 @@
       {
         "label": "Иксфри",
         "modelName": "Юля @lilyuliaxo",
-        "views": 782,
-        "totalClicks": 599,
-        "onlyFans": 364,
+        "views": 783,
+        "totalClicks": 600,
+        "onlyFans": 365,
         "fansly": 140,
         "other": 95,
         "conversion": 76.6
@@ -16574,9 +16578,9 @@
       {
         "label": "Ероме",
         "modelName": "Юля @lilyuliaxo",
-        "views": 1399,
-        "totalClicks": 530,
-        "onlyFans": 366,
+        "views": 1400,
+        "totalClicks": 531,
+        "onlyFans": 367,
         "fansly": 134,
         "other": 30,
         "conversion": 37.9
