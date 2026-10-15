@@ -4,11 +4,11 @@
     "title": "James Statistics",
     "agencyName": "Virgin 67 (six seven) Agency"
   },
-  "publishedAt": "2026-10-14T23:34:35.408Z",
+  "publishedAt": "2026-10-15T00:34:38.304Z",
   "dataGeneratedAt": "2026-10-14T21:33:40.563Z",
   "range": {
-    "from": "2025-10-10",
-    "to": "2026-10-14"
+    "from": "2025-10-11",
+    "to": "2026-10-15"
   },
   "privacy": {
     "earnings": true,
@@ -2838,7 +2838,7 @@
       "platform": "fansly",
       "username": "LovelyMila",
       "dataFrom": "2026-07-28",
-      "dataThrough": "2026-10-14",
+      "dataThrough": "2026-10-15",
       "stale": true,
       "series": [
         {
@@ -4026,6 +4026,14 @@
           ],
           "earnings": 19.36,
           "unansweredMessages": 0
+        },
+        {
+          "date": "2026-10-15",
+          "arrivals": 0,
+          "paidSubscriptions": 0,
+          "arrivalSources": [],
+          "earnings": 0,
+          "unansweredMessages": null
         }
       ]
     },
@@ -4036,7 +4044,7 @@
       "platform": "fansly",
       "username": "asyabunny",
       "dataFrom": "2026-07-28",
-      "dataThrough": "2026-10-14",
+      "dataThrough": "2026-10-15",
       "stale": true,
       "series": [
         {
@@ -4972,6 +4980,14 @@
           ],
           "earnings": 0,
           "unansweredMessages": 1
+        },
+        {
+          "date": "2026-10-15",
+          "arrivals": 0,
+          "paidSubscriptions": 0,
+          "arrivalSources": [],
+          "earnings": 0,
+          "unansweredMessages": null
         }
       ]
     },
