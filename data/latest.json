@@ -4,11 +4,11 @@
     "title": "James Statistics",
     "agencyName": "Virgin 67 (six seven) Agency"
   },
-  "publishedAt": "2026-10-16T23:02:47.815Z",
-  "dataGeneratedAt": "2026-10-16T18:57:38.009Z",
+  "publishedAt": "2026-10-17T00:02:53.827Z",
+  "dataGeneratedAt": "2026-10-17T00:02:14.476Z",
   "range": {
-    "from": "2025-10-12",
-    "to": "2026-10-16"
+    "from": "2025-10-13",
+    "to": "2026-10-17"
   },
   "privacy": {
     "earnings": true,
@@ -1575,7 +1575,7 @@
         },
         {
           "date": "2026-10-16",
-          "arrivals": 2,
+          "arrivals": 4,
           "paidSubscriptions": 0,
           "arrivalSources": [
             {
@@ -1585,9 +1585,17 @@
             {
               "label": "blog 26.10.25",
               "value": 1
+            },
+            {
+              "label": "Pornhub | Kate | legacy 1 | 2026-10-15",
+              "value": 1
+            },
+            {
+              "label": "Waptap | Kate | legacy 21 | 2026-10-15",
+              "value": 1
             }
           ],
-          "earnings": 121.6,
+          "earnings": 132.8,
           "unansweredMessages": null
         }
       ]
@@ -1599,7 +1607,7 @@
       "platform": "fansly",
       "username": "CutieBambyEyes",
       "dataFrom": "2026-07-28",
-      "dataThrough": "2026-10-16",
+      "dataThrough": "2026-10-17",
       "stale": true,
       "series": [
         {
@@ -2903,12 +2911,12 @@
         },
         {
           "date": "2026-10-16",
-          "arrivals": 11,
-          "paidSubscriptions": 0,
+          "arrivals": 20,
+          "paidSubscriptions": 2,
           "arrivalSources": [
             {
               "label": "Fansly FYP",
-              "value": 8
+              "value": 17
             },
             {
               "label": "Fansly Search",
@@ -2920,6 +2928,14 @@
             }
           ],
           "earnings": 30.4,
+          "unansweredMessages": 1
+        },
+        {
+          "date": "2026-10-17",
+          "arrivals": 0,
+          "paidSubscriptions": 0,
+          "arrivalSources": [],
+          "earnings": 0,
           "unansweredMessages": null
         }
       ]
@@ -2931,7 +2947,7 @@
       "platform": "fansly",
       "username": "LovelyMila",
       "dataFrom": "2026-07-28",
-      "dataThrough": "2026-10-16",
+      "dataThrough": "2026-10-17",
       "stale": true,
       "series": [
         {
@@ -4135,19 +4151,31 @@
         },
         {
           "date": "2026-10-16",
-          "arrivals": 2,
-          "paidSubscriptions": 0,
+          "arrivals": 8,
+          "paidSubscriptions": 1,
           "arrivalSources": [
             {
               "label": "Fansly FYP",
-              "value": 1
+              "value": 3
             },
             {
               "label": "Fansly Search",
-              "value": 1
+              "value": 3
+            },
+            {
+              "label": "Иксфлоу",
+              "value": 2
             }
           ],
           "earnings": 4.16,
+          "unansweredMessages": 6
+        },
+        {
+          "date": "2026-10-17",
+          "arrivals": 0,
+          "paidSubscriptions": 0,
+          "arrivalSources": [],
+          "earnings": 0,
           "unansweredMessages": null
         }
       ]
@@ -4159,7 +4187,7 @@
       "platform": "fansly",
       "username": "asyabunny",
       "dataFrom": "2026-07-28",
-      "dataThrough": "2026-10-16",
+      "dataThrough": "2026-10-17",
       "stale": true,
       "series": [
         {
@@ -5127,6 +5155,14 @@
               "value": 1
             }
           ],
+          "earnings": 0,
+          "unansweredMessages": 1
+        },
+        {
+          "date": "2026-10-17",
+          "arrivals": 0,
+          "paidSubscriptions": 0,
+          "arrivalSources": [],
           "earnings": 0,
           "unansweredMessages": null
         }
@@ -6176,7 +6212,7 @@
               "value": 1
             }
           ],
-          "earnings": 50.4,
+          "earnings": 150.4,
           "unansweredMessages": null
         }
       ]
