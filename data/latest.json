@@ -4,11 +4,11 @@
     "title": "James Statistics",
     "agencyName": "Virgin 67 (six seven) Agency"
   },
-  "publishedAt": "2026-10-18T23:57:04.626Z",
+  "publishedAt": "2026-10-19T00:57:14.588Z",
   "dataGeneratedAt": "2026-10-18T23:42:44.995Z",
   "range": {
-    "from": "2025-10-14",
-    "to": "2026-10-18"
+    "from": "2025-10-15",
+    "to": "2026-10-19"
   },
   "privacy": {
     "earnings": true,
@@ -1657,7 +1657,7 @@
       "platform": "fansly",
       "username": "CutieBambyEyes",
       "dataFrom": "2026-07-28",
-      "dataThrough": "2026-10-18",
+      "dataThrough": "2026-10-19",
       "stale": true,
       "series": [
         {
@@ -3009,6 +3009,14 @@
           ],
           "earnings": 73.6,
           "unansweredMessages": 0
+        },
+        {
+          "date": "2026-10-19",
+          "arrivals": 0,
+          "paidSubscriptions": 0,
+          "arrivalSources": [],
+          "earnings": 0,
+          "unansweredMessages": null
         }
       ]
     },
@@ -3019,7 +3027,7 @@
       "platform": "fansly",
       "username": "LovelyMila",
       "dataFrom": "2026-07-28",
-      "dataThrough": "2026-10-18",
+      "dataThrough": "2026-10-19",
       "stale": true,
       "series": [
         {
@@ -4275,6 +4283,14 @@
           ],
           "earnings": 0,
           "unansweredMessages": 1
+        },
+        {
+          "date": "2026-10-19",
+          "arrivals": 0,
+          "paidSubscriptions": 0,
+          "arrivalSources": [],
+          "earnings": 0,
+          "unansweredMessages": null
         }
       ]
     },
@@ -4285,7 +4301,7 @@
       "platform": "fansly",
       "username": "asyabunny",
       "dataFrom": "2026-07-28",
-      "dataThrough": "2026-10-18",
+      "dataThrough": "2026-10-19",
       "stale": true,
       "series": [
         {
@@ -5285,6 +5301,14 @@
           ],
           "earnings": 0,
           "unansweredMessages": 0
+        },
+        {
+          "date": "2026-10-19",
+          "arrivals": 0,
+          "paidSubscriptions": 0,
+          "arrivalSources": [],
+          "earnings": 0,
+          "unansweredMessages": null
         }
       ]
     },
@@ -6386,7 +6410,7 @@
       "platform": "fansly",
       "username": "realkatrinasten",
       "dataFrom": "2026-07-28",
-      "dataThrough": "2026-10-18",
+      "dataThrough": "2026-10-19",
       "stale": true,
       "series": [
         {
@@ -7540,6 +7564,14 @@
           ],
           "earnings": 0,
           "unansweredMessages": 1
+        },
+        {
+          "date": "2026-10-19",
+          "arrivals": 0,
+          "paidSubscriptions": 0,
+          "arrivalSources": [],
+          "earnings": 0,
+          "unansweredMessages": null
         }
       ]
     },
@@ -8453,7 +8485,7 @@
       "platform": "fansly",
       "username": "its_kikidoll",
       "dataFrom": "2026-10-01",
-      "dataThrough": "2026-10-18",
+      "dataThrough": "2026-10-19",
       "stale": true,
       "series": [
         {
@@ -8656,6 +8688,14 @@
           ],
           "earnings": 0,
           "unansweredMessages": 0
+        },
+        {
+          "date": "2026-10-19",
+          "arrivals": 0,
+          "paidSubscriptions": 0,
+          "arrivalSources": [],
+          "earnings": 0,
+          "unansweredMessages": null
         }
       ]
     },
