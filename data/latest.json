@@ -4,8 +4,8 @@
     "title": "James Statistics",
     "agencyName": "Virgin 67 (six seven) Agency"
   },
-  "publishedAt": "2026-10-23T07:13:33.464Z",
-  "dataGeneratedAt": "2026-10-23T07:06:08.305Z",
+  "publishedAt": "2026-10-23T08:13:41.641Z",
+  "dataGeneratedAt": "2026-10-23T07:48:28.983Z",
   "range": {
     "from": "2025-10-19",
     "to": "2026-10-23"
@@ -4527,7 +4527,7 @@
       "platform": "fansly",
       "username": "asyabunny",
       "dataFrom": "2026-07-28",
-      "dataThrough": "2026-10-22",
+      "dataThrough": "2026-10-23",
       "stale": true,
       "series": [
         {
@@ -5572,14 +5572,22 @@
         },
         {
           "date": "2026-10-22",
-          "arrivals": 2,
+          "arrivals": 3,
           "paidSubscriptions": 0,
           "arrivalSources": [
             {
               "label": "Fansly FYP",
-              "value": 2
+              "value": 3
             }
           ],
+          "earnings": 0,
+          "unansweredMessages": 2
+        },
+        {
+          "date": "2026-10-23",
+          "arrivals": 0,
+          "paidSubscriptions": 0,
+          "arrivalSources": [],
           "earnings": 0,
           "unansweredMessages": null
         }
@@ -8000,7 +8008,7 @@
       "platform": "fansly",
       "username": "LillieMelody",
       "dataFrom": "2026-07-28",
-      "dataThrough": "2026-10-18",
+      "dataThrough": "2026-10-23",
       "stale": true,
       "series": [
         {
@@ -8892,6 +8900,51 @@
             }
           ],
           "earnings": 4,
+          "unansweredMessages": null
+        },
+        {
+          "date": "2026-10-19",
+          "arrivals": 0,
+          "paidSubscriptions": 0,
+          "arrivalSources": [],
+          "earnings": 0,
+          "unansweredMessages": null
+        },
+        {
+          "date": "2026-10-20",
+          "arrivals": 0,
+          "paidSubscriptions": 0,
+          "arrivalSources": [],
+          "earnings": 0,
+          "unansweredMessages": null
+        },
+        {
+          "date": "2026-10-21",
+          "arrivals": 0,
+          "paidSubscriptions": 0,
+          "arrivalSources": [],
+          "earnings": 0,
+          "unansweredMessages": null
+        },
+        {
+          "date": "2026-10-22",
+          "arrivals": 1,
+          "paidSubscriptions": 0,
+          "arrivalSources": [
+            {
+              "label": "Твиттер @_katalina_2",
+              "value": 1
+            }
+          ],
+          "earnings": 0,
+          "unansweredMessages": 0
+        },
+        {
+          "date": "2026-10-23",
+          "arrivals": 0,
+          "paidSubscriptions": 0,
+          "arrivalSources": [],
+          "earnings": 0,
           "unansweredMessages": null
         }
       ]
@@ -18005,19 +18058,19 @@
       {
         "date": "2026-10-23",
         "modelName": "Юля @lilyuliaxo",
-        "views": 34,
+        "views": 38,
         "totalClicks": 8,
         "onlyFans": 2,
         "fansly": 1,
         "other": 5,
-        "conversion": 23.5
+        "conversion": 21.1
       }
     ],
     "links": [
       {
         "label": "Хамстер",
         "modelName": "Юля @lilyuliaxo",
-        "views": 11542,
+        "views": 11544,
         "totalClicks": 2761,
         "onlyFans": 1632,
         "fansly": 693,
@@ -18087,7 +18140,7 @@
       {
         "label": "Порнхаб",
         "modelName": "Юля @lilyuliaxo",
-        "views": 3120,
+        "views": 3122,
         "totalClicks": 584,
         "onlyFans": 339,
         "fansly": 168,
