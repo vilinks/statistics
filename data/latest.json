@@ -4,8 +4,8 @@
     "title": "James Statistics",
     "agencyName": "Virgin 67 (six seven) Agency"
   },
-  "publishedAt": "2026-10-24T14:20:37.352Z",
-  "dataGeneratedAt": "2026-10-24T09:50:47.811Z",
+  "publishedAt": "2026-10-24T15:21:29.388Z",
+  "dataGeneratedAt": "2026-10-24T15:20:09.497Z",
   "range": {
     "from": "2025-10-20",
     "to": "2026-10-24"
@@ -1763,7 +1763,7 @@
               "value": 1
             }
           ],
-          "earnings": 28,
+          "earnings": 64,
           "unansweredMessages": null
         }
       ]
@@ -3203,16 +3203,20 @@
             }
           ],
           "earnings": 90.4,
-          "unansweredMessages": 1
+          "unansweredMessages": 0
         },
         {
           "date": "2026-10-24",
-          "arrivals": 7,
+          "arrivals": 14,
           "paidSubscriptions": 0,
           "arrivalSources": [
             {
               "label": "Fansly FYP",
-              "value": 7
+              "value": 13
+            },
+            {
+              "label": "Fansly Suggestions",
+              "value": 1
             }
           ],
           "earnings": 0,
@@ -5666,11 +5670,15 @@
         },
         {
           "date": "2026-10-24",
-          "arrivals": 1,
+          "arrivals": 3,
           "paidSubscriptions": 0,
           "arrivalSources": [
             {
               "label": "Fansly FYP",
+              "value": 2
+            },
+            {
+              "label": "Твиттер @pretty_uma1",
               "value": 1
             }
           ],
@@ -6858,7 +6866,7 @@
           "arrivals": 0,
           "paidSubscriptions": 0,
           "arrivalSources": [],
-          "earnings": 184.8,
+          "earnings": 194.4,
           "unansweredMessages": null
         }
       ]
