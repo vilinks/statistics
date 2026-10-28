@@ -4,8 +4,8 @@
     "title": "James Statistics",
     "agencyName": "Virgin 67 (six seven) Agency"
   },
-  "publishedAt": "2026-10-28T02:25:26.196Z",
-  "dataGeneratedAt": "2026-10-27T22:58:29.002Z",
+  "publishedAt": "2026-10-28T03:32:19.984Z",
+  "dataGeneratedAt": "2026-10-28T03:13:20.859Z",
   "range": {
     "from": "2025-10-24",
     "to": "2026-10-28"
@@ -1826,11 +1826,15 @@
         },
         {
           "date": "2026-10-27",
-          "arrivals": 4,
+          "arrivals": 5,
           "paidSubscriptions": 0,
           "arrivalSources": [
             {
               "label": "RedGIFs | Kate | legacy 23 | 2026-10-15",
+              "value": 1
+            },
+            {
+              "label": "XXXFollow | Kate | legacy 19 | 2026-10-15",
               "value": 1
             },
             {
@@ -1846,7 +1850,7 @@
               "value": 1
             }
           ],
-          "earnings": 32,
+          "earnings": 108.72,
           "unansweredMessages": null
         }
       ]
