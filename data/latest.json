@@ -4,8 +4,8 @@
     "title": "James Statistics",
     "agencyName": "Virgin 67 (six seven) Agency"
   },
-  "publishedAt": "2026-10-30T02:41:58.573Z",
-  "dataGeneratedAt": "2026-10-29T22:38:13.213Z",
+  "publishedAt": "2026-10-30T03:42:15.456Z",
+  "dataGeneratedAt": "2026-10-30T03:41:35.030Z",
   "range": {
     "from": "2025-10-26",
     "to": "2026-10-30"
@@ -1872,7 +1872,7 @@
         },
         {
           "date": "2026-10-29",
-          "arrivals": 5,
+          "arrivals": 6,
           "paidSubscriptions": 0,
           "arrivalSources": [
             {
@@ -1889,6 +1889,10 @@
             },
             {
               "label": "SEO 01.10.25",
+              "value": 1
+            },
+            {
+              "label": "GG - WML Software (twitter)",
               "value": 1
             }
           ],
@@ -3421,23 +3425,32 @@
         },
         {
           "date": "2026-10-29",
-          "arrivals": 28,
+          "arrivals": 30,
           "paidSubscriptions": 2,
           "arrivalSources": [
             {
               "label": "Fansly FYP",
-              "value": 28
+              "value": 30
             }
           ],
           "earnings": 28.8,
-          "unansweredMessages": 0
+          "unansweredMessages": 1
         },
         {
           "date": "2026-10-30",
-          "arrivals": 0,
+          "arrivals": 2,
           "paidSubscriptions": 0,
-          "arrivalSources": [],
-          "earnings": 0,
+          "arrivalSources": [
+            {
+              "label": "Fansly FYP",
+              "value": 1
+            },
+            {
+              "label": "Fansly Search",
+              "value": 1
+            }
+          ],
+          "earnings": 4,
           "unansweredMessages": null
         }
       ]
@@ -6075,9 +6088,14 @@
         },
         {
           "date": "2026-10-30",
-          "arrivals": 0,
+          "arrivals": 3,
           "paidSubscriptions": 0,
-          "arrivalSources": [],
+          "arrivalSources": [
+            {
+              "label": "Fansly FYP",
+              "value": 3
+            }
+          ],
           "earnings": 0,
           "unansweredMessages": null
         }
