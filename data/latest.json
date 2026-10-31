@@ -4,8 +4,8 @@
     "title": "James Statistics",
     "agencyName": "Virgin 67 (six seven) Agency"
   },
-  "publishedAt": "2026-10-31T03:46:22.037Z",
-  "dataGeneratedAt": "2026-10-31T00:33:38.086Z",
+  "publishedAt": "2026-10-31T04:47:21.256Z",
+  "dataGeneratedAt": "2026-10-31T04:02:13.463Z",
   "range": {
     "from": "2025-10-27",
     "to": "2026-10-31"
@@ -1901,7 +1901,7 @@
         },
         {
           "date": "2026-10-30",
-          "arrivals": 3,
+          "arrivals": 4,
           "paidSubscriptions": 0,
           "arrivalSources": [
             {
@@ -1914,6 +1914,10 @@
             },
             {
               "label": "GG @averymayy 25.11.25",
+              "value": 1
+            },
+            {
+              "label": "adult source 01.07.25",
               "value": 1
             }
           ],
