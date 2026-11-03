@@ -4,8 +4,8 @@
     "title": "James Statistics",
     "agencyName": "Virgin 67 (six seven) Agency"
   },
-  "publishedAt": "2026-11-03T20:05:44.216Z",
-  "dataGeneratedAt": "2026-11-03T20:02:35.501Z",
+  "publishedAt": "2026-11-03T21:06:42.241Z",
+  "dataGeneratedAt": "2026-11-03T20:10:12.713Z",
   "range": {
     "from": "2025-10-30",
     "to": "2026-11-03"
@@ -1997,11 +1997,19 @@
         },
         {
           "date": "2026-11-03",
-          "arrivals": 1,
+          "arrivals": 3,
           "paidSubscriptions": 0,
           "arrivalSources": [
             {
               "label": "getnynudes.com",
+              "value": 1
+            },
+            {
+              "label": "GG SFS",
+              "value": 1
+            },
+            {
+              "label": "blog 26.10.25",
               "value": 1
             }
           ],
@@ -7773,9 +7781,22 @@
         },
         {
           "date": "2026-11-03",
-          "arrivals": 0,
+          "arrivals": 6,
           "paidSubscriptions": 0,
-          "arrivalSources": [],
+          "arrivalSources": [
+            {
+              "label": "GG SFS",
+              "value": 4
+            },
+            {
+              "label": "Инстаграм Егор 4",
+              "value": 1
+            },
+            {
+              "label": "kysa_kysa",
+              "value": 1
+            }
+          ],
           "earnings": 7.99,
           "unansweredMessages": null
         }
@@ -19877,24 +19898,24 @@
       {
         "date": "2026-11-03",
         "modelName": "Юля @lilyuliaxo",
-        "views": 96,
+        "views": 99,
         "totalClicks": 28,
         "onlyFans": 16,
         "fansly": 7,
         "other": 5,
-        "conversion": 29.2
+        "conversion": 28.3
       }
     ],
     "links": [
       {
         "label": "Хамстер",
         "modelName": "Юля @lilyuliaxo",
-        "views": 12345,
+        "views": 12347,
         "totalClicks": 2957,
         "onlyFans": 1715,
         "fansly": 742,
         "other": 500,
-        "conversion": 24
+        "conversion": 23.9
       },
       {
         "label": "Инстаграм Molly",
@@ -19939,7 +19960,7 @@
       {
         "label": "Порнхаб",
         "modelName": "Юля @lilyuliaxo",
-        "views": 3726,
+        "views": 3727,
         "totalClicks": 681,
         "onlyFans": 380,
         "fansly": 197,
