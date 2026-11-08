@@ -4,8 +4,8 @@
     "title": "James Statistics",
     "agencyName": "Virgin 67 (six seven) Agency"
   },
-  "publishedAt": "2026-11-08T15:22:15.581Z",
-  "dataGeneratedAt": "2026-11-08T12:02:49.098Z",
+  "publishedAt": "2026-11-08T16:22:22.676Z",
+  "dataGeneratedAt": "2026-11-08T16:16:43.416Z",
   "range": {
     "from": "2025-11-04",
     "to": "2026-11-08"
@@ -2834,9 +2834,18 @@
         },
         {
           "date": "2026-11-08",
-          "arrivals": 0,
+          "arrivals": 2,
           "paidSubscriptions": 0,
-          "arrivalSources": [],
+          "arrivalSources": [
+            {
+              "label": "GG SFS",
+              "value": 1
+            },
+            {
+              "label": "Тикпорн",
+              "value": 1
+            }
+          ],
           "earnings": 0,
           "unansweredMessages": null
         }
@@ -10004,9 +10013,18 @@
         },
         {
           "date": "2026-11-08",
-          "arrivals": 0,
+          "arrivals": 6,
           "paidSubscriptions": 0,
-          "arrivalSources": [],
+          "arrivalSources": [
+            {
+              "label": "GG SFS",
+              "value": 4
+            },
+            {
+              "label": "jj twitter",
+              "value": 2
+            }
+          ],
           "earnings": 12,
           "unansweredMessages": null
         }
@@ -23022,33 +23040,33 @@
       {
         "date": "2026-11-08",
         "modelName": "Кейт @bamby_eyes_vip",
-        "views": 18,
-        "totalClicks": 3,
-        "onlyFans": 3,
-        "fansly": 0,
-        "other": 0,
-        "conversion": 16.7
+        "views": 25,
+        "totalClicks": 12,
+        "onlyFans": 5,
+        "fansly": 3,
+        "other": 4,
+        "conversion": 48
       },
       {
         "date": "2026-11-08",
         "modelName": "Юля @lilyuliaxo",
-        "views": 70,
-        "totalClicks": 8,
-        "onlyFans": 3,
-        "fansly": 2,
-        "other": 3,
-        "conversion": 11.4
+        "views": 92,
+        "totalClicks": 13,
+        "onlyFans": 5,
+        "fansly": 3,
+        "other": 5,
+        "conversion": 14.1
       }
     ],
     "links": [
       {
         "label": "Хамстер",
         "modelName": "Юля @lilyuliaxo",
-        "views": 12703,
-        "totalClicks": 3053,
+        "views": 12713,
+        "totalClicks": 3055,
         "onlyFans": 1760,
         "fansly": 763,
-        "other": 530,
+        "other": 532,
         "conversion": 24
       },
       {
@@ -23074,29 +23092,29 @@
       {
         "label": "Иксфри",
         "modelName": "Юля @lilyuliaxo",
-        "views": 1010,
-        "totalClicks": 831,
-        "onlyFans": 490,
-        "fansly": 209,
+        "views": 1012,
+        "totalClicks": 833,
+        "onlyFans": 491,
+        "fansly": 210,
         "other": 132,
         "conversion": 82.3
       },
       {
         "label": "Порнхаб",
         "modelName": "Юля @lilyuliaxo",
-        "views": 1677,
-        "totalClicks": 726,
+        "views": 1680,
+        "totalClicks": 727,
         "onlyFans": 408,
-        "fansly": 205,
+        "fansly": 206,
         "other": 113,
         "conversion": 43.3
       },
       {
         "label": "Порнхаб",
         "modelName": "Юля @lilyuliaxo",
-        "views": 3984,
-        "totalClicks": 711,
-        "onlyFans": 392,
+        "views": 3994,
+        "totalClicks": 712,
+        "onlyFans": 393,
         "fansly": 203,
         "other": 116,
         "conversion": 17.8
@@ -23104,7 +23122,7 @@
       {
         "label": "Иксфлоу",
         "modelName": "Юля @lilyuliaxo",
-        "views": 2058,
+        "views": 2059,
         "totalClicks": 687,
         "onlyFans": 292,
         "fansly": 253,
@@ -23124,12 +23142,12 @@
       {
         "label": "Твиттер без обнаженки",
         "modelName": "Кейт @bamby_eyes_vip",
-        "views": 516,
-        "totalClicks": 461,
-        "onlyFans": 84,
-        "fansly": 355,
-        "other": 22,
-        "conversion": 89.3
+        "views": 519,
+        "totalClicks": 469,
+        "onlyFans": 86,
+        "fansly": 357,
+        "other": 26,
+        "conversion": 90.4
       },
       {
         "label": "Интаграм FTA 1",
