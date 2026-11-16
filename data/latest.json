@@ -4,8 +4,8 @@
     "title": "James Statistics",
     "agencyName": "Virgin 67 (six seven) Agency"
   },
-  "publishedAt": "2026-11-16T04:22:58.065Z",
-  "dataGeneratedAt": "2026-11-16T00:50:47.882Z",
+  "publishedAt": "2026-11-16T05:23:03.664Z",
+  "dataGeneratedAt": "2026-11-16T05:19:56.533Z",
   "range": {
     "from": "2025-11-12",
     "to": "2026-11-16"
@@ -3037,7 +3037,7 @@
         },
         {
           "date": "2026-11-15",
-          "arrivals": 8,
+          "arrivals": 10,
           "paidSubscriptions": 0,
           "arrivalSources": [
             {
@@ -3062,6 +3062,14 @@
             },
             {
               "label": "Waptap | Kate | legacy 21 | 2026-10-15",
+              "value": 1
+            },
+            {
+              "label": "GG SFS",
+              "value": 1
+            },
+            {
+              "label": "GG @averymayy 25.11.25",
               "value": 1
             }
           ],
@@ -10716,9 +10724,22 @@
         },
         {
           "date": "2026-11-15",
-          "arrivals": 0,
+          "arrivals": 4,
           "paidSubscriptions": 0,
-          "arrivalSources": [],
+          "arrivalSources": [
+            {
+              "label": "GG SFS",
+              "value": 2
+            },
+            {
+              "label": "Artem - fikfap.com/user/asyabunny",
+              "value": 1
+            },
+            {
+              "label": "jj twitter",
+              "value": 1
+            }
+          ],
           "earnings": 8,
           "unansweredMessages": null
         }
