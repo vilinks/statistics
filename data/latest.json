@@ -4,8 +4,8 @@
     "title": "James Statistics",
     "agencyName": "Virgin 67 (six seven) Agency"
   },
-  "publishedAt": "2026-11-16T20:25:50.239Z",
-  "dataGeneratedAt": "2026-11-16T16:19:59.529Z",
+  "publishedAt": "2026-11-16T21:25:52.165Z",
+  "dataGeneratedAt": "2026-11-16T21:25:08.884Z",
   "range": {
     "from": "2025-11-12",
     "to": "2026-11-16"
@@ -3098,7 +3098,7 @@
               "value": 1
             }
           ],
-          "earnings": 59.2,
+          "earnings": 63.2,
           "unansweredMessages": null
         }
       ]
@@ -8293,16 +8293,16 @@
         },
         {
           "date": "2026-11-16",
-          "arrivals": 5,
+          "arrivals": 6,
           "paidSubscriptions": 0,
           "arrivalSources": [
             {
               "label": "Fansly FYP",
-              "value": 5
+              "value": 6
             }
           ],
           "earnings": 0,
-          "unansweredMessages": null
+          "unansweredMessages": 1
         }
       ]
     },
@@ -10789,10 +10789,15 @@
         },
         {
           "date": "2026-11-16",
-          "arrivals": 0,
+          "arrivals": 1,
           "paidSubscriptions": 0,
-          "arrivalSources": [],
-          "earnings": 184,
+          "arrivalSources": [
+            {
+              "label": "reddit vito 2",
+              "value": 1
+            }
+          ],
+          "earnings": 225.1,
           "unansweredMessages": null
         }
       ]
