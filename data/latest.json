@@ -4,8 +4,8 @@
     "title": "James Statistics",
     "agencyName": "Virgin 67 (six seven) Agency"
   },
-  "publishedAt": "2026-11-19T20:37:51.587Z",
-  "dataGeneratedAt": "2026-11-19T15:42:37.935Z",
+  "publishedAt": "2026-11-19T21:42:11.017Z",
+  "dataGeneratedAt": "2026-11-19T21:00:16.427Z",
   "range": {
     "from": "2025-11-15",
     "to": "2026-11-19"
@@ -3161,15 +3161,19 @@
         },
         {
           "date": "2026-11-19",
-          "arrivals": 1,
+          "arrivals": 2,
           "paidSubscriptions": 0,
           "arrivalSources": [
             {
               "label": "Pornhub | Kate | legacy 1 | 2026-10-15",
               "value": 1
+            },
+            {
+              "label": "blog 13.05.25",
+              "value": 1
             }
           ],
-          "earnings": 20,
+          "earnings": 32,
           "unansweredMessages": null
         }
       ]
@@ -6926,7 +6930,7 @@
             }
           ],
           "earnings": 24,
-          "unansweredMessages": 7
+          "unansweredMessages": 9
         },
         {
           "date": "2026-11-19",
@@ -8450,16 +8454,16 @@
             }
           ],
           "earnings": 48,
-          "unansweredMessages": 2
+          "unansweredMessages": 0
         },
         {
           "date": "2026-11-19",
-          "arrivals": 5,
+          "arrivals": 7,
           "paidSubscriptions": 0,
           "arrivalSources": [
             {
               "label": "Fansly FYP",
-              "value": 5
+              "value": 7
             }
           ],
           "earnings": 12,
@@ -11021,12 +11025,12 @@
         },
         {
           "date": "2026-11-19",
-          "arrivals": 1,
+          "arrivals": 2,
           "paidSubscriptions": 0,
           "arrivalSources": [
             {
               "label": "reddit vito 2",
-              "value": 1
+              "value": 2
             }
           ],
           "earnings": 11.99,
