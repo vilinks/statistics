@@ -4,8 +4,8 @@
     "title": "James Statistics",
     "agencyName": "Virgin 67 (six seven) Agency"
   },
-  "publishedAt": "2026-11-20T17:58:37.243Z",
-  "dataGeneratedAt": "2026-11-20T13:17:48.749Z",
+  "publishedAt": "2026-11-20T18:59:00.276Z",
+  "dataGeneratedAt": "2026-11-20T18:33:19.186Z",
   "range": {
     "from": "2025-11-16",
     "to": "2026-11-20"
@@ -3186,9 +3186,14 @@
         },
         {
           "date": "2026-11-20",
-          "arrivals": 0,
+          "arrivals": 2,
           "paidSubscriptions": 0,
-          "arrivalSources": [],
+          "arrivalSources": [
+            {
+              "label": "Реддит Sined 1",
+              "value": 2
+            }
+          ],
           "earnings": 0,
           "unansweredMessages": null
         }
@@ -8567,16 +8572,16 @@
             }
           ],
           "earnings": 16,
-          "unansweredMessages": 1
+          "unansweredMessages": 0
         },
         {
           "date": "2026-11-20",
-          "arrivals": 4,
+          "arrivals": 8,
           "paidSubscriptions": 0,
           "arrivalSources": [
             {
               "label": "Fansly FYP",
-              "value": 3
+              "value": 7
             },
             {
               "label": "Fansly Search",
@@ -12917,12 +12922,16 @@
         },
         {
           "date": "2026-11-20",
-          "arrivals": 5,
+          "arrivals": 6,
           "paidSubscriptions": 0,
           "arrivalSources": [
             {
               "label": "Fansly FYP",
               "value": 5
+            },
+            {
+              "label": "Fansly Search",
+              "value": 1
             }
           ],
           "earnings": 0,
@@ -15370,12 +15379,16 @@
         },
         {
           "date": "2026-11-20",
-          "arrivals": 3,
+          "arrivals": 7,
           "paidSubscriptions": 0,
           "arrivalSources": [
             {
               "label": "Fansly FYP",
-              "value": 2
+              "value": 5
+            },
+            {
+              "label": "Fansly Search",
+              "value": 1
             },
             {
               "label": "Твиттер @fleamxxxx",
@@ -25084,22 +25097,22 @@
       {
         "date": "2026-11-20",
         "modelName": "Ася @asyabunny",
-        "views": 3,
+        "views": 5,
         "totalClicks": 5,
         "onlyFans": 1,
         "fansly": 2,
         "other": 2,
-        "conversion": 166.7
+        "conversion": 100
       },
       {
         "date": "2026-11-20",
         "modelName": "Кейт @bamby_eyes_vip",
-        "views": 23,
-        "totalClicks": 13,
-        "onlyFans": 4,
-        "fansly": 1,
-        "other": 8,
-        "conversion": 56.5
+        "views": 40,
+        "totalClicks": 21,
+        "onlyFans": 9,
+        "fansly": 3,
+        "other": 9,
+        "conversion": 52.5
       },
       {
         "date": "2026-11-20",
@@ -25114,23 +25127,23 @@
       {
         "date": "2026-11-20",
         "modelName": "Юля @lilyuliaxo",
-        "views": 68,
-        "totalClicks": 17,
-        "onlyFans": 10,
-        "fansly": 5,
-        "other": 2,
-        "conversion": 25
+        "views": 87,
+        "totalClicks": 23,
+        "onlyFans": 12,
+        "fansly": 7,
+        "other": 4,
+        "conversion": 26.4
       }
     ],
     "links": [
       {
         "label": "Хамстер",
         "modelName": "Юля @lilyuliaxo",
-        "views": 13527,
-        "totalClicks": 3274,
+        "views": 13535,
+        "totalClicks": 3276,
         "onlyFans": 1867,
-        "fansly": 810,
-        "other": 597,
+        "fansly": 811,
+        "other": 598,
         "conversion": 24.2
       },
       {
@@ -25146,9 +25159,9 @@
       {
         "label": "Фикфап",
         "modelName": "Юля @lilyuliaxo",
-        "views": 4288,
-        "totalClicks": 1391,
-        "onlyFans": 649,
+        "views": 4291,
+        "totalClicks": 1392,
+        "onlyFans": 650,
         "fansly": 490,
         "other": 252,
         "conversion": 32.4
@@ -25166,32 +25179,32 @@
       {
         "label": "Порнхаб",
         "modelName": "Юля @lilyuliaxo",
-        "views": 4653,
-        "totalClicks": 822,
-        "onlyFans": 445,
-        "fansly": 236,
-        "other": 141,
+        "views": 4664,
+        "totalClicks": 826,
+        "onlyFans": 447,
+        "fansly": 237,
+        "other": 142,
         "conversion": 17.7
       },
       {
         "label": "Порнхаб",
         "modelName": "Юля @lilyuliaxo",
-        "views": 1864,
-        "totalClicks": 799,
+        "views": 1869,
+        "totalClicks": 801,
         "onlyFans": 456,
-        "fansly": 228,
+        "fansly": 230,
         "other": 115,
         "conversion": 42.9
       },
       {
         "label": "Иксфлоу",
         "modelName": "Юля @lilyuliaxo",
-        "views": 2151,
+        "views": 2153,
         "totalClicks": 722,
         "onlyFans": 311,
         "fansly": 264,
         "other": 147,
-        "conversion": 33.6
+        "conversion": 33.5
       },
       {
         "label": "Ероме",
@@ -25206,11 +25219,11 @@
       {
         "label": "Твиттер без обнаженки",
         "modelName": "Кейт @bamby_eyes_vip",
-        "views": 585,
-        "totalClicks": 533,
+        "views": 586,
+        "totalClicks": 534,
         "onlyFans": 104,
         "fansly": 386,
-        "other": 43,
+        "other": 44,
         "conversion": 91.1
       },
       {
@@ -25236,22 +25249,22 @@
       {
         "label": "Твиттер",
         "modelName": "Юля @lilyuliaxo",
-        "views": 224,
+        "views": 225,
         "totalClicks": 216,
         "onlyFans": 70,
         "fansly": 44,
         "other": 102,
-        "conversion": 96.4
+        "conversion": 96
       },
       {
         "label": "Иксфлоу",
         "modelName": "Кейт @bamby_eyes_vip",
-        "views": 210,
-        "totalClicks": 163,
-        "onlyFans": 13,
+        "views": 211,
+        "totalClicks": 164,
+        "onlyFans": 14,
         "fansly": 13,
         "other": 137,
-        "conversion": 77.6
+        "conversion": 77.7
       },
       {
         "label": "Ваптап",
@@ -25356,12 +25369,12 @@
       {
         "label": "Твиттер @KiiiraLunaa",
         "modelName": "Кейт @bamby_eyes_vip",
-        "views": 41,
-        "totalClicks": 30,
-        "onlyFans": 21,
+        "views": 43,
+        "totalClicks": 31,
+        "onlyFans": 22,
         "fansly": 4,
         "other": 5,
-        "conversion": 73.2
+        "conversion": 72.1
       },
       {
         "label": "Твиттер @Asya1Bunny",
@@ -25454,6 +25467,16 @@
         "conversion": 60
       },
       {
+        "label": "Реддит Sined 1",
+        "modelName": "Кейт @bamby_eyes_vip",
+        "views": 10,
+        "totalClicks": 9,
+        "onlyFans": 9,
+        "fansly": 0,
+        "other": 0,
+        "conversion": 90
+      },
+      {
         "label": "Шеерсом",
         "modelName": "Юля @lilyuliaxo",
         "views": 7,
@@ -25472,16 +25495,6 @@
         "fansly": 1,
         "other": 3,
         "conversion": 114.3
-      },
-      {
-        "label": "Реддит Sined 1",
-        "modelName": "Кейт @bamby_eyes_vip",
-        "views": 8,
-        "totalClicks": 7,
-        "onlyFans": 7,
-        "fansly": 0,
-        "other": 0,
-        "conversion": 87.5
       },
       {
         "label": "Иксфри",
@@ -25566,12 +25579,12 @@
       {
         "label": "Фикфап",
         "modelName": "Ася @asyabunny",
-        "views": 7,
+        "views": 9,
         "totalClicks": 2,
         "onlyFans": 2,
         "fansly": 0,
         "other": 0,
-        "conversion": 28.6
+        "conversion": 22.2
       },
       {
         "label": "Ася 4 @Moana_Girlss",
