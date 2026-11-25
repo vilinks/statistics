@@ -4,8 +4,8 @@
     "title": "James Statistics",
     "agencyName": "Virgin 67 (six seven) Agency"
   },
-  "publishedAt": "2026-11-25T02:46:54.668Z",
-  "dataGeneratedAt": "2026-11-24T22:25:08.156Z",
+  "publishedAt": "2026-11-25T03:47:16.059Z",
+  "dataGeneratedAt": "2026-11-25T03:33:23.556Z",
   "range": {
     "from": "2025-11-21",
     "to": "2026-11-25"
@@ -3270,15 +3270,19 @@
         },
         {
           "date": "2026-11-24",
-          "arrivals": 3,
+          "arrivals": 5,
           "paidSubscriptions": 0,
           "arrivalSources": [
             {
               "label": "Реддит Sined 1",
-              "value": 2
+              "value": 3
             },
             {
               "label": "Pornhub | Kate | legacy 1 | 2026-10-15",
+              "value": 1
+            },
+            {
+              "label": "QR | Kate | legacy 45 | 2026-10-15",
               "value": 1
             }
           ],
@@ -5313,22 +5317,27 @@
         },
         {
           "date": "2026-11-24",
-          "arrivals": 30,
+          "arrivals": 31,
           "paidSubscriptions": 0,
           "arrivalSources": [
             {
               "label": "Fansly FYP",
-              "value": 30
+              "value": 31
             }
           ],
           "earnings": 8,
-          "unansweredMessages": 1
+          "unansweredMessages": 2
         },
         {
           "date": "2026-11-25",
-          "arrivals": 0,
+          "arrivals": 4,
           "paidSubscriptions": 0,
-          "arrivalSources": [],
+          "arrivalSources": [
+            {
+              "label": "Fansly FYP",
+              "value": 4
+            }
+          ],
           "earnings": 0,
           "unansweredMessages": null
         }
@@ -7281,7 +7290,7 @@
             }
           ],
           "earnings": 0,
-          "unansweredMessages": 4
+          "unansweredMessages": 5
         },
         {
           "date": "2026-11-25",
@@ -8890,9 +8899,14 @@
         },
         {
           "date": "2026-11-25",
-          "arrivals": 0,
+          "arrivals": 1,
           "paidSubscriptions": 0,
-          "arrivalSources": [],
+          "arrivalSources": [
+            {
+              "label": "Fansly FYP",
+              "value": 1
+            }
+          ],
           "earnings": 0,
           "unansweredMessages": null
         }
@@ -11561,9 +11575,14 @@
         },
         {
           "date": "2026-11-24",
-          "arrivals": 0,
+          "arrivals": 1,
           "paidSubscriptions": 0,
-          "arrivalSources": [],
+          "arrivalSources": [
+            {
+              "label": "reddit vito 2",
+              "value": 1
+            }
+          ],
           "earnings": 172.8,
           "unansweredMessages": null
         }
@@ -13370,12 +13389,12 @@
         },
         {
           "date": "2026-11-24",
-          "arrivals": 5,
+          "arrivals": 6,
           "paidSubscriptions": 0,
           "arrivalSources": [
             {
               "label": "Fansly FYP",
-              "value": 4
+              "value": 5
             },
             {
               "label": "Тикпорн",
@@ -13383,13 +13402,18 @@
             }
           ],
           "earnings": 0,
-          "unansweredMessages": 0
+          "unansweredMessages": 4
         },
         {
           "date": "2026-11-25",
-          "arrivals": 0,
+          "arrivals": 2,
           "paidSubscriptions": 0,
-          "arrivalSources": [],
+          "arrivalSources": [
+            {
+              "label": "Fansly FYP",
+              "value": 2
+            }
+          ],
           "earnings": 0,
           "unansweredMessages": null
         }
@@ -14774,13 +14798,18 @@
             }
           ],
           "earnings": 0,
-          "unansweredMessages": 10
+          "unansweredMessages": 11
         },
         {
           "date": "2026-11-25",
-          "arrivals": 0,
+          "arrivals": 1,
           "paidSubscriptions": 0,
-          "arrivalSources": [],
+          "arrivalSources": [
+            {
+              "label": "Fansly FYP",
+              "value": 1
+            }
+          ],
           "earnings": 0,
           "unansweredMessages": null
         }
@@ -15971,13 +16000,18 @@
             }
           ],
           "earnings": 0,
-          "unansweredMessages": 1
+          "unansweredMessages": 3
         },
         {
           "date": "2026-11-25",
-          "arrivals": 0,
+          "arrivals": 1,
           "paidSubscriptions": 0,
-          "arrivalSources": [],
+          "arrivalSources": [
+            {
+              "label": "Fansly FYP",
+              "value": 1
+            }
+          ],
           "earnings": 0,
           "unansweredMessages": null
         }
@@ -25820,32 +25854,52 @@
       {
         "date": "2026-11-24",
         "modelName": "Кейт @bamby_eyes_vip",
-        "views": 45,
-        "totalClicks": 27,
-        "onlyFans": 14,
+        "views": 50,
+        "totalClicks": 28,
+        "onlyFans": 15,
         "fansly": 7,
         "other": 6,
-        "conversion": 60
+        "conversion": 56
       },
       {
         "date": "2026-11-24",
         "modelName": "Юля @lilyuliaxo",
-        "views": 105,
-        "totalClicks": 27,
-        "onlyFans": 15,
-        "fansly": 5,
+        "views": 116,
+        "totalClicks": 30,
+        "onlyFans": 16,
+        "fansly": 7,
         "other": 7,
-        "conversion": 25.7
+        "conversion": 25.9
+      },
+      {
+        "date": "2026-11-25",
+        "modelName": "Кейт @bamby_eyes_vip",
+        "views": 7,
+        "totalClicks": 5,
+        "onlyFans": 2,
+        "fansly": 1,
+        "other": 2,
+        "conversion": 71.4
+      },
+      {
+        "date": "2026-11-25",
+        "modelName": "Юля @lilyuliaxo",
+        "views": 18,
+        "totalClicks": 3,
+        "onlyFans": 1,
+        "fansly": 1,
+        "other": 1,
+        "conversion": 16.7
       }
     ],
     "links": [
       {
         "label": "Хамстер",
         "modelName": "Юля @lilyuliaxo",
-        "views": 13748,
-        "totalClicks": 3329,
+        "views": 13759,
+        "totalClicks": 3330,
         "onlyFans": 1898,
-        "fansly": 822,
+        "fansly": 823,
         "other": 609,
         "conversion": 24.2
       },
@@ -25862,7 +25916,7 @@
       {
         "label": "Фикфап",
         "modelName": "Юля @lilyuliaxo",
-        "views": 4314,
+        "views": 4315,
         "totalClicks": 1401,
         "onlyFans": 654,
         "fansly": 492,
@@ -25872,27 +25926,27 @@
       {
         "label": "Иксфри",
         "modelName": "Юля @lilyuliaxo",
-        "views": 1160,
-        "totalClicks": 962,
-        "onlyFans": 567,
-        "fansly": 253,
+        "views": 1164,
+        "totalClicks": 966,
+        "onlyFans": 569,
+        "fansly": 255,
         "other": 142,
-        "conversion": 82.9
+        "conversion": 83
       },
       {
         "label": "Порнхаб",
         "modelName": "Юля @lilyuliaxo",
-        "views": 4865,
-        "totalClicks": 861,
+        "views": 4879,
+        "totalClicks": 862,
         "onlyFans": 458,
         "fansly": 248,
-        "other": 155,
+        "other": 156,
         "conversion": 17.7
       },
       {
         "label": "Порнхаб",
         "modelName": "Юля @lilyuliaxo",
-        "views": 1940,
+        "views": 1942,
         "totalClicks": 833,
         "onlyFans": 472,
         "fansly": 243,
@@ -25902,9 +25956,9 @@
       {
         "label": "Иксфлоу",
         "modelName": "Юля @lilyuliaxo",
-        "views": 2172,
-        "totalClicks": 725,
-        "onlyFans": 314,
+        "views": 2175,
+        "totalClicks": 726,
+        "onlyFans": 315,
         "fansly": 264,
         "other": 147,
         "conversion": 33.4
@@ -25962,12 +26016,12 @@
       {
         "label": "Иксфлоу",
         "modelName": "Кейт @bamby_eyes_vip",
-        "views": 230,
-        "totalClicks": 169,
+        "views": 231,
+        "totalClicks": 171,
         "onlyFans": 14,
         "fansly": 13,
-        "other": 142,
-        "conversion": 73.5
+        "other": 144,
+        "conversion": 74
       },
       {
         "label": "Ваптап",
@@ -25982,9 +26036,9 @@
       {
         "label": "Кьюаркод",
         "modelName": "Юля @lilyuliaxo",
-        "views": 141,
-        "totalClicks": 125,
-        "onlyFans": 54,
+        "views": 142,
+        "totalClicks": 126,
+        "onlyFans": 55,
         "fansly": 25,
         "other": 46,
         "conversion": 88.7
@@ -26050,6 +26104,16 @@
         "conversion": 122
       },
       {
+        "label": "Твиттер @KiiiraLunaa",
+        "modelName": "Кейт @bamby_eyes_vip",
+        "views": 52,
+        "totalClicks": 37,
+        "onlyFans": 26,
+        "fansly": 5,
+        "other": 6,
+        "conversion": 71.2
+      },
+      {
         "label": "Твиттер @pretty_uma1",
         "modelName": "Ася @asyabunny",
         "views": 47,
@@ -26068,16 +26132,6 @@
         "fansly": 11,
         "other": 9,
         "conversion": 80
-      },
-      {
-        "label": "Твиттер @KiiiraLunaa",
-        "modelName": "Кейт @bamby_eyes_vip",
-        "views": 50,
-        "totalClicks": 35,
-        "onlyFans": 25,
-        "fansly": 4,
-        "other": 6,
-        "conversion": 70
       },
       {
         "label": "Твиттер @Asya1Bunny",
@@ -26132,12 +26186,12 @@
       {
         "label": "Блюскай без обнаженки",
         "modelName": "Кейт @bamby_eyes_vip",
-        "views": 46,
+        "views": 47,
         "totalClicks": 16,
         "onlyFans": 5,
         "fansly": 10,
         "other": 1,
-        "conversion": 34.8
+        "conversion": 34
       },
       {
         "label": "YouTube UCxjq4jk0PHasXOfkSSGfuJA",
@@ -26372,7 +26426,7 @@
       {
         "label": "Порнхаб",
         "modelName": "Кейт @bamby_eyes_vip",
-        "views": 9,
+        "views": 10,
         "totalClicks": 0,
         "onlyFans": 0,
         "fansly": 0,
