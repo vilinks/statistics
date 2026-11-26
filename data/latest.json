@@ -4,8 +4,8 @@
     "title": "James Statistics",
     "agencyName": "Virgin 67 (six seven) Agency"
   },
-  "publishedAt": "2026-11-26T09:55:17.950Z",
-  "dataGeneratedAt": "2026-11-26T05:54:31.964Z",
+  "publishedAt": "2026-11-26T10:55:20.119Z",
+  "dataGeneratedAt": "2026-11-26T10:54:55.527Z",
   "range": {
     "from": "2025-11-22",
     "to": "2026-11-26"
@@ -3324,15 +3324,19 @@
         },
         {
           "date": "2026-11-26",
-          "arrivals": 2,
+          "arrivals": 5,
           "paidSubscriptions": 0,
           "arrivalSources": [
             {
               "label": "Реддит Sined 1",
-              "value": 1
+              "value": 3
             },
             {
               "label": "blog 27.02.25",
+              "value": 1
+            },
+            {
+              "label": "X Safe | Kate | 2026-10-15",
               "value": 1
             }
           ],
