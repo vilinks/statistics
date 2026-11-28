@@ -4,8 +4,8 @@
     "title": "James Statistics",
     "agencyName": "Virgin 67 (six seven) Agency"
   },
-  "publishedAt": "2026-11-28T08:06:29.632Z",
-  "dataGeneratedAt": "2026-11-28T04:04:41.810Z",
+  "publishedAt": "2026-11-28T09:06:31.128Z",
+  "dataGeneratedAt": "2026-11-28T09:06:08.759Z",
   "range": {
     "from": "2025-11-24",
     "to": "2026-11-28"
@@ -22,7 +22,7 @@
       "platform": "onlyfans",
       "username": "bamby_eyes_vip",
       "dataFrom": "2026-05-01",
-      "dataThrough": "2026-11-27",
+      "dataThrough": "2026-11-28",
       "stale": true,
       "series": [
         {
@@ -3391,6 +3391,14 @@
           ],
           "earnings": 64.85,
           "unansweredMessages": null
+        },
+        {
+          "date": "2026-11-28",
+          "arrivals": 0,
+          "paidSubscriptions": 0,
+          "arrivalSources": [],
+          "earnings": 8,
+          "unansweredMessages": null
         }
       ]
     },
@@ -5488,12 +5496,12 @@
         },
         {
           "date": "2026-11-28",
-          "arrivals": 3,
+          "arrivals": 6,
           "paidSubscriptions": 0,
           "arrivalSources": [
             {
               "label": "Fansly FYP",
-              "value": 3
+              "value": 6
             }
           ],
           "earnings": 0,
@@ -11886,9 +11894,13 @@
         },
         {
           "date": "2026-11-27",
-          "arrivals": 4,
+          "arrivals": 8,
           "paidSubscriptions": 0,
           "arrivalSources": [
+            {
+              "label": "GG SFS",
+              "value": 4
+            },
             {
               "label": "reddit vito 2",
               "value": 3
